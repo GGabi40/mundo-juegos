@@ -1,0 +1,12 @@
+:root {
+    --yellow: ##FFD700;
+    --green: #32CD32;
+    --blue: #00BFFF;
+    --purple: #8A2BE2;
+    --black: #000;
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}

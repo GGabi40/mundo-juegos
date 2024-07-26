@@ -1,0 +1,52 @@
+@use "../base/variables" as v;
+
+nav {
+  background: transparent;
+  position: fixed;
+
+  width: 200px;
+  height: 100vh;
+
+  padding-top: 15px;
+  margin-left: 10px;
+
+  border-right: 1px solid v.$gray;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  overflow-y: auto;
+
+  .col {
+    max-height: 283px;
+    max-width: 150px;
+    min-width: 100px;
+  }
+
+  .categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    padding: 10px;
+
+    .category-link {
+      color: white;
+      display: inline-block;
+      padding: 8px 30px;
+      width: 180px;
+      font-size: 1.6rem;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background-color 0.3s, transform 0.3s;
+    }
+
+    .category-link:hover {
+      background-color: #3c3a55;
+    }
+
+    .category-link:active {
+      color: white;
+    }
+  }
+}
