@@ -20,6 +20,8 @@ export default function Home() {
       <TablaPrincipal />
 
       <div className="principal-games">
+        <h3 className="newest">🆕 Novedad</h3>
+        <BlocsChicos />
         <h3>🎮 Juegos Clásicos</h3>
         <BlocsChicos />
         <h3>🧭 Juegos de Aventura</h3>

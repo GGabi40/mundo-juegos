@@ -43,23 +43,17 @@ export default function Home() {
           <a href="/categories/armas" className="category-link guns">
             🏹 Armas
           </a>
-          <a href="/categories/familiar" className="category-link kitchen">
+          <a href="/categories/cocina" className="category-link kitchen">
             🍔 Cocina
           </a>
           <a href="/categories/carreras" className="category-link rides">
             🏁 Carreras
           </a>
-          <a href="/categories/manejar" className="category-link driving">
+          <a href="/categories/autos" className="category-link driving">
             🚗 Autos
           </a>
           <a href="/categories/motos" className="category-link bikes">
             🏍️ Motos
-          </a>
-          <a
-            href="/categories/educativos"
-            className="category-link educational"
-          >
-            📚 Educativos
           </a>
           <a href="/categories/moda" className="category-link fashion">
             ✨ Moda
@@ -67,11 +61,20 @@ export default function Home() {
           <a href="/categories/vestir" className="category-link dress">
             👕 Vestir
           </a>
+          <a href="/categories/escape" className="category-link scape">
+            🏃 Escape
+          </a>
           <a href="/categories/terror" className="category-link horror">
             💀 Terror
           </a>
-          <a href="/categories/escape" className="category-link scape">
-            🏃 Escape
+          <a href="/categories/medico" className="category-link medic">
+            💊 Médico
+          </a>
+          <a
+            href="/categories/educativos"
+            className="category-link educational"
+          >
+            📚 Educativos
           </a>
           <a href="/categories/matematicas" className="category-link math">
             📒 Matemáticas

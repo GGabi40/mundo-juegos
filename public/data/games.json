@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1",
+    "name": "Fishing Trip",
+    "description": "A fun fishing adventure where you try to catch as many fish as possible.",
+    "srcImage": "/images/juegos/fishingtrip-200.webp",
+    "trailer": "/videos/fishingtrip-trailer.mp4",
+    "category": "Aventura",
+    "rating": 4.5,
+    "releaseDate": "2024-03-15",
+    "developer": "Game Studios Inc.",
+    "platforms": ["Web", "iOS", "Android"],
+    "tags": ["multijugador", "relajante"],
+    "ageRating": "E",
+    "playTime": "15-30 minutos",
+    "price": "gratis",
+    "highlights": ["gráficos coloridos", "mecánica de juego intuitiva"]
+  },
+  {
+    "id": "2",
+    "name": "Traffic Control",
+    "description": "Manage traffic flow in the city and prevent accidents.",
+    "srcImage": "/images/juegos/trafficcontrol300200.webp",
+    "trailer": "/videos/traffic-trailer.mp4",
+    "category": "Estrategia",
+    "rating": 4.2,
+    "releaseDate": "2024-02-20",
+    "developer": "Traffic Games Ltd.",
+    "platforms": ["Web"],
+    "tags": ["estrategia", "desafiante"],
+    "ageRating": "T",
+    "playTime": "30-45 minutos",
+    "price": "1.99 USD",
+    "highlights": ["desafíos progresivos", "modos de juego variados"]
+  }
+]
