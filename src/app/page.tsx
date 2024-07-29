@@ -6,9 +6,9 @@ import "../../styles/app.scss";
 import { useState, useEffect } from "react";
 
 import "./layout";
-import Nav from "./Nav";
-import TablaPrincipal from './TablaPrincipal'
-import BlocsChicos from './BlocsChicos'
+import Nav from "./Components/Nav";
+import TablaPrincipal from './Components/TablaPrincipal'
+import BlocsChicos from './Components/BlocsChicos'
 
 import Image from "next/image";
 import trip from "../../public/images/juegos/fishingtrip-200.webp";

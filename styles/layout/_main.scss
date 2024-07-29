@@ -37,10 +37,11 @@
   border-radius: 8px;
 }
 
-@include m.tablet {
+// TODO: Add a MOBILE VERSION
+@include m.telefono {
   nav > a > img {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
   }
 
   .container {
