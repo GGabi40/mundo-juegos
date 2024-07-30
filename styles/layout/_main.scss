@@ -37,6 +37,22 @@
   border-radius: 8px;
 }
 
+@include m.desktop {
+  nav > a > img {
+    width: 150px;
+    height: 150px;
+  }
+// ESPACIOS VACIOS NO GUSTAN
+  .container {
+    max-width: 80%;
+    // overflow-x: hidden;
+
+    row {
+      gap: 5px;
+    }
+  }
+}
+
 // TODO: Add a MOBILE VERSION
 @include m.telefono {
   nav > a > img {
@@ -52,3 +68,4 @@
     }
   }
 }
+// COMPU CHICA 1000px aprox
