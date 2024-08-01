@@ -3,7 +3,7 @@ import Image from "next/image";
 import traffic from "/public/images/juegos/trafficcontrol300200.webp";
 import trip from "/public/images/juegos/fishingtrip-200.webp";
 
-import BlocsChicos from './BlocsChicos'
+import BlocsChicos from './SmallBlocks'
 
 export default function TablaPrincipal() {
   return (

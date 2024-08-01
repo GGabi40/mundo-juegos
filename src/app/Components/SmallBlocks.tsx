@@ -7,7 +7,7 @@ import trip from "/public/images/juegos/fishingtrip-200.webp";
 
 // Paámetro para saber qué tipo de juego será Ej.: ({ category })
 // se manda: <BlockChicos(nuevo) />  => Parecerán todos los lanzamientos + recientes
-export default function BlocsChicos() {
+export default function SmallBlocks() {
   const [games, setGames] = useState([]);
   const [hoveredGame, setHoveredGame] = useState(null);
 
