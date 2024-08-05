@@ -10,6 +10,8 @@ export default function Home() {
         </a>
 
         <div className="categories">
+          {/* Utilizar LINK */}
+          {/* juegos/categoria */}
           <a
             href="../categories/dos-jugadores"
             className="category-link two-players"

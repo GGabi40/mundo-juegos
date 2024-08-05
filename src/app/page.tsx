@@ -18,11 +18,7 @@ export default function Home() {
 
       <div className="principal-games">
         <h3 className="newest">🆕 Novedad</h3>
-        {/*
-        HACER QUE FUNCIONE
-         <Link href="PlayGames">
-          Visit here
-        </Link> */}
+
         <SmallBlocks />
         <h3>🎮 Juegos Clásicos</h3>
         <SmallBlocks />
