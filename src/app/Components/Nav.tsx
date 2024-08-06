@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <nav>
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="/">
           <Image src={LOGO} width={150} height={150} alt="Mundo Juegos" />
         </a>
 
@@ -13,75 +13,75 @@ export default function Home() {
           {/* Utilizar LINK */}
           {/* juegos/categoria */}
           <a
-            href="../categories/dos-jugadores"
+            href="../dos-jugadores"
             className="category-link two-players"
           >
             🤼 2 Jugadores
           </a>
           <a
-            href="../categories/dos-jugadores"
+            href="../clasicos"
             className="category-link two-players"
           >
             🎮 Clásicos
           </a>
-          <a href="../categories/accion" className="category-link action">
+          <a href="../accion" className="category-link action">
             ⚔️ Acción
           </a>
-          <a href="../categories/aventura" className="category-link adventure">
+          <a href="../aventura" className="category-link adventure">
             🧭 Aventura
           </a>
-          <a href="../categories/puzzle" className="category-link puzzle">
+          <a href="../puzzle" className="category-link puzzle">
             🧩 Puzzle
           </a>
-          <a href="../categories/estrategia" className="category-link strategy">
+          <a href="../estrategia" className="category-link strategy">
             ♟️ Estrategia
           </a>
-          <a href="../categories/cartas" className="category-link cards">
+          <a href="../cartas" className="category-link cards">
             🃏 Cartas
           </a>
-          <a href="../categories/deportes" className="category-link sports">
+          <a href="../deportes" className="category-link sports">
             ⚽ Deportes
           </a>
-          <a href="../categories/armas" className="category-link guns">
+          <a href="../armas" className="category-link guns">
             🏹 Armas
           </a>
-          <a href="../categories/cocina" className="category-link kitchen">
+          <a href="../cocina" className="category-link kitchen">
             🍔 Cocina
           </a>
-          <a href="../categories/carreras" className="category-link rides">
+          <a href="../carreras" className="category-link rides">
             🏁 Carreras
           </a>
-          <a href="../categories/autos" className="category-link driving">
+          <a href="../autos" className="category-link driving">
             🚗 Autos
           </a>
-          <a href="../categories/motos" className="category-link bikes">
+          <a href="../motos" className="category-link bikes">
             🏍️ Motos
           </a>
-          <a href="../categories/moda" className="category-link fashion">
+          <a href="../moda" className="category-link fashion">
             ✨ Moda
           </a>
-          <a href="../categories/vestir" className="category-link dress">
+          <a href="../vestir" className="category-link dress">
             👕 Vestir
           </a>
-          <a href="../categories/escape" className="category-link scape">
+          <a href="../escape" className="category-link scape">
             🏃 Escape
           </a>
-          <a href="../categories/terror" className="category-link horror">
+          <a href="../terror" className="category-link horror">
             💀 Terror
           </a>
-          <a href="../categories/medico" className="category-link medic">
+          <a href="../medico" className="category-link medic">
             💊 Médico
           </a>
           <a
-            href="../categories/educativos"
+            href="../educativos"
             className="category-link educational"
           >
             📚 Educativos
           </a>
-          <a href="../categories/matematicas" className="category-link math">
+          <a href="../matematicas" className="category-link math">
             📒 Matemáticas
           </a>
-          <a href="../categories/musica" className="category-link music">
+          <a href="../musica" className="category-link music">
             🎵 Música
           </a>
         </div>
