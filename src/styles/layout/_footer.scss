@@ -1,0 +1,38 @@
+@use "../base/variables" as v;
+@use "../base/mixins" as m;
+
+.footer {
+  position: relative;
+  left: 210px;
+  background-color: v.$black;
+  padding: 20px 0;
+  color: white;
+  border-top: 1px solid #575757;
+
+  .list-inline-item {
+    margin: 0 10px;
+
+    a {
+      color: v.$yellow;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .social-icons {
+    margin-top: 10px;
+
+    a {
+      color: v.$yellow;
+      font-size: 24px;
+      margin: 0 10px;
+
+      &:hover {
+        color: v.$green;
+      }
+    }
+  }
+}

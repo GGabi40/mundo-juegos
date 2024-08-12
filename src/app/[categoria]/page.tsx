@@ -1,9 +1,22 @@
-import React from "react";
+import "../../styles/app.scss";
 
-export default function juego({ params }: { params: { categoria: string } }) {
+import Nav from "../Components/Nav";
+
+// Página BASE en donde estarán las categorías disponibles
+export default function GameCategories({ params }: { params: { categoria: string } }) {
   return (
     <div>
-      <h1>Juegos de {params.categoria}</h1>
+      <Nav />
+      <div className="container">
+        <div className="contain-container">
+          
+          <div className="backToPrincipal">
+            <a href="/">⬅️ Volver</a>
+          </div>
+
+          <h1>Juegos de {params.categoria}</h1>
+        </div>
+      </div>
     </div>
   );
 }

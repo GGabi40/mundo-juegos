@@ -9,6 +9,9 @@ import "./layout";
 import Nav from "./Components/Nav";
 import TablaPrincipal from "./Components/TablaPrincipal";
 import SmallBlocks from "./Components/SmallBlocks";
+import Footer from "./Components/Footer";
+
+import '../utils/fontAwesome';
 
 export default function Home() {
   return (
@@ -27,6 +30,8 @@ export default function Home() {
         <h3>🍔 Juegos de Cocina</h3>
         <SmallBlocks />
       </div>
+      
+      <Footer />
     </>
   );
 }
