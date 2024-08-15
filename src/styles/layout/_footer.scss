@@ -9,6 +9,11 @@
   color: white;
   border-top: 1px solid #575757;
 
+  ul li {
+    list-style: none;
+    display: inline;
+  }
+
   .list-inline-item {
     margin: 0 10px;
 
@@ -30,9 +35,30 @@
       font-size: 24px;
       margin: 0 10px;
 
+      svg {
+        height: 30px;
+      }
+
       &:hover {
         color: v.$green;
       }
     }
   }
+
+  .ggabi40 {
+    color: white;
+  }
+
+  .ggabi40:visited {
+    color: white;
+  }
+  .ggabi40:hover {
+    text-decoration: underline;
+  }
+}
+
+footer .container {
+  position: relative;
+  right: 220px;
+  text-align: center;
 }

@@ -26,3 +26,39 @@
     position: relative;
     left: 30px;
 }
+
+.contain-info {
+    max-width: 75%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+    .contain-title {
+        height: 55px;
+        padding: 5px 0 5px 20px;
+        border-radius: 8px;
+        background-color: v.$gray;
+    
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .contain-game {
+        height: 625px;
+        background-color: v.$black;
+        border-radius: 8px;
+    }
+
+    .display-game {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-height: 625px;
+    }
+
+    .info p {
+        color: white;
+        margin-bottom: 50px;
+    }
+}
+

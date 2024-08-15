@@ -3,10 +3,6 @@ import Link from "next/link";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-/*     AGG FONT AWESOME
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faFaceRelieved } from '@fortawesome/pro-solid-svg-icons' */
-
 export default function Footer() {
   return (
     <footer className="footer mt-auto py-3">
@@ -30,10 +26,8 @@ export default function Footer() {
           <a href="https://instagram.com/@ggabi40" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={['fab', 'instagram']} />
           </a>
-          <a href="https://ggabi40.github.io/linktree" target="_blank" rel="noopener noreferrer">
-            <FontAwesomeIcon icon='globe' />
-          </a>
         </div>
+        <span>Made with ❤️ by <a href="https://ggabi40.github.io/linktree" target="_blank" rel="noopener noreferrer" className="ggabi40">GGabi40</a>.</span>
       </div>
     </footer>
   );
