@@ -3,6 +3,8 @@ import "../../../styles/app.scss";
 
 import Nav from "../../Components/Nav";
 import Footer from "../../Components/Footer";
+import GameInfo from "./GameInfo";
+import GameIframe from "./GameIframe";
 
 import '../../../utils/fontAwesome';
 
@@ -30,20 +32,22 @@ export default function baseJuegos({ params }: { params: { juego: string } }) {
             <div className="contain-game">
               <div className="display-game">
                 {/* Juego aquí */}
+                {/* <GameIframe
+                  params={{
+                    gameUrl: `https://html5.gamemonetize.co/0f8jl3z2d645u23b3ae08o137dfrf6ie/`
+                  }}
+                /> */}
               </div>
             </div>
 
             <div className="info">
-              <h2>Descripción del Juego:</h2>
-              <p>{/* Descripción */}
-              Step into the dynamic and intriguing world of Hamster cute mer, the ultimate puzzle game that challenges your mind with a twist of personality! In this engaging and addictive game, your goal is to merge and match various iconic faces to create mega-characters and achieve high scores. Gameplay Features: Intuitive Controls: Simply swipe to combine faces and create new, larger characters. Easy to learn, but hard to master! 
-              </p>
-              <h3>Controles:</h3>
-              <p>
-                {/* Controles del juego */}
-                🖱️ Mouse
-                <br /> 📱👈 Touch 
-              </p>
+              {/* Game info */}
+              <GameInfo
+                params={{
+                  description: "Hola",
+                  controls: "🖱️ Mouse e 📱Touch"
+                }}
+              />
             </div>
           </div>
         </div>

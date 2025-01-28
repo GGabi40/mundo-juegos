@@ -11,11 +11,7 @@ export default function Home() {
         <Link className="navbar-brand" href="/">
           <Image src={LOGO} width={150} height={150} alt="Mundo Juegos" />
         </Link>
-
-        <Link href="/login" className="user-login">
-          <FontAwesomeIcon icon="user" />
-        </Link>
-
+        
         <div className="categories">
           {/* juegos/categoria */}
           <Link
