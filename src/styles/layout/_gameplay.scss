@@ -19,7 +19,6 @@
 
 .backToPrincipal a:hover {
     color: v.$blue;
-    font-size: 2.1rem;
 }
 
 .contain-container {
@@ -47,13 +46,6 @@
         height: 625px;
         background-color: v.$black;
         border-radius: 8px;
-    }
-
-    .display-game {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        max-height: 625px;
     }
 
     .info p {

@@ -11,7 +11,6 @@ import '../../../utils/fontAwesome';
 // Página BASE en donde estarán los juegos
 // disponibles para jugar
 export default function baseJuegos({ params }: { params: { juego: string } }) {
-  const height = 625;
 
   return (
     <>
@@ -19,9 +18,6 @@ export default function baseJuegos({ params }: { params: { juego: string } }) {
 
       <div className="container">
         <div className="contain-container">
-          <div className="backToPrincipal">
-            <a href="/">⬅️ Volver</a>
-          </div>
 
           <div className="contain-info">
             <div className="contain-title">
@@ -30,14 +26,11 @@ export default function baseJuegos({ params }: { params: { juego: string } }) {
             </div>
 
             <div className="contain-game">
-              <div className="display-game">
-                {/* Juego aquí */}
-                {/* <GameIframe
-                  params={{
-                    gameUrl: `https://html5.gamemonetize.co/0f8jl3z2d645u23b3ae08o137dfrf6ie/`
-                  }}
-                /> */}
-              </div>
+              <GameIframe
+                params={{
+                  gameUrl: `https://html5.gamemonetize.games/ptog1yv2rirz05wbsbtvc396j280xso8/`
+                }}
+              />
             </div>
 
             <div className="info">
