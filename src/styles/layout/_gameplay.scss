@@ -51,12 +51,7 @@
         .recomendaciones {
             padding: 6px;
             margin-right: 5%;
-
-            h4 {
-                font-size: 1.8rem;
-                margin-bottom: 10px;
-            }
-
+            
             .recomendacion {
                 display: flex;
                 flex-flow: row wrap;
@@ -64,10 +59,10 @@
                 
                 .juegos-recomendados {
                     border-radius: 8px;
+                    border: 1px solid gray;
                     height: 100px;
                     width: 100px;
                     padding: 6px;
-                    background: white;
                 }
             }
         }

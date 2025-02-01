@@ -34,8 +34,8 @@ export default function baseJuegos({ params }: { params: { juego: string, author
               />
 
               <div className="recomendaciones">
-                <h4>Te recomendamos estos juegos:</h4>
                 <div className="recomendacion">
+                  <div className="juegos-recomendados"></div>
                   <div className="juegos-recomendados"></div>
                   <div className="juegos-recomendados"></div>
                   <div className="juegos-recomendados"></div>
