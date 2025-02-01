@@ -23,7 +23,6 @@ export default function baseJuegos({ params }: { params: { juego: string, author
             <div className="contain-title">
               <h1>Juego {params.juego}</h1>
               <h3>By: <span className="author-cred">{/* AUTHOR - BBDD */}</span></h3> {/* VER */}
-              {/* Agg fullscreen */}
             </div>
 
             <div className="contain-game">

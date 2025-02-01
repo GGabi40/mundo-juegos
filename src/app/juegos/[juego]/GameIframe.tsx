@@ -1,10 +1,8 @@
 import "../../../styles/app.scss";
 
-
-export default function GameIframe ({ params }: { params: {
-   gameUrl: string
-  } }) { 
+export default function GameIframe ({ params }: { params: { gameUrl: string } }) {
   return (
+    <div className="game-iframe">
       <iframe
         src={params.gameUrl}
         width="100%"
@@ -12,4 +10,5 @@ export default function GameIframe ({ params }: { params: {
         allowFullScreen
         sandbox="allow-scripts allow-same-origin"
       ></iframe>
+    </div>
 )};
