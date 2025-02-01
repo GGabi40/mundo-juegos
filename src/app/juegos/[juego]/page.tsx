@@ -10,7 +10,7 @@ import '../../../utils/fontAwesome';
 
 // Página BASE en donde estarán los juegos
 // disponibles para jugar
-export default function baseJuegos({ params }: { params: { juego: string } }) {
+export default function baseJuegos({ params }: { params: { juego: string, author: string } }) {
 
   return (
     <>
@@ -22,6 +22,7 @@ export default function baseJuegos({ params }: { params: { juego: string } }) {
           <div className="contain-info">
             <div className="contain-title">
               <h1>Juego {params.juego}</h1>
+              <h3>By: <span className="author-cred">{/* AUTHOR - BBDD */}</span></h3> {/* VER */}
               {/* Agg fullscreen */}
             </div>
 
@@ -31,6 +32,15 @@ export default function baseJuegos({ params }: { params: { juego: string } }) {
                   gameUrl: `https://html5.gamemonetize.games/ptog1yv2rirz05wbsbtvc396j280xso8/`
                 }}
               />
+
+              <div className="recomendaciones">
+                <h4>Te recomendamos estos juegos:</h4>
+                <div className="recomendacion">
+                  <div className="juegos-recomendados"></div>
+                  <div className="juegos-recomendados"></div>
+                  <div className="juegos-recomendados"></div>
+                </div>
+              </div>
             </div>
 
             <div className="info">
