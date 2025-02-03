@@ -2,7 +2,6 @@ import Image from "next/image";
 
 import "../../styles/app.scss";
 import "../../utils/fontAwesome";
-import errorImg from "/public/images/img/error.png";
 
 import Nav from "../Components/Nav";
 
