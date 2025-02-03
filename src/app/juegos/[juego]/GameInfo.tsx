@@ -11,7 +11,7 @@ export default function gameInfo({ params }: { params: { description: string, co
                 {params.controls}
             </p>
             <h3>Categoría:</h3>
-            <div className="categoria">
+            <div className="categoria tags">
             </div>
         </div>
     );

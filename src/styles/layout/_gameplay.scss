@@ -86,44 +86,12 @@
                 padding: 8px;
                 border-radius: 8px;
             }
+        }
 
-            .puzzle, .deportes, .educativos {
-                background-color: green;
-            }
-
-            .aventura, .cocina, .escape {
-                background-color: orangered;
-            }
-
-            .accion, .cartas {
-                background-color: gray;
-            }
-
-            .dos-jugadores, .autos, .motos, .matematica {
-                background-color: red;
-            }
-
-            .clasicos, .estrategia, .musica {
-                background-color: purple;
-            }
-
-            .moda {
-                background-color: yellow;
-                color: black;
-            }
-
-            .terror {
-                background-color: black;
-            }
-
-            .medico {
-                background-color: blue;
-            }
-
-            .carreras {
-                background-color: white;
-                color: black;
-            }
+        .tags p {
+            font-family: 'Rubik';
+            background-color: v.$gray;
+            font-size: 1.4rem;
         }
     }
 
