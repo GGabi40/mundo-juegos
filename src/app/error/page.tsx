@@ -20,10 +20,16 @@ export default function Error() {
             <div className="image-texto">
               <div className="error-title">
                 <h1>Error 404</h1>
-                <h2>Page not found</h2>
+                <h3>Page not found</h3>
               </div>
-              <div className="image">
-                <Image src={errorImg} width={300} height={300} alt="Error 404" />
+              <div className="juego-dino">
+                <div className="game-container">
+                  <iframe
+                    src="https://chromedino.com"
+                    height="300"
+                    title="Juego del Dinosaurio"
+                  ></iframe>
+                </div>
               </div>
             </div>
           </div>
