@@ -1,0 +1,29 @@
+.container-error {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 4%;
+    margin-right: 10%;
+
+    .error-title h1 {
+        text-shadow: 1px 3px 6px blueviolet;
+    }
+
+    .error-title h2 {
+        text-shadow: 1px 2px 6px black;
+    }
+
+    .image-texto {
+        display: flex;
+        flex-flow: row wrap;
+        gap: 40px;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.backToPrincipal {
+    font-size: 2rem;
+    padding-top: 20px;
+}
