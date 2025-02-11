@@ -9,31 +9,21 @@ export default function TablaPrincipal() {
   return (
     <>
       <div className="container text-center">
-        <div className="row">
+        <div className="row w-games">
           <div className="col">
-            <a href="#">
               <Image src={traffic} width={200} height={140} alt="Traffic" />
-            </a>
           </div>
           <div className="col">
-            <a href="#">
-              <Image src={traffic} width={200} height={140} alt="Traffic" />
-            </a>
+            <Image src={traffic} width={200} height={140} alt="Traffic" />
           </div>
           <div className="col">
-            <a href="#">
-              <Image src={traffic} width={200} height={140} alt="Traffic" />
-            </a>
+            <Image src={traffic} width={200} height={140} alt="Traffic" />
           </div>
           <div className="col">
-            <a href="#">
-              <Image src={traffic} width={200} height={140} alt="Traffic" />
-            </a>
+            <Image src={traffic} width={200} height={140} alt="Traffic" />
           </div>
           <div className="col">
-            <a href="#">
-              <Image src={traffic} width={200} height={140} alt="Traffic" />
-            </a>
+            <Image src={traffic} width={200} height={140} alt="Traffic" />
           </div>
         </div>
 

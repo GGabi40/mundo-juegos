@@ -2,7 +2,7 @@
 @use "../base/mixins" as m;
 
 .container {
-  margin-left: 210px;
+  margin-left: 215px;
   padding-top: 25px;
 }
 
@@ -30,9 +30,41 @@
   margin-bottom: 20px;
 }
 
+.w-games {
+  overflow-x: auto;
+  white-space: nowrap;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  scrollbar-width: thin;
+  scrollbar-color: v.$purple v.$fondo;
+  height: auto;
+}
+
+.w-games::-webkit-scrollbar {
+  height: 8px;
+}
+
+.w-games::-webkit-scrollbar {
+  height: 8px;
+}
+
+.w-games::-webkit-scrollbar-track {
+  background: v.$fondo;
+  border-radius: 10px;
+}
+
+.w-games::-webkit-scrollbar-thumb {
+  background: v.$purple;
+  border-radius: 10px;
+}
+
+.w-games::-webkit-scrollbar-thumb:hover {
+  background: v.$blue;
+}
+
 .col {
   padding: 3px;
-  // border: 1px solid red;
   max-width: 100%;
   border-radius: 8px;
 }

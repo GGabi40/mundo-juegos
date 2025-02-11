@@ -20,19 +20,46 @@ export default function SmallBlocks() {
   return (
     <>
       <div className="container text-center">
-        <div className="row">
+        <div className="row w-games">
           <div className="col">
             <Image src={trip} width={100} height={100} alt="Traffic" />
           </div>
           <div className="col">
             <Image src={trip} width={100} height={100} alt="Traffic" />
           </div>
-          <div className="col">col</div>
-          <div className="col">col</div>
-          <div className="col">col</div>
-          <div className="col">col</div>
-          <div className="col">col</div>
-          <div className="col">col</div>
+          <div className="col">
+            <Image src={trip} width={100} height={100} alt="Traffic" />
+          </div>
+          <div className="col">
+            <Image src={trip} width={100} height={100} alt="Traffic" />
+          </div>
+          <div className="col">
+            <Image src={trip} width={100} height={100} alt="Traffic" />
+          </div>
+          <div className="col">
+            <Image src={trip} width={100} height={100} alt="Traffic" />
+          </div>
+          <div className="col">
+            <Image src={trip} width={100} height={100} alt="Traffic" />
+          </div>
+          <div className="col">
+            <Image src={trip} width={100} height={100} alt="Traffic" />
+          </div>
+          <div className="col">
+            <Image src={trip} width={100} height={100} alt="Traffic" />
+          </div>
+          <div className="col">
+            <Image src={trip} width={100} height={100} alt="Traffic" />
+          </div>
+          <div className="col">
+            <Image src={trip} width={100} height={100} alt="Traffic" />
+          </div>
+          <div className="col">
+            <Image src={trip} width={100} height={100} alt="Traffic" />
+          </div>
+          <div className="col">
+            <Image src={trip} width={100} height={100} alt="Traffic" />
+          </div>
         </div>
       </div>
     </>
