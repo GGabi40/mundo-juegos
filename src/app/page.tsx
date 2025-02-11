@@ -18,18 +18,7 @@ export default function Home() {
     <>
       <Nav />
       <MainTable />
-
-      <div className="principal-games">
-        <h3 className="newest">🆕 Novedad</h3>
-
-        <SmallBlocks />
-        <h3>🎮 Juegos Clásicos</h3>
-        <SmallBlocks />
-        <h3>🧭 Juegos de Aventura</h3>
-        <SmallBlocks />
-        <h3>🍔 Juegos de Cocina</h3>
-        <SmallBlocks />
-      </div>
+      <SmallBlocks />
       
       <Footer />
     </>
