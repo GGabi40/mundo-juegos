@@ -5,7 +5,7 @@ import trip from "/public/images/juegos/fishingtrip-200.webp";
 
 import BlocsChicos from './SmallBlocks'
 
-export default function TablaPrincipal() {
+export default function MainTable() {
   return (
     <>
       <div className="container text-center">

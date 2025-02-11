@@ -7,7 +7,7 @@ import Link from "next/link";
 
 import "./layout";
 import Nav from "./Components/Nav";
-import TablaPrincipal from "./Components/TablaPrincipal";
+import MainTable from "./Components/MainTable";
 import SmallBlocks from "./Components/SmallBlocks";
 import Footer from "./Components/Footer";
 
@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
       <Nav />
-      <TablaPrincipal />
+      <MainTable />
 
       <div className="principal-games">
         <h3 className="newest">🆕 Novedad</h3>
