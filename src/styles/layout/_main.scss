@@ -39,6 +39,23 @@
   scrollbar-width: thin;
   scrollbar-color: v.$purple v.$fondo;
   height: auto;
+
+  h5 {
+    display: block;
+    text-transform: capitalize;
+    text-wrap: wrap;
+    padding: 5px;
+    text-align: center;
+
+    transition: all 0.3s ease-in-out;
+  }
+
+  .col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 .w-games::-webkit-scrollbar {
