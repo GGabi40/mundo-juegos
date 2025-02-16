@@ -1,5 +1,19 @@
 @use "../base/variables" as v;
 
+nav::-webkit-scrollbar-track {
+  background: v.$fondo;
+  border-radius: 10px;
+}
+
+nav::-webkit-scrollbar-thumb {
+  background: v.$purple;
+  border-radius: 10px;
+}
+
+nav::-webkit-scrollbar-thumb:hover {
+  background: v.$blue;
+}
+
 nav {
   background: transparent;
   position: fixed;
@@ -8,7 +22,7 @@ nav {
   height: 100vh;
 
   padding-top: 15px;
-  margin-left: 10px;
+  margin-left: 8px;
 
   border-right: 1px solid v.$gray;
 
@@ -17,6 +31,8 @@ nav {
   flex-direction: column;
 
   overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: v.$purple v.$fondo;
 
   .col {
     max-height: 283px;
@@ -33,9 +49,10 @@ nav {
     .category-link {
       color: white;
       display: inline-block;
-      padding: 8px 30px;
+      padding: 8px 20px;
       max-width: 180px;
-      min-width: 150px;
+      width: 170px;
+      min-width: 170px;
       font-size: 1.6rem;
       text-decoration: none;
       border-radius: 8px;

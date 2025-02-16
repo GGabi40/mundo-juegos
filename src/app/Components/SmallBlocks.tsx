@@ -1,39 +1,45 @@
+"use client";
+
 import { useState, useEffect } from "react";
 
 import Image from "next/image";
 
-import traffic from "/public/images/juegos/trafficcontrol300200.webp";
-import trip from "/public/images/juegos/fishingtrip-200.webp";
+interface Game {
+  id: number;
+  title: string;
+  author: string;
+  image: string;
+  video: string;
+  description: string;
+  iframeCode: string;
+  categories: string[];
+};
 
-// Paámetro para saber qué tipo de juego será Ej.: ({ category })
-// se manda: <BlockChicos(nuevo) />  => Parecerán todos los lanzamientos + recientes
-export default function SmallBlocks() {
-  const [games, setGames] = useState([]);
-  const [hoveredGame, setHoveredGame] = useState(null);
+export default function SmallBlocks({ category }: { category: string }) {
+  const [games, setGames] = useState<Game[]>([]);
 
   useEffect(() => {
-    fetch('../../public/data/games.json')
+    fetch('/data/games.json')
       .then(response => response.json())
-      .then(data => setGames(data));
+      .then((data: Game[]) => setGames(data))
+      .catch(e => console.error("¡Algo pasó! ", e));
   }, []);
+
+  const getGameByCategory = (category: string) => {
+    return games.filter((game) => game.categories.includes(category));
+  };
+
+  const gamesByCategory = getGameByCategory(category);
 
   return (
     <>
-      <div className="container text-center">
-        <div className="row">
-          <div className="col">
-            <Image src={trip} width={100} height={100} alt="Traffic" />
-          </div>
-          <div className="col">
-            <Image src={trip} width={100} height={100} alt="Traffic" />
-          </div>
-          <div className="col">col</div>
-          <div className="col">col</div>
-          <div className="col">col</div>
-          <div className="col">col</div>
-          <div className="col">col</div>
-          <div className="col">col</div>
-        </div>
+      <div className="row w-games">
+        {gamesByCategory.map((game) => (
+            <div key={game.id} className="col">
+              <Image src={game.image} width={100} height={100} alt={game.title} className="game-image" />
+              <h5>{game.title}</h5>
+            </div>
+        ))}
       </div>
     </>
   );

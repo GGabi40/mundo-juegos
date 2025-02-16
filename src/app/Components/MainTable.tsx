@@ -3,37 +3,25 @@ import Image from "next/image";
 import traffic from "/public/images/juegos/trafficcontrol300200.webp";
 import trip from "/public/images/juegos/fishingtrip-200.webp";
 
-import BlocsChicos from './SmallBlocks'
-
-export default function TablaPrincipal() {
+export default function MainTable() {
   return (
     <>
       <div className="container text-center">
-        <div className="row">
+        <div className="row w-games">
           <div className="col">
-            <a href="#">
               <Image src={traffic} width={200} height={140} alt="Traffic" />
-            </a>
           </div>
           <div className="col">
-            <a href="#">
-              <Image src={traffic} width={200} height={140} alt="Traffic" />
-            </a>
+            <Image src={traffic} width={200} height={140} alt="Traffic" />
           </div>
           <div className="col">
-            <a href="#">
-              <Image src={traffic} width={200} height={140} alt="Traffic" />
-            </a>
+            <Image src={traffic} width={200} height={140} alt="Traffic" />
           </div>
           <div className="col">
-            <a href="#">
-              <Image src={traffic} width={200} height={140} alt="Traffic" />
-            </a>
+            <Image src={traffic} width={200} height={140} alt="Traffic" />
           </div>
           <div className="col">
-            <a href="#">
-              <Image src={traffic} width={200} height={140} alt="Traffic" />
-            </a>
+            <Image src={traffic} width={200} height={140} alt="Traffic" />
           </div>
         </div>
 
@@ -49,9 +37,8 @@ export default function TablaPrincipal() {
         </div>
       </div>
 
-      <BlocsChicos />
-
-      <div className="container text-center">
+      <div className="container">
+        <h3>✨ Recomendados</h3>
         <div className="row">
           <div className="col">
             <Image src={trip} width={180} height={200} alt="Traffic" />

@@ -1,36 +1,2713 @@
 [
   {
-    "id": "1",
-    "name": "Fishing Trip",
-    "description": "A fun fishing adventure where you try to catch as many fish as possible.",
-    "srcImage": "/images/juegos/fishingtrip-200.webp",
-    "trailer": "/videos/fishingtrip-trailer.mp4",
-    "category": "Aventura",
-    "rating": 4.5,
-    "releaseDate": "2024-03-15",
-    "developer": "Game Studios Inc.",
-    "platforms": ["Web", "iOS", "Android"],
-    "tags": ["multijugador", "relajante"],
-    "ageRating": "E",
-    "playTime": "15-30 minutos",
-    "price": "gratis",
-    "highlights": ["gráficos coloridos", "mecánica de juego intuitiva"]
+    "id": 1,
+    "title": "Sprunki Drop",
+    "author": "Mapi Games",
+    "image": "https://img.gamemonetize.com/g2v5wciudv1n2sjwythcfjzgvpnfav8u/512x384.jpg",
+    "video": "https://gamemonetize.video/video/g2v5wciudv1n2sjwythcfjzgvpnfav8u-1736937903.mp4",
+    "description": "Help Sprunki escape from the dark forest prison! Sprunki Drop is a thrilling physics-based puzzle game featuring 60 exciting levels of fun and challenges.\nYour mission is to remove all the boxes except the grass where the prison is standing. Simply tap or click on the boxes or blocks to destroy them. Use the set blocks cleverly and strategically to guide Sprunki safely onto the grass. Be careful and precise to solve each level! Help Sprunki on this adventurous escape and enjoy hours of entertaining gameplay in this delightful physics puzzle!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/g2v5wciudv1n2sjwythcfjzgvpnfav8u/\" width=\"1280\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/g2v5wciudv1n2sjwythcfjzgvpnfav8u/\" width=\"1280\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Clicker",
+      "Puzzle",
+      "Block",
+      "mapi games",
+      "Physics",
+      "puzzleblock",
+      "Sprunki"
+    ]
   },
   {
-    "id": "2",
-    "name": "Traffic Control",
-    "description": "Manage traffic flow in the city and prevent accidents.",
-    "srcImage": "/images/juegos/trafficcontrol300200.webp",
-    "trailer": "/videos/traffic-trailer.mp4",
-    "category": "Estrategia",
-    "rating": 4.2,
-    "releaseDate": "2024-02-20",
-    "developer": "Traffic Games Ltd.",
-    "platforms": ["Web"],
-    "tags": ["estrategia", "desafiante"],
-    "ageRating": "T",
-    "playTime": "30-45 minutos",
-    "price": "1.99 USD",
-    "highlights": ["desafíos progresivos", "modos de juego variados"]
+    "id": 2,
+    "title": "Squid Game Sprunki Escaped Backrooms",
+    "author": "breyman games",
+    "image": "https://img.gamemonetize.com/pepl27twcvoolxbrmy2kv4bmehb5s166/512x384.jpg",
+    "video": "https://gamemonetize.video/video/pepl27twcvoolxbrmy2kv4bmehb5s166-1737542835.mp4",
+    "description": "Now Sprunki has a nightmare. He has transformed to the snake and have to escaped from Backrooms. Unfortunately Squid Game soldier lurking around search for him!\nKill them all and escape! good luck",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/pepl27twcvoolxbrmy2kv4bmehb5s166/\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/pepl27twcvoolxbrmy2kv4bmehb5s166/\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Adventure",
+      "2 Player",
+      "3D",
+      "Animal",
+      "Arcade",
+      "Snake",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Sprunki Find The Differences",
+    "author": "CB Games",
+    "image": "https://img.gamemonetize.com/bs7j4sn0t3lqi1y301b9j76so4x5080h/512x384.jpg",
+    "video": "https://gamemonetize.video/video/bs7j4sn0t3lqi1y301b9j76so4x5080h-1733828933.mp4",
+    "description": "Inspired by the charming world of Sprunki, this game takes your observation skills to the next level. Dive into beautifully crafted scenes filled with vibrant details, where your task is to spot the differences between two seemingly identical images.\nWhether youre a fan of Sprunki or just love a good brain teaser, Sprunki Find The Differences offers a perfect mix of challenge and fun for players of all ages. Sharpen your focus, enjoy delightful visuals, and immerse yourself in a game thats as engaging as it is entertaining.\nStart your difference-finding adventure today and prove youre the ultimate spot-the-difference champion!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/bs7j4sn0t3lqi1y301b9j76so4x5080h/\" width=\"1920\" height=\"1080\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/bs7j4sn0t3lqi1y301b9j76so4x5080h/\" width=\"1920\" height=\"1080\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Hypercasual",
+      "Puzzle",
+      "Boys",
+      "Difference",
+      "Educational",
+      "Girls",
+      "Hidden",
+      "Hypercasual",
+      "Puzzle",
+      "School",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Sprunki Money Stack Incredibox",
+    "author": "breyman games",
+    "image": "https://img.gamemonetize.com/pqdll0sasgbsf0o31ifz1mxflgl76ygr/512x384.jpg",
+    "video": "https://gamemonetize.video/video/pqdll0sasgbsf0o31ifz1mxflgl76ygr-1737630281.mp4",
+    "description": "Now Sprunki must gather as much money as possible, collect all the money and multiplied it to buy a new house and upgrades all his life behavior!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/pqdll0sasgbsf0o31ifz1mxflgl76ygr/\" width=\"460\" height=\"700\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/pqdll0sasgbsf0o31ifz1mxflgl76ygr/\" width=\"460\" height=\"700\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Hypercasual",
+      "Puzzle",
+      ".io Games",
+      "1 Player",
+      "Action",
+      "Adventure",
+      "Slot Machine",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Blast Sprunki",
+    "author": "Mapi Games",
+    "image": "https://img.gamemonetize.com/0koq56k6nldcn2ztz4ir2x0fxnszcl1w/512x384.jpg",
+    "video": "https://gamemonetize.video/video/0koq56k6nldcn2ztz4ir2x0fxnszcl1w-1736496368.mp4",
+    "description": "Hey, the cute Green Sprunki needs your help to escape from this dark world! Your mission is to guide Sprunki safely to the designated area with the least number of attempts.\nStrategically place explosives to propel Sprunki in the right direction, but be careful - dangerous spikes, obstacles, and tricky terrain can end your journey prematurely.\nEach level introduces unique challenges requiring precise timing, strategy, and creativity.\nTest your skills by aiming to earn three stars on every level through smart moves and minimal attempts.\nCan you lead Sprunki to safety and become a true master of precision?",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/0koq56k6nldcn2ztz4ir2x0fxnszcl1w/\" width=\"1024\" height=\"768\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/0koq56k6nldcn2ztz4ir2x0fxnszcl1w/\" width=\"1024\" height=\"768\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Puzzle",
+      "Block",
+      "Bomb",
+      "HTML5",
+      "mapi games",
+      "Puzzle",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Sprunki Island Survival Shooting",
+    "author": "BestCrazyGames",
+    "image": "https://img.gamemonetize.com/7liinqcjnowez1fprit93jaisys36v9c/512x384.jpg",
+    "video": "https://gamemonetize.video/video/7liinqcjnowez1fprit93jaisys36v9c-1735644808.mp4",
+    "description": "Youre stranded on an island, facing an invasion of Sprunki determined to destroy you. Arm yourself with two guns and fight back! Eliminate the Sprunki before they overwhelm you. Survival depends on your shooting skills and quick thinking. Defend yourself and endure against the relentless Sprunki attack! Website Dev: https://www.crazygamesonline.com/",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/7liinqcjnowez1fprit93jaisys36v9c/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/7liinqcjnowez1fprit93jaisys36v9c/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Shooting",
+      "First Person Shooter",
+      "Mentolatux",
+      "Shooting",
+      "Sprunki",
+      "survival",
+      "Unity3D",
+      "WebGL"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Sprunki Murdered Incredibox",
+    "author": "breyman games",
+    "image": "https://img.gamemonetize.com/o3h4zygmu802lz4tngxe8xbx8t1y5i9x/512x384.jpg",
+    "video": "https://gamemonetize.video/video/o3h4zygmu802lz4tngxe8xbx8t1y5i9x-1735302340.mp4",
+    "description": "Now its time to murder Sprunki inin this epic fight!\nGrab any item to burn Sprunki to the eternal flame of death!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/o3h4zygmu802lz4tngxe8xbx8t1y5i9x/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/o3h4zygmu802lz4tngxe8xbx8t1y5i9x/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Adventure",
+      "huggy",
+      "Skibidi Toilet",
+      "Sprunki",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Sprunki Jigsaw Puzzle",
+    "author": "SoulHouse",
+    "image": "https://img.gamemonetize.com/135nsbm8dq5vivwk71a9tg9g7jjqstst/512x384.jpg",
+    "video": "https://gamemonetize.video/video/135nsbm8dq5vivwk71a9tg9g7jjqstst-1734689070.mp4",
+    "description": "Welcome to Sprunki Jigsaw Puzzle Game!\nDrag and drop the Sprunki Jigsaw pieces to complete the amazing pictures.\nChallenge your brain! Start with the edges and remember the colors in the pictures to finish quickly.\nCan you solve all the puzzles?",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/135nsbm8dq5vivwk71a9tg9g7jjqstst/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/135nsbm8dq5vivwk71a9tg9g7jjqstst/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Puzzle",
+      "Jigsaw",
+      "Puzzle",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Sprunki Castle Panic Skibidi Toilet",
+    "author": "breyman games",
+    "image": "https://img.gamemonetize.com/qbu9r1t6we54pvix91sfnol5at7jbzvo/512x384.jpg",
+    "video": "https://gamemonetize.video/video/qbu9r1t6we54pvix91sfnol5at7jbzvo-1736421051.mp4",
+    "description": "Now Sprunki Castle Panic Skibidi Toilet must escape from Skibidi Toilet in Castle Incredibox. Get all coin to get access  to exit.\nNow there is no easy escape, beware!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/qbu9r1t6we54pvix91sfnol5at7jbzvo/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/qbu9r1t6we54pvix91sfnol5at7jbzvo/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Adventure",
+      "Christmas",
+      "huggy",
+      "Skibidi",
+      "Skibidi Toilet",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Sprunki Incredibox Differences",
+    "author": "New Kids Games",
+    "image": "https://img.gamemonetize.com/xrsube9lt82eajgwfhoncszreqevb5ad/512x384.jpg",
+    "video": "https://gamemonetize.video/video/xrsube9lt82eajgwfhoncszreqevb5ad-1736166070.mp4",
+    "description": "In this game Sprunki Incredibox Differences you need to keep locate differences between the two pictures in the limited amount of time given to play each time! To play, use your mouse as control. Make sure that you don’t make a mistake more than three times because that will make you fail. One minute is the total time you will play through the 20 levels in this game! In each level you have ten differences. Good luck!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/xrsube9lt82eajgwfhoncszreqevb5ad/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/xrsube9lt82eajgwfhoncszreqevb5ad/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Puzzle",
+      "Best",
+      "Difference",
+      "Kids",
+      "Music",
+      "Skill",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Sprunki Stick",
+    "author": "Mapi Games",
+    "image": "https://img.gamemonetize.com/9gmcf46f917hda99qv6q4k69au3h0q6s/512x384.jpg",
+    "video": "https://gamemonetize.video/video/9gmcf46f917hda99qv6q4k69au3h0q6s-1737452950.mp4",
+    "description": "Hey help the Sprunki to stretch the stick the more you can to reach and walk on the platforms. Beware! If the stick is not long enough, you will fall down! Get yourself in the ninja action! How far can you go? Enjoy it!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/9gmcf46f917hda99qv6q4k69au3h0q6s/\" width=\"1024\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/9gmcf46f917hda99qv6q4k69au3h0q6s/\" width=\"1024\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Hypercasual",
+      "mapi games",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Sprunki s WORLD All MOD",
+    "author": "jimo Game",
+    "image": "https://img.gamemonetize.com/9ppiron0s93l4kxd8lccgsg8s0q115j1/512x384.jpg",
+    "video": "https://gamemonetize.video/video/9ppiron0s93l4kxd8lccgsg8s0q115j1-1737723211.mp4",
+    "description": "Discover Sprunki Incredibox: A Fan-Made Musical Adventure\nIf youre a fan of Incredibox, youre going to love Sprunki Incredibox! This fan-made mod takes the beloved creativity and music-mixing fun of the original game to exciting new levels. At sprunki.org, were thrilled to present this vibrant and imaginative experience, packed with unique features that make it a must-play for music enthusiasts and gamers alike.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/9ppiron0s93l4kxd8lccgsg8s0q115j1/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/9ppiron0s93l4kxd8lccgsg8s0q115j1/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Music",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Counter Craft Classic",
+    "author": "G55.CO",
+    "image": "https://img.gamemonetize.com/6uub4x1kky7d9prlxkqydgpbm8zq82jv/512x384.jpg",
+    "video": "https://gamemonetize.video/video/6uub4x1kky7d9prlxkqydgpbm8zq82jv-1738671934.mp4",
+    "description": "Counter Craft Classic is a first person shooter game which combines blocky minecraft world with counter-strike action. Your mission is to use big arsenal of weapons to shoot all blocky creatures and find the exit on each level in order to progress.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/6uub4x1kky7d9prlxkqydgpbm8zq82jv/\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/6uub4x1kky7d9prlxkqydgpbm8zq82jv/\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Shooting",
+      "3D",
+      "3D Games",
+      "Action",
+      "CSGO",
+      "First Person Shooter",
+      "Minecraft",
+      "Shoot",
+      "Shoot 'Em Up",
+      "Shooter",
+      "Shooting",
+      "Unity3D",
+      "Zombie"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Gem Deep Digger",
+    "author": "cargames.com",
+    "image": "https://img.gamemonetize.com/re97bbtfuqfddinkmpo3ynmg6z0qm4pw/512x384.jpg",
+    "video": "https://gamemonetize.video/video/re97bbtfuqfddinkmpo3ynmg6z0qm4pw-1738671804.mp4",
+    "description": "Dive deep into the underground world of Gem Deep Digger. In a fun and addictive simulation game,you dig, collect, and upgrade to uncover hidden treasures. With simple one-button controls, anyone can become the ultimate miner. Use your dig to carve through layers of dirt and rock, uncovering sparkling gems in the ground.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/re97bbtfuqfddinkmpo3ynmg6z0qm4pw/\" width=\"750\" height=\"1624\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/re97bbtfuqfddinkmpo3ynmg6z0qm4pw/\" width=\"750\" height=\"1624\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Hypercasual",
+      "Adventure",
+      "Simulation",
+      "Strategy"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Capybara Screw Jam",
+    "author": "puzzle game",
+    "image": "https://img.gamemonetize.com/dvbqtpbr6ipoblz65oxxy3em8kdy13xt/512x384.jpg",
+    "video": "https://gamemonetize.video/video/dvbqtpbr6ipoblz65oxxy3em8kdy13xt-1738671792.mp4",
+    "description": "Welcome to Capybara Screw Jam! This is a cute and brain-teasing puzzle game. You’ll join a lovable capybara on a journey of problem-solving and strategy. With simple gameplay and increasing challenges, it’s the perfect game for anyone who loves casual puzzles and brain workouts. Your goal is to help the capybara solve various puzzle challenges. Each level presents various colors of capybara.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/dvbqtpbr6ipoblz65oxxy3em8kdy13xt/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/dvbqtpbr6ipoblz65oxxy3em8kdy13xt/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Adventure",
+      "Brain",
+      "Puzzle",
+      "Strategy"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Merge the New Year: New Year Balls!",
+    "author": "SoManyGames",
+    "image": "https://img.gamemonetize.com/lmoi8kgjgm19lfty7t02zvpla35mfq7p/512x384.jpg",
+    "video": "https://gamemonetize.video/video/lmoi8kgjgm19lfty7t02zvpla35mfq7p-1738671739.mp4",
+    "description": "This game is in the style of the New Year! You have to throw balls along five lines! Your task is to connect the same ones until you get the most beautiful one! Collect points! Compete with friends and colleagues for the title of the best!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/lmoi8kgjgm19lfty7t02zvpla35mfq7p/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/lmoi8kgjgm19lfty7t02zvpla35mfq7p/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Hypercasual",
+      "1 Player",
+      "2048",
+      "3D",
+      "Android",
+      "Ball"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Chill Math Addition",
+    "author": "LofGames.com",
+    "image": "https://img.gamemonetize.com/svfa7zesk1cgafkfbrt9spjcawy2sygv/512x384.jpg",
+    "video": "https://gamemonetize.video/video/svfa7zesk1cgafkfbrt9spjcawy2sygv-1738671835.mp4",
+    "description": "In this game, a winter image is hidden beneath addition expression tiles. Players must drag and drop the correct number bauble onto the matching tiles to solve the expressions. As each expression is solved, the winter image gradually gets revealed. The goal is to uncover the entire image by completing all the math problems correctly.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/svfa7zesk1cgafkfbrt9spjcawy2sygv/\" width=\"600\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/svfa7zesk1cgafkfbrt9spjcawy2sygv/\" width=\"600\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Puzzle",
+      "Educational",
+      "html5 games",
+      "Math",
+      "Mobile",
+      "Puzzle",
+      "School"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Falling Balls: Sand Path",
+    "author": "GreeMead",
+    "image": "https://img.gamemonetize.com/xgrv642rzxl6kerivavly13f29eowuz0/512x384.jpg",
+    "video": "https://gamemonetize.video/video/xgrv642rzxl6kerivavly13f29eowuz0-1738671818.mp4",
+    "description": "Welcome to the fascinating world of the game, where balls and sand become part of an exciting adventure!\nYour task is to guide the balls through sand levels, destroying obstacles in their path. Use logic, ingenuity and precise calculation to clear the way, avoiding traps and overcoming difficult obstacles.\nGame features:\n-Many unique levels - from easy to real challenges.\n-Interactive physics - sand reacts to your every action.\n-Various obstacles - traps, moving platforms, blocks and much more.\n-Exciting gameplay - plan your actions to guide the balls to the finish line.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/xgrv642rzxl6kerivavly13f29eowuz0/\" width=\"1080\" height=\"1920\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/xgrv642rzxl6kerivavly13f29eowuz0/\" width=\"1080\" height=\"1920\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Hypercasual",
+      "Puzzle",
+      "1 Player",
+      "2D",
+      "amazing",
+      "Ball",
+      "Battle",
+      "Casual",
+      "free html5 games for your website",
+      "Game",
+      "html5 games",
+      "Hypercasual",
+      "Kids",
+      "Levels",
+      "unity",
+      "WebGL"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Subway Buddy Road Runner",
+    "author": "APPTECH STUDIOS",
+    "image": "https://img.gamemonetize.com/zkg9hfg3hekx3505s7ax2y4o54cw49ao/512x384.jpg",
+    "video": "https://gamemonetize.video/video/zkg9hfg3hekx3505s7ax2y4o54cw49ao-1738671907.mp4",
+    "description": "Play Addictive Subway Buddy Road Runner Free Game.\n** PLAY **\n+Drag left,right to change the Road Lane\n+Drag up to jump the Obstacles\n+Drag down to slide Hurdles\nPlay Addictive Subway Buddy Road Runner Free Game with Colorful HD graphics.\n-- Game Features --\n+ Colorful HD graphics\n+ Easy One Touch Controls & Game Play\n+ Nice 3D Graphics and Sounds,\n+ Collect the Coins to Play the Game\n+ Colorful & Best Smooth Graphics\n+ Nice Background Music & Sound Effects\n+ Intense and Exciting Game.\n+ Many Obstacles to Jump Over & to avoid.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/zkg9hfg3hekx3505s7ax2y4o54cw49ao/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/zkg9hfg3hekx3505s7ax2y4o54cw49ao/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "3D",
+      "Arcade",
+      "3D",
+      "3D Games",
+      "Arcade",
+      "Unity3D"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Fantasy Math Number",
+    "author": "Cat Summer",
+    "image": "https://img.gamemonetize.com/8g19hpioaauhg7015d5hyctkfu8koh1j/512x384.jpg",
+    "video": "https://gamemonetize.video/video/8g19hpioaauhg7015d5hyctkfu8koh1j-1738671879.mp4",
+    "description": "Embark on an epic adventure in Fantasy Math Number! Test your math skills in exciting battles against monsters by solving addition, subtraction, and multiplication problems. Every correct answer brings you closer to victory! Power up, defeat enemies, and aim for the highest score in this fun and educational math quest!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/8g19hpioaauhg7015d5hyctkfu8koh1j/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/8g19hpioaauhg7015d5hyctkfu8koh1j/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Arcade",
+      "Adventure",
+      "Fantasy",
+      "Math"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "MCraft TNT 2 Player Game",
+    "author": "AFK Gamestudio",
+    "image": "https://img.gamemonetize.com/im338qab7zdca1svduu0hxodibvkiddo/512x384.jpg",
+    "video": "https://gamemonetize.video/video/im338qab7zdca1svduu0hxodibvkiddo-1738671872.mp4",
+    "description": "Are you up for an intense challenge with your friends? You should compete against your friend.Its the perfect time for a race with your friend. The one who collects flying TNTs the fastest wins. There are two teams, red and blue. The team that collects the most TNTs wins. The first to collect 20 TNTs wins. You must collect them before your friend does. Catch the TNTs flying in the air.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/im338qab7zdca1svduu0hxodibvkiddo/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/im338qab7zdca1svduu0hxodibvkiddo/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "2 Player",
+      "Arcade",
+      "2 Player",
+      "2 Player Games",
+      "2D",
+      "Arcade"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Power On",
+    "author": "Games Hub Studio",
+    "image": "https://img.gamemonetize.com/fbxmp2ui8qg220ory7nkgwo1kdq4p0bv/512x384.jpg",
+    "video": "https://gamemonetize.video/video/fbxmp2ui8qg220ory7nkgwo1kdq4p0bv-1738671858.mp4",
+    "description": "n Power On, a demanding HTML5 skill game, your objective is to illuminate every bulb in the least amount of time possible. To do this, you must correctly connect all the wires to the power supply. The difficulty of the game increases as you maneuver through intricate wire systems and make quick choices to turn on all the bulbs. To excel in Power On, strategize your moves thoughtfully and apply strategic thinking for optimal performance. Strive for minimal wire rotations to conserve time. Remember, not every bulb will have a direct connection to the power supply. Utilize junctions and intersections effectively.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/fbxmp2ui8qg220ory7nkgwo1kdq4p0bv/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/fbxmp2ui8qg220ory7nkgwo1kdq4p0bv/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Hypercasual",
+      "Puzzle",
+      "amazing",
+      "Android",
+      "Casual",
+      "Girls",
+      "puzzleblock",
+      "Strategy"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Craftsman Gangster Theft Auto",
+    "author": "BestCrazyGames",
+    "image": "https://img.gamemonetize.com/arqa10jqzqzo1ybvfddu4bvucn7ny888/512x384.jpg",
+    "video": "https://gamemonetize.video/video/arqa10jqzqzo1ybvfddu4bvucn7ny888-1738671848.mp4",
+    "description": "Play the challenging game Craftsman Gangster Theft Auto (2025) to boost your mood with action and adventure. Prepare your car simulator for this dangerous gang robbery game. Craftsman Gangster Theft Auto is an exciting action game for mafia game lovers. Enjoy major missions in a crime-filled environment. More games here on https://www.bestcrazygames.com/ . Practice your gangster hero mania in this immoral mafia city.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/arqa10jqzqzo1ybvfddu4bvucn7ny888/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/arqa10jqzqzo1ybvfddu4bvucn7ny888/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Shooting",
+      "blocky",
+      "fps",
+      "Mentolatux",
+      "Minecraft",
+      "Shooting",
+      "unity",
+      "WebGL"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Vibrant Hearts Glamour vs Punk",
+    "author": "DL-studio",
+    "image": "https://img.gamemonetize.com/ngw6c5wm23kfcoj85w87j55qasguaqwp/512x384.jpg",
+    "video": "https://gamemonetize.video/video/ngw6c5wm23kfcoj85w87j55qasguaqwp-1738671944.mp4",
+    "description": "Two BFF, Lily and Roxana, are striking opposites. Lily is the personification of tenderness and romance, dressed in airy pink dresses decorated with sequins and floral patterns. Her style radiates light and warmth. On the other hand, Roxanne is the true queen of punk rock, with her black leather dresses, gothic earrings and bold hairstyles. But do not forget about the third girlfriend, Melody, who masterfully combines both styles, creating unique images where glamour meets punk. Players will be able to experiment with outfits, creating their own styles, and choose which one is best suited for Valentines Day celebrations!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/ngw6c5wm23kfcoj85w87j55qasguaqwp/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/ngw6c5wm23kfcoj85w87j55qasguaqwp/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Dress Up",
+      "Fashion",
+      "Hair",
+      "Makeover",
+      "Princess",
+      "valentine",
+      "valentine day",
+      "valentines"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Hexa Block Puzzle   Merge",
+    "author": "APPTECH STUDIOS",
+    "image": "https://img.gamemonetize.com/c27bz66kd5f592jpsvwo2vr08j59dms1/512x384.jpg",
+    "video": "https://gamemonetize.video/video/c27bz66kd5f592jpsvwo2vr08j59dms1-1738671919.mp4",
+    "description": "Experience the ultimate brainteaser challenge with our Hexa Block Puzzle Merge , Tackle mind-bending merge hexa puzzle games, solve complex hexa block riddles.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/c27bz66kd5f592jpsvwo2vr08j59dms1/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/c27bz66kd5f592jpsvwo2vr08j59dms1/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": []
+  },
+  {
+    "id": 26,
+    "title": "Wave runner Game",
+    "author": "APPTECH STUDIOS",
+    "image": "https://img.gamemonetize.com/rpwq0n57o45bbb4d7ju6ah6amjsoyl9d/512x384.jpg",
+    "video": "https://gamemonetize.video/video/rpwq0n57o45bbb4d7ju6ah6amjsoyl9d-1738671958.mp4",
+    "description": "Wave runner casual game where we can feel more excitement while moving upward from down to up. most time consuming game for entertainment.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/rpwq0n57o45bbb4d7ju6ah6amjsoyl9d/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/rpwq0n57o45bbb4d7ju6ah6amjsoyl9d/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Hypercasual",
+      "2D"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Valentines Day Couple Date",
+    "author": "Prinxy",
+    "image": "https://img.gamemonetize.com/h7jyahmhxmu7i1jisuduj7sfjt9iyyjd/512x384.jpg",
+    "video": "https://gamemonetize.video/video/h7jyahmhxmu7i1jisuduj7sfjt9iyyjd-1738671952.mp4",
+    "description": "Experience the charm of Paris in Valentines Day Couple Date, an amazing couple dress-up game for girls. Join Ellie and Ben on a Valentine’s Day journey in the city of love. Start with a picturesque breakfast and help Ellie glam up. Next, keep their fitness streak alive with a couples workout as you dress them both in fashionable gym outfits and accessories. Later, style Ellie & Ben for a dreamy rooftop dinner. Choose from trendy clothing, fashionable accessories, and chic hairstyles to create the perfect romantic ambiance. Stay tuned for a special surprise from Ben. Embrace love and fun in this Valentines Day-themed dress-up game.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/h7jyahmhxmu7i1jisuduj7sfjt9iyyjd/\" width=\"1024\" height=\"768\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/h7jyahmhxmu7i1jisuduj7sfjt9iyyjd/\" width=\"1024\" height=\"768\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Decoration",
+      "Dress Up",
+      "Fashion",
+      "Love",
+      "valentine day"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Brawlers Arena Battle Stars",
+    "author": "Andles Games",
+    "image": "https://img.gamemonetize.com/06dvup7lg22ff4h1of9maottg9lkoawl/512x384.jpg",
+    "video": "https://gamemonetize.video/video/06dvup7lg22ff4h1of9maottg9lkoawl-1738578499.mp4",
+    "description": "Brawlers Arena Battle Stars is a perfect game for everyone who wants to try their luck, collect a collection of Brawlers and have fun in an exciting world.\nJoin the battle in the exciting game Brawlers Arena Battle Stars! \nDeal with enemies, complete levels and open new arenas! \nThe game offers iconic characters with unique characteristics, interesting weapons with different operating principles. \nImmerse yourself in various interesting locations that will not let you get bored.  Each level is a new challenge for you.\nMove forward, improve your skills and get well-deserved rewards for loyalty and courage in the battle.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/06dvup7lg22ff4h1of9maottg9lkoawl/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/06dvup7lg22ff4h1of9maottg9lkoawl/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Shooting",
+      "Action",
+      "amazing",
+      "Arcade",
+      "attack",
+      "Battlegrounds",
+      "Brawl",
+      "Casual",
+      "destruction",
+      "gta",
+      "Gun",
+      "Hypercasual",
+      "Level",
+      "Shooter",
+      "Shooting"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "8 Ball Shoot It All   3D Pool",
+    "author": "APPTECH STUDIOS",
+    "image": "https://img.gamemonetize.com/irq6s4qz3f0h452m9rtmp1obhfpcfdf3/512x384.jpg",
+    "video": "https://gamemonetize.video/video/irq6s4qz3f0h452m9rtmp1obhfpcfdf3-1738578505.mp4",
+    "description": "best pool gaming with 3D graphics & real-time 3D Zoom! So interesting, you can play like youre at a real pool table, cue in hand, aiming for a victorious shot!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/irq6s4qz3f0h452m9rtmp1obhfpcfdf3/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/irq6s4qz3f0h452m9rtmp1obhfpcfdf3/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "3D",
+      "Sports",
+      "3D Games",
+      "Sport",
+      "Sports",
+      "Unity3D"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Minecraft Blockman Go",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/s3v4zz7guzmbxokk0ojkvt8bhiodvefs/512x384.jpg",
+    "video": "https://gamemonetize.video/video/s3v4zz7guzmbxokk0ojkvt8bhiodvefs-1738611974.mp4",
+    "description": "Begin an exciting adventure in the world of Minecraft Blockman Go. The spaceship needs to be repaired, live, and fix the spaceship to return to Earth! Here combines the endless creativity of Minecraft with the exciting survival action.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/s3v4zz7guzmbxokk0ojkvt8bhiodvefs/\" width=\"2276\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/s3v4zz7guzmbxokk0ojkvt8bhiodvefs/\" width=\"2276\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Arcade",
+      "Minecraft",
+      "Spaceship",
+      "survival"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Goose Match 3D",
+    "author": "puzzle game",
+    "image": "https://img.gamemonetize.com/ebwm4j8gnrf3ybi2r6n600d0jgyx7sk7/512x384.jpg",
+    "video": "https://gamemonetize.video/video/ebwm4j8gnrf3ybi2r6n600d0jgyx7sk7-1738611957.mp4",
+    "description": "Ready for a delicious and cute animal puzzle challenge? In Goose Match 3D, you’ll dive into a world full of adorable animals and tasty food, where you’ll play through exciting Match 3 puzzles!In this fun and relaxing 3D puzzle game, you’ll need to match three identical items, and they’ll disappear.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/ebwm4j8gnrf3ybi2r6n600d0jgyx7sk7/\" width=\"640\" height=\"1136\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/ebwm4j8gnrf3ybi2r6n600d0jgyx7sk7/\" width=\"640\" height=\"1136\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Hypercasual",
+      "Puzzle",
+      "Cute",
+      "Food",
+      "Match 3"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Baby Pet Sitter",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/uvb68hiohm3tvikll1va47f2ema5pwt2/512x384.jpg",
+    "video": "https://gamemonetize.video/video/uvb68hiohm3tvikll1va47f2ema5pwt2-1738578487.mp4",
+    "description": "This is a pet care game for girls. Here you can choose cute pets, give them grooming, and feed them their favorite food. After your pets are satisfied, you can dress up for them with stylish outfits and accessories to make them stand out.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/uvb68hiohm3tvikll1va47f2ema5pwt2/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/uvb68hiohm3tvikll1va47f2ema5pwt2/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Hypercasual",
+      "Dress Up",
+      "Food",
+      "Girls"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Checkers for two",
+    "author": "Andles Games",
+    "image": "https://img.gamemonetize.com/o8szudiez7aflkkdocuvs7z8o3xeawfh/512x384.jpg",
+    "video": "https://gamemonetize.video/video/o8szudiez7aflkkdocuvs7z8o3xeawfh-1738578520.mp4",
+    "description": "Play classic checkers. Plan your moves and try to beat the computer or your opponent.\nThe application may be interesting for fans of checkers and useful for beginners who want to improve their game. You can play together against each other, or against the computer (there are several levels of computer difficulty).",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/o8szudiez7aflkkdocuvs7z8o3xeawfh/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/o8szudiez7aflkkdocuvs7z8o3xeawfh/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Puzzle",
+      "Sports",
+      "2 Player",
+      "2 Player Games",
+      "3D",
+      "3D Games",
+      "Brain",
+      "Casual",
+      "Educational",
+      "Family",
+      "Fun",
+      "Logic",
+      "Logical",
+      "Matching",
+      "Memory",
+      "Play"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Sprunki Match",
+    "author": "4GameGround",
+    "image": "https://img.gamemonetize.com/haw83ogwh8tmttia1afcromw1seh12ln/512x384.jpg",
+    "video": "https://gamemonetize.video/video/haw83ogwh8tmttia1afcromw1seh12ln-1738578512.mp4",
+    "description": "Enjoy the vibrant world of Sprunki Match, a delightful tile-matching game for kids and families! Match colorful tiles to clear levels, unlock power-ups, and achieve high scores. Perfect for improving focus and strategy, this game offers hours of fun for players of all ages. Dive into this exciting adventure and help Sprunki conquer each puzzle-filled challenge!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/haw83ogwh8tmttia1afcromw1seh12ln/\" width=\"1800\" height=\"960\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/haw83ogwh8tmttia1afcromw1seh12ln/\" width=\"1800\" height=\"960\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Match 3",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Magic World: New era Match3 PRG",
+    "author": "Overmobile",
+    "image": "https://img.gamemonetize.com/98sobkv6ju367ncngzkh15vf9vvew0kv/512x384.jpg",
+    "video": "https://gamemonetize.video/video/98sobkv6ju367ncngzkh15vf9vvew0kv-1738578549.mp4",
+    "description": "Go on a campaign and make great victories!\nExplore the depths of an ancient dungeon and challenge powerful titans and heroes guarding their lair with countless treasures!\nFight against other players for fame and fortune!\nSummon the strongest heroes, train and upgrade them to assemble the powerful team!\nUnleash the skills of the heroes and use the strengths and weaknesses of the elementals to win!\nAll this will require you to have a careful eye and a strategic mind!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/98sobkv6ju367ncngzkh15vf9vvew0kv/\" width=\"400\" height=\"711\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/98sobkv6ju367ncngzkh15vf9vvew0kv/\" width=\"400\" height=\"711\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Puzzle",
+      "Adventure",
+      "Battle",
+      "Fantasy",
+      "Magic",
+      "Match 3",
+      "Match-3",
+      "Match3",
+      "Matching",
+      "MMO",
+      "Mobile",
+      "Online",
+      "PvP",
+      "RPG",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Rescue The Boy   Rope to Exit",
+    "author": "APPTECH STUDIOS",
+    "image": "https://img.gamemonetize.com/javhx118b0u7az4sna7kpziuc7zxubbd/512x384.jpg",
+    "video": "https://gamemonetize.video/video/javhx118b0u7az4sna7kpziuc7zxubbd-1738578541.mp4",
+    "description": "Swipe the rope with your finger and cut the rope to boy fell down and move to exit door. It is very interesting, apply your logical thinking while playing every level.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/javhx118b0u7az4sna7kpziuc7zxubbd/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/javhx118b0u7az4sna7kpziuc7zxubbd/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "3D",
+      "Puzzle",
+      "3D",
+      "Puzzle",
+      "unity"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Stickman Shooter 2",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/fvr8yt6ygofxnoaexbatx1v66m4k2c8i/512x384.jpg",
+    "video": "https://gamemonetize.video/video/fvr8yt6ygofxnoaexbatx1v66m4k2c8i-1695997018.mp4",
+    "description": "Defend the base from the alien and soldiers attack, all enemies are here to destroy your fort The world around has changed. Green grass withered. The surface was covered with fire. Destroy every enemy and collect coins to upgrade your arsenal and defend the base until the last wave",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/fvr8yt6ygofxnoaexbatx1v66m4k2c8i/\" width=\"800\" height=\"470\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/fvr8yt6ygofxnoaexbatx1v66m4k2c8i/\" width=\"800\" height=\"470\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Shooting",
+      "Kiz 10",
+      "kiz10",
+      "Stickman"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Kid Ball Adventure",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/30q2nhz4ns0p9q7nn6bk1lrmsbml8i0c/512x384.jpg",
+    "video": "https://gamemonetize.video/video/30q2nhz4ns0p9q7nn6bk1lrmsbml8i0c-1694085292.mp4",
+    "description": "Enter a fantasy world of bouncing balls and magic castles in Kid Ball \nAdventure is a 2D platformer where risk is balanced with great \nreward! Take control of Kid Ball as he pursues those who captured his \nlove through treacherous castle dungeons. To guide Kid Ball to victory, \nyou will need to overcome many challenging stages filled with traps and \ndeadly enemies, bouncing over spikes and using booster cannons to your \nadvantage! Locate the key and unlock the exit to move on to the next \ndaunting chamber of hazards!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/30q2nhz4ns0p9q7nn6bk1lrmsbml8i0c/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/30q2nhz4ns0p9q7nn6bk1lrmsbml8i0c/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Hypercasual",
+      "1 Player",
+      "2D",
+      "Adventure",
+      "Best",
+      "Casual",
+      "Funny",
+      "Kid",
+      "Kids",
+      "Platform"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Stickman Team Return",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/ayvxzb2goubgu6h8hr48zqrvrt5lz612/512x384.jpg",
+    "video": "https://gamemonetize.video/video/ayvxzb2goubgu6h8hr48zqrvrt5lz612-1715686566.mp4",
+    "description": "Its team time now! Cartoon character The game of Team Detroit is fun to watch. A gang of robbers is threatening the city of Detroit, but three little stick figures will come together to stop them.\nTake pleasure in killing off enemy stickmen while using any of the three playable characters. Because of their unique abilities and weaponry, each playable character is tailor-made for their specific role.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/ayvxzb2goubgu6h8hr48zqrvrt5lz612/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/ayvxzb2goubgu6h8hr48zqrvrt5lz612/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "2 Player",
+      "Action",
+      "kiz10",
+      "Shooter",
+      "Stickman",
+      "War"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Huggy Love and Rescue",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/9198s367seiyujfoblfkxouw0xv7j6qr/512x384.jpg",
+    "video": "https://gamemonetize.video/video/9198s367seiyujfoblfkxouw0xv7j6qr-1668530107.mp4",
+    "description": "Have fun with this entertaining platform and puzzle game Huggy Love and Rescue is a casual game solve the different puzzles in each level and help huggy wuggy to rescue his beloved kissy missy can you help and complete all the levels of this game? Find out at kiz10.com and enjoy this game for free.    \nThe adorable but creepy huggy wuggy needs your help to rescue his beloved kissy missy ps she got trapped in the dungeons and needs to be rescued fast. In each level take a good look at the puzzles and details of the game to solve each level.    \nThe objective of the game is to complete the puzzles of each of the levels and try not to waste time or you will lose quickly!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/9198s367seiyujfoblfkxouw0xv7j6qr/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/9198s367seiyujfoblfkxouw0xv7j6qr/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Puzzle",
+      "Jumping",
+      "kiz10",
+      "Platform",
+      "Rescue"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Super Count Masters",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/qgdfk0wll85trk8segyqxhvvq0l5ccot/512x384.jpg",
+    "video": "https://gamemonetize.video/video/qgdfk0wll85trk8segyqxhvvq0l5ccot-1686175184.mp4",
+    "description": "Super Count Masters is a casual online game for desktop and mobile, available for free on your favorite browser at kiz10.com! Enjoy fun stickman games and have a blast with this addictive title. Play now and experience endless entertainment! (150 characters)\nGet ready for non-stop fun with Super Count Masters! Play for free on kiz10.com and experience the thrill today! Website Developer https://kiz10.com",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/qgdfk0wll85trk8segyqxhvvq0l5ccot/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/qgdfk0wll85trk8segyqxhvvq0l5ccot/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Hypercasual",
+      "Casual",
+      "Fight",
+      "Funny",
+      "kiz10",
+      "Stickman"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Mortal Brothers Survival Friends",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/bktmh2sq19hy9ch5hdpa39pmw4pg8sn9/512x384.jpg",
+    "video": "https://gamemonetize.video/video/bktmh2sq19hy9ch5hdpa39pmw4pg8sn9-1677465238.mp4",
+    "description": "Have fun with this exclusive new game Mortal Brothers Survival Friends based on the story of Mortal Kombat two eternal enemies will need to work together to escape from the dungeons where they were exiled by Shang Tsung and now they will work to help each other !!! Play it and enjoy this kiz10.com game on your favorite device for free.  \nTwo enemies are in the same situation and they will need to help each other to solve the puzzles and be able to get out of the dungeons where they are, that's right Scorpion and Subzero need your help to complete each level of this entertaining game !!!  \nCollect the flames that correspond to each character to be able to finish each level but be careful if you touch the fire on the ground that does not correspond to you, you will lose immediately but do not worry so much that you can restart the level as many times as you want.  \nThe goal of the game is to solve the puzzles in this game and get both players to the portals in order to get out of the level alive.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/bktmh2sq19hy9ch5hdpa39pmw4pg8sn9/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/bktmh2sq19hy9ch5hdpa39pmw4pg8sn9/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Puzzle",
+      "2 Player",
+      "Jumping",
+      "kiz10",
+      "Platform"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Skibidi Fishing",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/v8wa2j5tkgzu6pg187rmnofj0qzizc1l/512x384.jpg",
+    "video": "https://gamemonetize.video/video/v8wa2j5tkgzu6pg187rmnofj0qzizc1l-1694593516.mp4",
+    "description": "Help Skibidi to catch the magic treasure at the bottom of the sea. Collect fish, shoot him, and earn coins to upgrade your fishing gear. Better stuff is more distance that you need to reach the bottom, buy new guns to destroy everything and other objects to help your way to that treasure.Website Developer https://kiz10.com",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/v8wa2j5tkgzu6pg187rmnofj0qzizc1l/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/v8wa2j5tkgzu6pg187rmnofj0qzizc1l/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Hypercasual",
+      "1 Player",
+      "2D",
+      "Action",
+      "Arcade",
+      "Best",
+      "Casual",
+      "Fishing",
+      "HTML5",
+      "Hypercasual"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Stick Bros Leave Prison",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/tydglseu5zkccaej7e99is984cam6y3a/512x384.jpg",
+    "video": "https://gamemonetize.video/video/tydglseu5zkccaej7e99is984cam6y3a-1721121010.mp4",
+    "description": "Stick Bros Leave prison is the latest installment in the stickman jail series, where you get to control not one but two individuals. Finding the proper colored keys to open the door is your objective as you lead them to the levels end. Staying one step ahead of the guards is the goal. Unlock better skins by collecting money scattered across the level. Leap and dodge obstacles to make it to your destination safely as you navigate the game.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/tydglseu5zkccaej7e99is984cam6y3a/\" width=\"900\" height=\"550\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/tydglseu5zkccaej7e99is984cam6y3a/\" width=\"900\" height=\"550\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "2 Player",
+      "Adventure",
+      "Escape",
+      "kiz10",
+      "Prison",
+      "Stickman"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Rescue from Rainbow Monster Online",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/747v6poddba7w1b1n39dihdf6tmz34gn/512x384.jpg",
+    "video": "https://gamemonetize.video/video/747v6poddba7w1b1n39dihdf6tmz34gn-1689066891.mp4",
+    "description": "A small Impostor is tied up and confined to the room.He cuts the rope, rescues and collects unique skins. Simple and fun.\nRescue from Rainbow Monster Online is an exciting casual puzzle game that brings the popular cut the rope concept to life. Available for free on Kiz10.com, this game offers a delightful and challenging experience for players of all ages. With its colorful visuals, engaging gameplay, and a touch of action, Rescue from Rainbow Monster Online is sure to captivate gamers seeking a fun and entertaining adventure.\nWebsite Developer https://kiz10.com",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/747v6poddba7w1b1n39dihdf6tmz34gn/\" width=\"550\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/747v6poddba7w1b1n39dihdf6tmz34gn/\" width=\"550\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Clicker",
+      "cut",
+      "kiz10",
+      "Monster",
+      "Rescue"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Super Traffic Racer",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/a5w7favv4e53hhyfev78m7xs0dcefnew/512x384.jpg",
+    "video": "https://gamemonetize.video/video/a5w7favv4e53hhyfev78m7xs0dcefnew-1701173529.mp4",
+    "description": "Super Traffic Racer is a milestone in the genre of endless arcade racing. Drive your car through highway traffic, earn cash, upgrade your car, and buy new ones. Try to be one of the fastest drivers in the global leaderboards. Endless racing is now redefined!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/a5w7favv4e53hhyfev78m7xs0dcefnew/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/a5w7favv4e53hhyfev78m7xs0dcefnew/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Racing",
+      "1 Player",
+      "3D",
+      "3D Games",
+      "Action",
+      "Arcade",
+      "Best Games",
+      "Cars",
+      "Casual",
+      "Traffic"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "World War Zombie",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/8ht58edn6drpz9d5oikezoqkkuqwvvm4/512x384.jpg",
+    "video": "https://gamemonetize.video/video/8ht58edn6drpz9d5oikezoqkkuqwvvm4-1697147240.mp4",
+    "description": "When it's time for zombie war, you and your guns are humanity's best bet! But in this game, you have to shoot precisely and if you're smart enough, there are some useful items to help you kill zombies without wasting your ammo. Play smart is the key to be the best zombie slayer!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/8ht58edn6drpz9d5oikezoqkkuqwvvm4/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/8ht58edn6drpz9d5oikezoqkkuqwvvm4/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Shooting",
+      "kiz10",
+      "Shoot",
+      "Shooter",
+      "Zombie"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Moto Stunt Online",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/k0nq8srk5r92nzpetayfcumtojb2tnpf/512x384.jpg",
+    "video": "https://gamemonetize.video/video/k0nq8srk5r92nzpetayfcumtojb2tnpf-1719309520.mp4",
+    "description": "Moto Stunt Online is an exhilarating motocross game with over twenty-four exciting levels. Once you unlock them, you may choose from four captivating motorcycle designs. Earn money to buy and upgrade your bikes as you face new challenges in each level. Colorful cartoon artwork and exciting racing action will appeal to fans of the genre. Brace yourself for some exciting races and risky adventures.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/k0nq8srk5r92nzpetayfcumtojb2tnpf/\" width=\"900\" height=\"550\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/k0nq8srk5r92nzpetayfcumtojb2tnpf/\" width=\"900\" height=\"550\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "3D",
+      "Racing",
+      "Driving",
+      "kiz10",
+      "Motocross",
+      "Motorcycle"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Toilet Rush",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/jbfqqewsrr8ru56d5zbfxtr4ein5mrq5/512x384.jpg",
+    "video": "https://gamemonetize.video/video/jbfqqewsrr8ru56d5zbfxtr4ein5mrq5-1697908812.mp4",
+    "description": "Toilet rush is a puzzle platmer game.Find your way and dump your load on the lavatory before you explode. It's a everyday struggle to find peace on toilet.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/jbfqqewsrr8ru56d5zbfxtr4ein5mrq5/\" width=\"800\" height=\"500\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/jbfqqewsrr8ru56d5zbfxtr4ein5mrq5/\" width=\"800\" height=\"500\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Puzzle",
+      "Stickman",
+      "Fun",
+      "Funny",
+      "kiz10"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Race Masters Rush",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/1v2q4g74ok5wkgkvyp9gq7py9y7mj7j6/512x384.jpg",
+    "video": "https://gamemonetize.video/video/1v2q4g74ok5wkgkvyp9gq7py9y7mj7j6-1704855646.mp4",
+    "description": "Play and have fun with this entertaining racing and shooting game called Race Masters Rush now you can play this exclusive new game from kiz10.com totally free !!! Help the little hero to get as far as you can in a dangerous race full of enemies.  \nA death race begins where our hero and the character need to reach their goal as quickly as possible but will run into enemies on motorcycles and many drones that will prevent this from happening !! Shoot and avoid obstacles collect the weapons that you can improve your characteristics such as speed, shield, ammunition and much more.  \nThe objective of the game is to get as far as you can by eliminating and dodging the obstacles on your way !!! Drive your vehicle and shoot the enemies that come to eliminate you by air and ground. you can improve your characteristics as you complete each level and improve your score.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/1v2q4g74ok5wkgkvyp9gq7py9y7mj7j6/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/1v2q4g74ok5wkgkvyp9gq7py9y7mj7j6/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Racing",
+      "Shooting",
+      "Car",
+      "Gun",
+      "kiz10",
+      "Shooting"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Super Friday Squid Challenge",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/lt5hbe3py7u0ua3013qox7bgjji5uofg/512x384.jpg",
+    "video": "https://gamemonetize.video/video/lt5hbe3py7u0ua3013qox7bgjji5uofg-1692262308.mp4",
+    "description": "Boyfriend and Girlfriend back with new adventures. They lost all the money gambling and now they have to join to the Squid games. Help them to complete all the songs in different weeks to win the high prize and recover the money that they lost. Many people will die here but dont hasitate and keep dancing and dont miss any arrow. Complete the 12 levels and be the winner of 38 million USD in this crazy game",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/lt5hbe3py7u0ua3013qox7bgjji5uofg/\" width=\"550\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/lt5hbe3py7u0ua3013qox7bgjji5uofg/\" width=\"550\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Hypercasual",
+      "Casual",
+      "Funny",
+      "kiz10",
+      "Music"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Mr noob Jailbreak",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/aghhqhf3kc5px6s55hyg2igj5f9pc5za/512x384.jpg",
+    "video": "https://gamemonetize.video/video/aghhqhf3kc5px6s55hyg2igj5f9pc5za-1672449684.mp4",
+    "description": "Have fun with this entertaining new game Mr noob Jailbreak try to escape from the prison guards and go as far as possible with the best score, jump, slide and shoot the enemy guards and weapons !! You can play it for free on kiz10 and enjoy many other new games.  \nA brave little noob decided to escape from prison, run through the roofs of the buildings and try to get as far as possible, but he ran into many guards and potential enemies that will eliminate you if you don't react quickly. Control the movements of the little noob to go far with the best score jump, shoot use the slowmotion to improve your aim. Have fun with this casual game and many others for free.  \nKEY FEATURESFeatures: Adventure game, action and shooting. Casual jump and shoot game Minecraft based game You can play it on PC, Tablets and mobiles",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/aghhqhf3kc5px6s55hyg2igj5f9pc5za/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/aghhqhf3kc5px6s55hyg2igj5f9pc5za/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Hypercasual",
+      "kiz10",
+      "running",
+      "Shooting",
+      "weapons"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Super Rocket Buddy",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/unyq7wdvi2bfsowowi91obhn48m9kuje/512x384.jpg",
+    "video": "",
+    "description": "You have a cannon loaded with Buddies, and your goal is to get to the target. Solve puzzling challenges, avoid obstacles, and use as many Buddies as you need to complete every level.  \n  \nThe game features your favorite ragdoll physics, hilarious challenges, and endless fun.  \n  \nWe Love You. Enjoy.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/unyq7wdvi2bfsowowi91obhn48m9kuje/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/unyq7wdvi2bfsowowi91obhn48m9kuje/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Arcade",
+      "2D",
+      "Fun",
+      "Kiz 10",
+      "kiz10",
+      "Simulator"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Super John Wick",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/5v9lcitp50ylhqzjxnf7w37n0q0dt78d/512x384.jpg",
+    "video": "https://gamemonetize.video/video/5v9lcitp50ylhqzjxnf7w37n0q0dt78d-1698314835.mp4",
+    "description": "Step into the shoes of John, a mysterious figure in the world of underground assassins, a masterful fighter with unparalleled accuracy and a burning desire for vengeance. Shoot and guide the bullet to the enemies to destroy them all!  Website Developer  https://kiz10.com/",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/5v9lcitp50ylhqzjxnf7w37n0q0dt78d/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/5v9lcitp50ylhqzjxnf7w37n0q0dt78d/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "3D",
+      "Action",
+      "1 Player",
+      "3D",
+      "3D Games",
+      "Action",
+      "Best Games",
+      "Casual",
+      "Cool",
+      "Hypercasual",
+      "Shoot",
+      "Shooting"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Slenderman Lost at School",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/24gnovw92p6d8dz6lr9jg0sp3ug9xrmd/512x384.jpg",
+    "video": "https://gamemonetize.video/video/24gnovw92p6d8dz6lr9jg0sp3ug9xrmd-1734602659.mp4",
+    "description": "Slenderman Lost at School is a chilling online horror game that thrusts players into a dark and eerie school where the infamous Slenderman roams. Your objective is to explore the abandoned school, solve puzzles, and collect items to escape Slendermans clutches. The game combines elements of stealth, strategy, and horror to deliver a truly immersive and terrifying experience.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/24gnovw92p6d8dz6lr9jg0sp3ug9xrmd/\" width=\"900\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/24gnovw92p6d8dz6lr9jg0sp3ug9xrmd/\" width=\"900\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "3D",
+      "Action",
+      "Escape",
+      "Horror",
+      "kiz10",
+      "Level"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Sonic Superstars",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/739l2hxbik0wdmhgepzsetiuzhbdv28r/512x384.jpg",
+    "video": "https://gamemonetize.video/video/739l2hxbik0wdmhgepzsetiuzhbdv28r-1699007336.mp4",
+    "description": "Adventure through the mystical Northstar Islands in this all-new take on classic 2D Sonic high-speed action platforming. Play as Sonic, Tails, Knuckles, and Amy Rose and harness all-new Emerald powers to move and attack in dynamic new ways. Collect Rings and unlock new characters in this fantastic new Sonic adventure.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/739l2hxbik0wdmhgepzsetiuzhbdv28r/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/739l2hxbik0wdmhgepzsetiuzhbdv28r/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Hypercasual",
+      "1 Player",
+      "2D",
+      "Adventure",
+      "Anime",
+      "Best Games",
+      "Cartoon Network",
+      "Casual",
+      "Dragon Ball Z",
+      "HTML5",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Temple Runner",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/9pup3x89l9oozkevu3w4rslg0x6tt9w3/512x384.jpg",
+    "video": "https://gamemonetize.video/video/9pup3x89l9oozkevu3w4rslg0x6tt9w3-1697901752.mp4",
+    "description": "You're an adventurous explorer, running through ruined temples. Collecting gold to get cool outfits. Avoiding obstacles along the way, and get help from useful power-ups. Enjoy with new best games Every Week in Kiz10",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/9pup3x89l9oozkevu3w4rslg0x6tt9w3/\" width=\"527\" height=\"700\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/9pup3x89l9oozkevu3w4rslg0x6tt9w3/\" width=\"527\" height=\"700\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Arcade",
+      "kiz10",
+      "temple"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Quarantine Rush",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/o5pqmp6gialzvg2mkj7nl3fyrd645xpt/512x384.jpg",
+    "video": "https://gamemonetize.video/video/o5pqmp6gialzvg2mkj7nl3fyrd645xpt-1695256579.mp4",
+    "description": "The virus is hitting with no mercy, its time to save all the people and cure infecteds, send all poeple to home and cure the infected with the power ups, collect coins and unlock more items to save more people. Stay home",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/o5pqmp6gialzvg2mkj7nl3fyrd645xpt/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/o5pqmp6gialzvg2mkj7nl3fyrd645xpt/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Arcade",
+      "Action",
+      "Kiz 10",
+      "kiz10"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Adventure Time : Bullet Jake",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/tk43g8162idbq3h3sviaw3f05qysi2k7/512x384.jpg",
+    "video": "https://gamemonetize.video/video/tk43g8162idbq3h3sviaw3f05qysi2k7-1682517925.mp4",
+    "description": "Have fun with this new game Bullet Jakke Adventure play it now for free here on taptapking.com !!! Enjoy with this game inspired by the famous animated series Adventure Time aim aim and shoot try to collect all the items and coins you can to improve Jake's characteristics !!!   \nThis time the two inseparable friends will be encouraged to play bullet man and got a cannon with which they can launch Jake as far as possible to discover how much they can fly.   \nCollect all the coins that you can use your ammunition to give impetus to the character while it is in the air, with these coins you can buy different items such as more life, more bullets, a rocket backpack or cannon force.   \nThe main objective of the game is to shoot the character as far as you can, improving the distance with each attempt.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/tk43g8162idbq3h3sviaw3f05qysi2k7/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/tk43g8162idbq3h3sviaw3f05qysi2k7/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Arcade",
+      "Casual",
+      "Shooting"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Impostor Rush Rocket Launcher",
+    "author": "Kiz10",
+    "image": "https://img.gamemonetize.com/pjvarguftp4hnm54lut3m6dfajq721k7/512x384.jpg",
+    "video": "https://gamemonetize.video/video/pjvarguftp4hnm54lut3m6dfajq721k7-1674169354.mp4",
+    "description": "Play for free and have fun with this new game Impostor Rush Rocket Launcher is a casual shooter game aim and calculate the angle to knock down the enemies on their towers that if you don't knock them down they won't let you advance!!! Enjoy this game based on the characters of squid game and the impostors you can play at kiz10.com totally free !!!!    \nA little impostor will try to escape from the squid games and runs around the island without knowing that in each of the towers the soldiers are watching any player to eliminate them if they try to escape!    \nControl the character so that he can calculate the angle at which to shoot the soldiers who are located on the towers of different heights !! Collect the coins you earn by eliminating the soldiers to buy new avatars with better features!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/pjvarguftp4hnm54lut3m6dfajq721k7/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/pjvarguftp4hnm54lut3m6dfajq721k7/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Shooting",
+      "Gun",
+      "kiz10",
+      "running",
+      "Shooting"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Town Island Craft 3D",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/rcq0ahsyllf5ceis36w66nl8k3x1f0lm/512x384.jpg",
+    "video": "https://gamemonetize.video/video/rcq0ahsyllf5ceis36w66nl8k3x1f0lm-1669948774.mp4",
+    "description": "Town Island Craft 3D is an interesting game to cost the spare time. Collect the more and more woods and stones to build more house and buildings. Don't forget to collect the coins used to hire more people to help you! Let's build your island now! Enjoy the playing time!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/rcq0ahsyllf5ceis36w66nl8k3x1f0lm/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/rcq0ahsyllf5ceis36w66nl8k3x1f0lm/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "3D",
+      "Arcade",
+      "Collecting",
+      "Craft",
+      "Island",
+      "Kids",
+      "Mobile",
+      "Puzzle",
+      "Skill"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Rocket Punch",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/p36crlo97l8733ymahjazlj8acn3eoo4/512x384.jpg",
+    "video": "https://gamemonetize.video/video/p36crlo97l8733ymahjazlj8acn3eoo4-1688479596.mp4",
+    "description": "Provoke you! See punch! Enemies are very cunning and can hide in any position they can, so you need to be smart with your tools to kill them with one punch! Your fist will follow your command and charge at the enemy!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/p36crlo97l8733ymahjazlj8acn3eoo4/\" width=\"440\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/p36crlo97l8733ymahjazlj8acn3eoo4/\" width=\"440\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Puzzle",
+      "2D",
+      "Avoid",
+      "Boy",
+      "Collecting",
+      "Game",
+      "Kid",
+      "Obstacle",
+      "Punch",
+      "Rocket"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Perfect Slices Master",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/ptfjdbruz0ejqvwf3lib9v8un1y90dtq/512x384.jpg",
+    "video": "https://gamemonetize.video/video/ptfjdbruz0ejqvwf3lib9v8un1y90dtq-1685891576.mp4",
+    "description": "Slice your veggies to make a bowl of soup! In Perfect Slices Master, you will manipulate a knife to cut your veggies into small pieces. Careful as you chop along your way for chopping boards and other sharp boards will appear to numb your knife! Earn coins while slicing! Visit the shop for more kinds of knives to use! Enjoy the satisfying shopping experience and watch your chopped veggies turn into a nice bowl of soup!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/ptfjdbruz0ejqvwf3lib9v8un1y90dtq/\" width=\"440\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/ptfjdbruz0ejqvwf3lib9v8un1y90dtq/\" width=\"440\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "3D",
+      "Arcade",
+      "3D",
+      "3D Games",
+      "Avoid",
+      "Boy",
+      "Food",
+      "Fruit",
+      "Kid",
+      "Puzzle",
+      "Relaxation",
+      "Slicing"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Nonogram: Picture Cross Puzzle Game",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/0arwbjpr1zv67xod0lyzgp7q7cpj0o30/512x384.jpg",
+    "video": "https://gamemonetize.video/video/0arwbjpr1zv67xod0lyzgp7q7cpj0o30-1684976804.mp4",
+    "description": "Nonogram: Picture Cross Puzzle Game requires your math knowledge and space-imagination skills to work out three difficulties of puzzles. As a typical arcade puzzle game, you need to fill the blank up with the correct locations according to the number tips. Glad you will complete all levels!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/0arwbjpr1zv67xod0lyzgp7q7cpj0o30/\" width=\"440\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/0arwbjpr1zv67xod0lyzgp7q7cpj0o30/\" width=\"440\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Puzzle",
+      "Arcade",
+      "Boy",
+      "Brain",
+      "Casual",
+      "Kid",
+      "Number",
+      "Pixel",
+      "Point And Click",
+      "Puzzle"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Smackem all",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/z58yxuw2d3bqa6se65jkeaod3uxnzzl2/512x384.jpg",
+    "video": "https://gamemonetize.video/video/z58yxuw2d3bqa6se65jkeaod3uxnzzl2-1684187975.mp4",
+    "description": "Welcome to this interesting hitting game. You can release your stress at will. Drag left and right to choose the target and defeat all the opponents in front of you to win! Come on!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/z58yxuw2d3bqa6se65jkeaod3uxnzzl2/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/z58yxuw2d3bqa6se65jkeaod3uxnzzl2/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Puzzle",
+      "Avoid",
+      "Fight",
+      "Kids",
+      "Mobile",
+      "Platform"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Lipstick Collector Run",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/ewai7lf13zkf5606qntpdhz41zopf6hx/512x384.jpg",
+    "video": "https://gamemonetize.video/video/ewai7lf13zkf5606qntpdhz41zopf6hx-1711109083.mp4",
+    "description": "Lipstick Collector Run is a classic vertical arcade game with a single-button control. Your mission: collect all the lipstick parts while dodging obstacles and earn money. Unlock marked levels by completing 8 wraps. Use money to draw 8 different colors. Earn extra cash with 8 hands that boost your lipstick collection. The more lipsticks you gather, the more money you’ll make!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/ewai7lf13zkf5606qntpdhz41zopf6hx/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/ewai7lf13zkf5606qntpdhz41zopf6hx/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "3D",
+      "Arcade",
+      "3D",
+      "3D Games",
+      "Avoid",
+      "Boys",
+      "Collecting",
+      "Girls",
+      "Kids",
+      "running"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Stick Ninja Survival",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/qtolds7l6m9gguste68ktzr31jjlt7tu/512x384.jpg",
+    "video": "https://gamemonetize.video/video/qtolds7l6m9gguste68ktzr31jjlt7tu-1720430251.mp4",
+    "description": "Stick Ninja Survival is a rogue-like arcade game with 2D stickman characters and monsters. When the Red Sun comes, the sky is covered by the Red Moon, and the world becomes extremely terrifying. People fled in fear from the monsters mouth. You only need to dodge enemies and their bullets because of automatic attack. When you earn some gem resources, you can use them to upgrade your character, Skills, and Talents.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/qtolds7l6m9gguste68ktzr31jjlt7tu/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/qtolds7l6m9gguste68ktzr31jjlt7tu/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Arcade",
+      "Stickman"
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Cop Run 3d",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/p3d8xqiumpzddfpd7d55jiiv13a54o71/512x384.jpg",
+    "video": "https://gamemonetize.video/video/p3d8xqiumpzddfpd7d55jiiv13a54o71-1733129890.mp4",
+    "description": "Cop Run 3D is an arcade-style parkour game that brings you on an exciting chase adventure! In this 3D game world, youll play as a cop, running and jumping through the city streets. Avoid obstacles, and collect various rewards!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/p3d8xqiumpzddfpd7d55jiiv13a54o71/\" width=\"720\" height=\"1560\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/p3d8xqiumpzddfpd7d55jiiv13a54o71/\" width=\"720\" height=\"1560\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Racing",
+      "Adventure",
+      "run"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Runner Coaster",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/2dowjdu735ksc7qkjzdcj3vxiq99v9n5/512x384.jpg",
+    "video": "https://gamemonetize.video/video/2dowjdu735ksc7qkjzdcj3vxiq99v9n5-1668544998.mp4",
+    "description": "Want to achieve runner coaster freedom? This game allows you to experience the  runner coaster for free! Press and hold the screen to control the coaster to move, avoid the obstacles on the road, carry the road partners, together start the roller coaster journey!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/2dowjdu735ksc7qkjzdcj3vxiq99v9n5/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/2dowjdu735ksc7qkjzdcj3vxiq99v9n5/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Puzzle",
+      "Avoid",
+      "Collecting",
+      "Kids",
+      "Mobile",
+      "running",
+      "Skill"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Banana Kong Adventure",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/fycx4iipitqmo3gmedxzunvl9aynk8mf/512x384.jpg",
+    "video": "https://gamemonetize.video/video/fycx4iipitqmo3gmedxzunvl9aynk8mf-1695894039.mp4",
+    "description": "Banana Kong Adventure is a 2D game that lets you go on an adventure with the monkey king! You will follow Kong through various wonderful worlds, encountering fun traps and monsters! Can you help Kong defeat his enemies with his stick, and jump higher with his skills? Can you reach the finish line in a limited time? This game has multiple levels and difficulties, each with different challenges and rewards! Join Banana Kong Adventure and experience a fun and exciting adventure!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/fycx4iipitqmo3gmedxzunvl9aynk8mf/\" width=\"1334\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/fycx4iipitqmo3gmedxzunvl9aynk8mf/\" width=\"1334\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Arcade",
+      "Animal",
+      "Anime",
+      "Avoid",
+      "Casual",
+      "Collecting",
+      "jump",
+      "Platform",
+      "run"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Grab Mario Adventure",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/etzugopk03excprcojom8mwbs4ht8kq2/512x384.jpg",
+    "video": "https://gamemonetize.video/video/etzugopk03excprcojom8mwbs4ht8kq2-1737972621.mp4",
+    "description": "Begin an exciting new adventure with Mario in Grab-Mario Adventure! This is a fun platform jumper game that will keep you returning for more. Jump, run, and collect coins as you navigate a world of monsters and obstacles.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/etzugopk03excprcojom8mwbs4ht8kq2/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/etzugopk03excprcojom8mwbs4ht8kq2/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Arcade",
+      "Fun",
+      "jump",
+      "Mario"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Mr Fight",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/df7qc4evnbkrv1w49yuscgev12p112be/512x384.jpg",
+    "video": "https://gamemonetize.video/video/df7qc4evnbkrv1w49yuscgev12p112be-1691259171.mp4",
+    "description": "Today's Mr. Fight has a different way of playing. This time he had to fight and defeat the enemy himself. It takes a little bit of physical effort to kill all your enemies at once. The farther you drag, the farther you eject.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/df7qc4evnbkrv1w49yuscgev12p112be/\" width=\"440\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/df7qc4evnbkrv1w49yuscgev12p112be/\" width=\"440\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Puzzle",
+      "2D",
+      "Fight",
+      "Game",
+      "Games",
+      "Gun",
+      "Kid",
+      "Kids",
+      "Physics",
+      "Puzzle",
+      "Shooting"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Mommy Pregnant Caring",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/qhkz57jhech8hmkr4vx8p2fe4v5sdw92/512x384.jpg",
+    "video": "https://gamemonetize.video/video/qhkz57jhech8hmkr4vx8p2fe4v5sdw92-1668705727.mp4",
+    "description": "Sofia is pregnant. Today she is the only one at home, but she makes an appointment to go to the hospital for examination. Can you take care of Sofia on this day? Please help Sofia to freshen up and then accompany her to the hospital for examination. After Sofia returns home, please help her make a delicious dinner.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/qhkz57jhech8hmkr4vx8p2fe4v5sdw92/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/qhkz57jhech8hmkr4vx8p2fe4v5sdw92/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Cook",
+      "Cooking",
+      "Doctor",
+      "Dress Up",
+      "Girl",
+      "Girls",
+      "Kids",
+      "Makeover",
+      "Simulation",
+      "Surgery"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Glitter Lips Coloring Game",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/nmpsut9l8ao4augz5zhv2igsn7v3ak76/512x384.jpg",
+    "video": "https://gamemonetize.video/video/nmpsut9l8ao4augz5zhv2igsn7v3ak76-1679701581.mp4",
+    "description": "Simple and intuitive, you'll have hours of fun! This art game will help you improve your problem-solving skills, logic and cognitive skills, concentration and memory. Fashion Accessories Coloring Book helps develop memory skills in everyone. Playing this coloring game will help them increase your popularity while having fun.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/nmpsut9l8ao4augz5zhv2igsn7v3ak76/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/nmpsut9l8ao4augz5zhv2igsn7v3ak76/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Color",
+      "Coloring",
+      "Decorate",
+      "Design",
+      "Draw",
+      "Drawing",
+      "Girl",
+      "Girls",
+      "Kids",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Baby Taylor Homecoming Day",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/0697tk7vniaqqfuttt1wdr67dlpx8i1b/512x384.jpg",
+    "video": "https://gamemonetize.video/video/0697tk7vniaqqfuttt1wdr67dlpx8i1b-1705927052.mp4",
+    "description": "Baby Taylor Homecoming Day is an educational girls game for young girls and little babies. In the game, you have to spend the busy first day back to school with Taylor. First you have to help Taylor dress up beautifully and cutely. This semester Taylor can ride a bicycle to school by herself. Help her design a beautiful bicycle! Oh my god, after a long holiday, the teachers and the playground have become so dirty. Lets clean up the school with Taylor! So, let your creativity shine and make Taylors homecoming day unforgettable Join us now and create magical moments with Baby Taylor on her Homecoming Day!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/0697tk7vniaqqfuttt1wdr67dlpx8i1b/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/0697tk7vniaqqfuttt1wdr67dlpx8i1b/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Baby",
+      "Baby Games",
+      "Cleaning",
+      "Cute",
+      "Decorate",
+      "Design",
+      "Dress Up",
+      "Educational",
+      "Fashion",
+      "Girl",
+      "Girls",
+      "Kids"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Lovely Couple Wedding Photo",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/fi79uz3np2cz1bq17b0fm1v1q0v2bio6/512x384.jpg",
+    "video": "https://gamemonetize.video/video/fi79uz3np2cz1bq17b0fm1v1q0v2bio6-1694592630.mp4",
+    "description": "Great!!! Zoe and Kris are getting married! Zoe wants to take funny photos at their wedding, this is really a good idea! Lets help the couple dress up for their wedding first. Then, choose a photo booth backdrop and pick some funny ornaments and props to create silly and funny photos. Have fun playing this game!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/fi79uz3np2cz1bq17b0fm1v1q0v2bio6/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/fi79uz3np2cz1bq17b0fm1v1q0v2bio6/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Baby Games",
+      "Dress Up",
+      "Fashion",
+      "Girl",
+      "Girls",
+      "Kid",
+      "Kids",
+      "Love",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Surprise Egg",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/amchmxn6qapd5moc441zqn5t0v4wlqr0/512x384.jpg",
+    "video": "https://gamemonetize.video/video/amchmxn6qapd5moc441zqn5t0v4wlqr0-1670600585.mp4",
+    "description": "Get ready to have fun with Surprise Eggs game! Multiple eggs, one surprise! What's hidden in the egg? Beat an egg until it cracks and see what big surprises each egg hides! Be careful, this game is very addictive!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/amchmxn6qapd5moc441zqn5t0v4wlqr0/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/amchmxn6qapd5moc441zqn5t0v4wlqr0/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Animal",
+      "Barbie",
+      "Boy",
+      "Car",
+      "Cute",
+      "Girl",
+      "Girls",
+      "Kids",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Rock Star Animal Hair Salon",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/lbo9n66w5ir2rq7h0dt3bpaxyaokjs31/512x384.jpg",
+    "video": "https://gamemonetize.video/video/lbo9n66w5ir2rq7h0dt3bpaxyaokjs31-1709207450.mp4",
+    "description": "Jungle animals are going crazy on-stage tonight! But first, you need to style and give the cutest band of animal rock stars a makeover for a crazy cool musical performance! Crazy hair colors, wild hairstyles, cool tattoo designs, sparkly makeup, hundreds of stage outfits and more rock star fun! All the superstar animals have new clothes and are ready to be styled! Can you give them a makeover? Now play music on a different stage with the Animals! Become a real star!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/lbo9n66w5ir2rq7h0dt3bpaxyaokjs31/\" width=\"1920\" height=\"1080\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/lbo9n66w5ir2rq7h0dt3bpaxyaokjs31/\" width=\"1920\" height=\"1080\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Animal",
+      "Cute",
+      "Dress Up",
+      "Fashion",
+      "Girl",
+      "Girls",
+      "Hair",
+      "Kids",
+      "Makeover",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Mechanic Repair Shop",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/3ks6cajucz932pi61e5wgnllec69k5o9/512x384.jpg",
+    "video": "https://gamemonetize.video/video/3ks6cajucz932pi61e5wgnllec69k5o9-1678232423.mp4",
+    "description": "Welcome to the garage with numerous vehicles. Have you ever cleaned and repaired your vehicle. Play this amazing mechanic game easily and learn best car repairing skills. A garage gives you access to hands-on auto service. Perform different jobs like changing wheels, cleaning cars, decorating trucks and more. Use amazing repairing and repairing skills and provide the best service in town.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/3ks6cajucz932pi61e5wgnllec69k5o9/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/3ks6cajucz932pi61e5wgnllec69k5o9/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Boy",
+      "Boys",
+      "Car",
+      "Cleaning",
+      "Decorate",
+      "Educational",
+      "Girl",
+      "Girls",
+      "Kids",
+      "Puzzle",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Baby Taylor Christmas Town Build",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/vh62qcu259uvtxat9px9xla51pb4ecan/512x384.jpg",
+    "video": "https://gamemonetize.video/video/vh62qcu259uvtxat9px9xla51pb4ecan-1672074586.mp4",
+    "description": "Christmas bells are ringing! Our darling Baby Taylor had a dream in which gingerbread man has asked her to renovate gingerbread house. Taylor needs your help in rebuilding gingerbread house, swimming pool, candy train, snowman, gingerbread girl, and decorating Christmas tree. Click on the different activity icons to complete the task.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/vh62qcu259uvtxat9px9xla51pb4ecan/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/vh62qcu259uvtxat9px9xla51pb4ecan/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Baby",
+      "Christmas",
+      "Cleaning",
+      "Cute",
+      "Decorate",
+      "Design",
+      "Girl",
+      "Girls",
+      "Kids",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Baby Taylor Pet Grooming Day",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/gggkn7fxaq5cvlgwshirpqihyqnexqss/512x384.jpg",
+    "video": "https://gamemonetize.video/video/gggkn7fxaq5cvlgwshirpqihyqnexqss-1699442620.mp4",
+    "description": "Its all about adorable pets and tons of fun! You get to be the ultimate pet stylist and caretaker. First, meet Taylors cute cat and dog! Groom them, feed them, and make them super happy. Use your creativity to style their fur and make them look fabulous! And guess what? You also get to decorate their rooms! Choose from a variety of cute decorations to make their spaces cozy and charming. Don’t forget the goldfish in Taylor’s bedroom! Its fish tank also needs a good cleaning and decoration. Its a day full of pet love and creativity. Lets have a blast with Taylor and make these furry friends feel extra special!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/gggkn7fxaq5cvlgwshirpqihyqnexqss/\" width=\"800\" height=\"504\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/gggkn7fxaq5cvlgwshirpqihyqnexqss/\" width=\"800\" height=\"504\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Animal",
+      "Baby",
+      "Baby Games",
+      "Cleaning",
+      "Cute",
+      "Design",
+      "Educational",
+      "Girl",
+      "Girls",
+      "Grooming",
+      "Makeover",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Girl Prom Hand Care",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/lbip1vq3b8g3innvy1ire0gr5xx5lf8o/512x384.jpg",
+    "video": "https://gamemonetize.video/video/lbip1vq3b8g3innvy1ire0gr5xx5lf8o-1668633464.mp4",
+    "description": "Emergency! Chloe will go to meet a prince today. But her hands are not beautiful. What happened? Chloe does too much housework every day. That makes her hands dirty and dough. Can you help her to solve the problem immediately? Not only cleaning, but also a big makeover. Don't forget to make a perfect nail art for her hands. She will love it and thank you.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/lbip1vq3b8g3innvy1ire0gr5xx5lf8o/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/lbip1vq3b8g3innvy1ire0gr5xx5lf8o/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Decorate",
+      "Design",
+      "Dress Up",
+      "Fashion",
+      "Girl",
+      "Girls",
+      "Kids",
+      "Makeover",
+      "Nail",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Blondie Bride Perfect Wedding Prep",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/u86tcxvuiqq9wfofyg8gvvsxxvoyriwp/512x384.jpg",
+    "video": "https://gamemonetize.video/video/u86tcxvuiqq9wfofyg8gvvsxxvoyriwp-1675044801.mp4",
+    "description": "Blondie said Yes and now the big moment has finally come. Join her in one of the coolest wedding games and help her dress up and put on makeup for this special event. Use the professional makeup products to enhance our bride's natural beauty. Make Blondie look stunning from head to toe in one of the prettiest wedding games!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/u86tcxvuiqq9wfofyg8gvvsxxvoyriwp/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/u86tcxvuiqq9wfofyg8gvvsxxvoyriwp/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Decorate",
+      "Dress Up",
+      "Fashion",
+      "Girl",
+      "Girls",
+      "Kids",
+      "Love",
+      "Makeover",
+      "Nail",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "School Girls Battle Beauty Salon",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/qib57741ucx6lyd8c8dqav6awsfyvm89/512x384.jpg",
+    "video": "https://gamemonetize.video/video/qib57741ucx6lyd8c8dqav6awsfyvm89-1718793729.mp4",
+    "description": "School Girls Battle Beauty Salon is a casual simulation game. Kristen and Elle are best friends,and they are in the same class at the same school. They agreed to put on beautiful makeup and wear beautiful clothes every day when they go to school to be the most shining sisters. Everyone envies their friendship. But recently, they had a fight because of a boy. Can you help them restore their friendship?",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/qib57741ucx6lyd8c8dqav6awsfyvm89/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/qib57741ucx6lyd8c8dqav6awsfyvm89/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Clicker",
+      "Girls",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Princesses at Horror School",
+    "author": "DL-studio",
+    "image": "https://img.gamemonetize.com/dtfziaj2zz4xglbzcdctg1uqyttpkj3y/512x384.jpg",
+    "video": "https://gamemonetize.video/video/dtfziaj2zz4xglbzcdctg1uqyttpkj3y-1728643619.mp4",
+    "description": "In this game, you will meet Laura and Frankie, two charming monsters who study at a school for young monsters. Every morning, the girls carefully think over their images, mixing elements of a classic princess and a creepy monster. Each of the girls has their own special fashion preferences, but when going to class, Laura and Frankie always attract the admiring glances of classmates. After all, they are not just princesses, but real monsters whose terrifying style makes even the bravest tremble!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/dtfziaj2zz4xglbzcdctg1uqyttpkj3y/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/dtfziaj2zz4xglbzcdctg1uqyttpkj3y/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Dress Up",
+      "Hair",
+      "Halloween",
+      "Makeover",
+      "Monster",
+      "School"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Hide And Seek Blue Monster",
+    "author": "puzzle game",
+    "image": "https://img.gamemonetize.com/digi5xwq9xlsyolubtfl4ofqyxnc7a02/512x384.jpg",
+    "video": "https://gamemonetize.video/video/digi5xwq9xlsyolubtfl4ofqyxnc7a02-1724316650.mp4",
+    "description": "Enter a world full of mystery and fun. In Hide And Seek: Blue Monster, you will experience a unique hide-and-seek adventure. The game combines casual games with puzzle challenges.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/digi5xwq9xlsyolubtfl4ofqyxnc7a02/\" width=\"640\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/digi5xwq9xlsyolubtfl4ofqyxnc7a02/\" width=\"640\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Hypercasual",
+      "Puzzle",
+      "Escape",
+      "Hidden",
+      "running"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Doll Unbox Dress Up",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/yvqfytw3qwzpgffqwj7giiagyv4bz2nv/512x384.jpg",
+    "video": "https://gamemonetize.video/video/yvqfytw3qwzpgffqwj7giiagyv4bz2nv-1692346735.mp4",
+    "description": "Do you want to create your own toy doll? Do you like to dress up them and combine fashion pieces? If you also happen to like collecting and blind boxes, thats great! This game is tailored for you! Hurry up, enjoy personalized DIY!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/yvqfytw3qwzpgffqwj7giiagyv4bz2nv/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/yvqfytw3qwzpgffqwj7giiagyv4bz2nv/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "3D",
+      "3D Games",
+      "Baby",
+      "Cute",
+      "Dress Up",
+      "Fashion",
+      "Girl",
+      "Girls",
+      "Kid",
+      "Kids",
+      "Makeover",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Super Racing Go Go Go",
+    "author": "Wali Games",
+    "image": "https://img.gamemonetize.com/9ipy0lr0nqvp4bjdvx5vf33gx9xoqsuz/512x384.jpg",
+    "video": "",
+    "description": "An authentic next-gen driving experience. Do you like to race, drift or just rip up the asphalt? Tune your car and do it all! This game is so good to be free!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/9ipy0lr0nqvp4bjdvx5vf33gx9xoqsuz/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/9ipy0lr0nqvp4bjdvx5vf33gx9xoqsuz/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Hypercasual",
+      "Racing",
+      ".io",
+      "Driving",
+      "Racing",
+      "Sports"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Geometry Dash Maze Maps",
+    "author": "artupdev",
+    "image": "https://img.gamemonetize.com/m0f68pr59l5jbq3e4mgsi3dlq83c0wgs/512x384.jpg",
+    "video": "https://gamemonetize.video/video/m0f68pr59l5jbq3e4mgsi3dlq83c0wgs-1702660315.mp4",
+    "description": "Welcome to one of the funniest and mega coolest skill games - Geometry Dash Maze maps . Here, you will plunge into the magnificent world of fun geometric shapes. Your character will be a cool luminescent square with a big smile. This little rascal will maneuver among the peaks of sharp triangles and multiple traps. In the game, you will help the square overcome all obstacles. For this you will need all your dexterity and cunning, because ahead of you is waiting a hard way. Be as observant as possible and try to quickly click to make a timely jump. Think through all the actions and prepare for the next jump, as soon as you s",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/m0f68pr59l5jbq3e4mgsi3dlq83c0wgs/\" width=\"1920\" height=\"1080\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/m0f68pr59l5jbq3e4mgsi3dlq83c0wgs/\" width=\"1920\" height=\"1080\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Arcade",
+      "Arcade",
+      "Arena",
+      "Best Games"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Kiddie Farmers",
+    "author": "Csharks",
+    "image": "https://img.gamemonetize.com/on8r2me11sog1ffh38y2c90dlpz2sj9k/512x384.jpg",
+    "video": "https://gamemonetize.video/video/on8r2me11sog1ffh38y2c90dlpz2sj9k-1718882203.mp4",
+    "description": "Kiddie Farmer is an interactive game that takes players to a delightful world, where kids run their own farm-to-table market. Get ready to experience a vibrant and busy atmosphere as these charming young business owners create and sell a variety of products to their peers.\nIn this role, you will embody a young entrepreneur in charge of overseeing and expanding the operations of the mart. Your main goal is to support these aspiring young business owners in growing their enterprise, ensuring that the supermarket flourishes and becomes the preferred destination for all children in the community.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/on8r2me11sog1ffh38y2c90dlpz2sj9k/\" width=\"960\" height=\"540\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/on8r2me11sog1ffh38y2c90dlpz2sj9k/\" width=\"960\" height=\"540\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Hypercasual",
+      "2D",
+      "Casual",
+      "endless",
+      "Farm",
+      "Game",
+      "HTML5",
+      "Kids",
+      "Management",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Park Inc",
+    "author": "BestCrazyGames",
+    "image": "https://img.gamemonetize.com/nwcrm627o2fowgdgb9meqqfeq6gn6adm/512x384.jpg",
+    "video": "https://gamemonetize.video/video/nwcrm627o2fowgdgb9meqqfeq6gn6adm-1715686517.mp4",
+    "description": "Park Inc is an engaging mobile game where players embark on a thrilling parking adventure. The objective? Unlock cars trapped in tight parking spots by strategically dragging vehicles to freedom. With each level presenting increasingly challenging puzzles, players must showcase their spatial awareness and problem-solving skills to succeed. Whether youre a casual gamer or a seasoned parking pro, Park Inc offers hours of addictive fun for all skill levels. Website Developer",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/nwcrm627o2fowgdgb9meqqfeq6gn6adm/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/nwcrm627o2fowgdgb9meqqfeq6gn6adm/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Hypercasual",
+      "Boys",
+      "Car",
+      "Cars",
+      "Kids",
+      "Mentolatux",
+      "Parking",
+      "Skill",
+      "Unity3D",
+      "WebGL"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Lazy Jump Online",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/npycpi1rn91379sihu4cbzsvvn5oosjy/512x384.jpg",
+    "video": "https://gamemonetize.video/video/npycpi1rn91379sihu4cbzsvvn5oosjy-1690448674.mp4",
+    "description": "Slide, stumble, flip and flail your way through endless levels in this physics-based puzzle game. When your character has all the strength and coordination of a wet rag, you’ll need really quick thinking and a firm grasp of the laws of physics to get them to complete even the simplest of tasks. Add to that a smattering of fiendish obstacles and unexpected mechanics, and it’ll take all of your wits.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/npycpi1rn91379sihu4cbzsvvn5oosjy/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/npycpi1rn91379sihu4cbzsvvn5oosjy/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "3D",
+      "Arcade",
+      "Avoid",
+      "Boy",
+      "jump",
+      "Kids",
+      "Mobile",
+      "Online",
+      "Puzzle"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Seat Jam 3D",
+    "author": "puzzle game",
+    "image": "https://img.gamemonetize.com/p6pwnd4a78hvfowet3e6v7kjxy8qy25v/512x384.jpg",
+    "video": "https://gamemonetize.video/video/p6pwnd4a78hvfowet3e6v7kjxy8qy25v-1714557545.mp4",
+    "description": "Seat Jam 3D is surely an entertaining puzzle game in which you place the passengers in the correct seats. You simply need to click on the passenger and then click on the correct seat. The first fewlevels are very simple, but before long, youll have to think long and hard before you can put all the passengers in the right seats. Solve the bus rush. They can move up and down, left and right, but not diagonally. Train your brain with engaging puzzles in Seat Jam 3D. Come and join the game!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/p6pwnd4a78hvfowet3e6v7kjxy8qy25v/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/p6pwnd4a78hvfowet3e6v7kjxy8qy25v/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Boys",
+      "Puzzle",
+      "1 Player",
+      "3D"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Wars Island Management",
+    "author": "BestCrazyGames",
+    "image": "https://img.gamemonetize.com/nw2j1urwbjt67lz5j6jigeg3m5e2050n/512x384.jpg",
+    "video": "https://gamemonetize.video/video/nw2j1urwbjt67lz5j6jigeg3m5e2050n-1720689456.mp4",
+    "description": "Enter the realm of Wars Island Management, where players must forge their own army from scratch. Strategically build and train troops, fortify defenses, and manage resources wisely to strengthen your military might. Utilize funds to expand your forces, develop new technologies, and ultimately launch calculated attacks against rival armies.  Website Developer  https://www.crazygamesonline.comgame?",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/nw2j1urwbjt67lz5j6jigeg3m5e2050n/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/nw2j1urwbjt67lz5j6jigeg3m5e2050n/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Army",
+      "Management",
+      "Mentolatux",
+      "unity games",
+      "War",
+      "WebGL"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Pinball Football Champion",
+    "author": "Immniatas",
+    "image": "https://img.gamemonetize.com/fjyu89wcncn7ancvltwpyjul95lhgwft/512x384.jpg",
+    "video": "https://gamemonetize.video/video/fjyu89wcncn7ancvltwpyjul95lhgwft-1716200212.mp4",
+    "description": "Lace up and unleash your gridiron skills in Pinball Football Champion! \nThis action-packed mobile game combines the classic thrills of pinball with the heart-pounding \nintensity of football. Flick the players to launch the ball, strategically maneuver it through \nbumpers and pins, and rack up points on the scoreboard.  Can you master the field, score big, \nand become the Pinball Football Champion? Download now and see if you have the skills to dominate!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/fjyu89wcncn7ancvltwpyjul95lhgwft/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/fjyu89wcncn7ancvltwpyjul95lhgwft/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Clicker",
+      "Soccer",
+      "1 Player",
+      "Best Games",
+      "Football",
+      "Soccer"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Jinx & Minx Tower Escape",
+    "author": "playonline.top",
+    "image": "https://img.gamemonetize.com/uh42l3gg002jgw3gupjl0ikom592ftyo/512x384.jpg",
+    "video": "https://gamemonetize.video/video/uh42l3gg002jgw3gupjl0ikom592ftyo-1697799555.mp4",
+    "description": "Its Halloween, and the skeleton Jinx and Minx bunnies are trapped high in an abandoned tower! Its up to you to guide them through spooky corridors, haunted rooms and puzzles, collecting the keys and the candy to get the bunnies out and back together! Website Developer https://playonline.top/",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/uh42l3gg002jgw3gupjl0ikom592ftyo/\" width=\"750\" height=\"500\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/uh42l3gg002jgw3gupjl0ikom592ftyo/\" width=\"750\" height=\"500\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Puzzle",
+      "1 Player",
+      "Adventure",
+      "Brain",
+      "Escape",
+      "Girl",
+      "Girls",
+      "Halloween",
+      "Kid",
+      "Kids",
+      "Logic",
+      "Logical"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Sprunki Drop",
+    "author": "Mapi Games",
+    "image": "https://img.gamemonetize.com/g2v5wciudv1n2sjwythcfjzgvpnfav8u/512x384.jpg",
+    "video": "https://gamemonetize.video/video/g2v5wciudv1n2sjwythcfjzgvpnfav8u-1736937903.mp4",
+    "description": "Help Sprunki escape from the dark forest prison! Sprunki Drop is a thrilling physics-based puzzle game featuring 60 exciting levels of fun and challenges.\nYour mission is to remove all the boxes except the grass where the prison is standing. Simply tap or click on the boxes or blocks to destroy them. Use the set blocks cleverly and strategically to guide Sprunki safely onto the grass. Be careful and precise to solve each level! Help Sprunki on this adventurous escape and enjoy hours of entertaining gameplay in this delightful physics puzzle!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/g2v5wciudv1n2sjwythcfjzgvpnfav8u/\" width=\"1280\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/g2v5wciudv1n2sjwythcfjzgvpnfav8u/\" width=\"1280\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Clicker",
+      "Puzzle",
+      "Block",
+      "mapi games",
+      "Physics",
+      "puzzleblock",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Squid Game Sprunki Escaped Backrooms",
+    "author": "breyman games",
+    "image": "https://img.gamemonetize.com/pepl27twcvoolxbrmy2kv4bmehb5s166/512x384.jpg",
+    "video": "https://gamemonetize.video/video/pepl27twcvoolxbrmy2kv4bmehb5s166-1737542835.mp4",
+    "description": "Now Sprunki has a nightmare. He has transformed to the snake and have to escaped from Backrooms. Unfortunately Squid Game soldier lurking around search for him!\nKill them all and escape! good luck",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/pepl27twcvoolxbrmy2kv4bmehb5s166/\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/pepl27twcvoolxbrmy2kv4bmehb5s166/\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Adventure",
+      "2 Player",
+      "3D",
+      "Animal",
+      "Arcade",
+      "Snake",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Sprunki Find The Differences",
+    "author": "CB Games",
+    "image": "https://img.gamemonetize.com/bs7j4sn0t3lqi1y301b9j76so4x5080h/512x384.jpg",
+    "video": "https://gamemonetize.video/video/bs7j4sn0t3lqi1y301b9j76so4x5080h-1733828933.mp4",
+    "description": "Inspired by the charming world of Sprunki, this game takes your observation skills to the next level. Dive into beautifully crafted scenes filled with vibrant details, where your task is to spot the differences between two seemingly identical images.\nWhether youre a fan of Sprunki or just love a good brain teaser, Sprunki Find The Differences offers a perfect mix of challenge and fun for players of all ages. Sharpen your focus, enjoy delightful visuals, and immerse yourself in a game thats as engaging as it is entertaining.\nStart your difference-finding adventure today and prove youre the ultimate spot-the-difference champion!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/bs7j4sn0t3lqi1y301b9j76so4x5080h/\" width=\"1920\" height=\"1080\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/bs7j4sn0t3lqi1y301b9j76so4x5080h/\" width=\"1920\" height=\"1080\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Hypercasual",
+      "Puzzle",
+      "Boys",
+      "Difference",
+      "Educational",
+      "Girls",
+      "Hidden",
+      "Hypercasual",
+      "Puzzle",
+      "School",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Sprunki Money Stack Incredibox",
+    "author": "breyman games",
+    "image": "https://img.gamemonetize.com/pqdll0sasgbsf0o31ifz1mxflgl76ygr/512x384.jpg",
+    "video": "https://gamemonetize.video/video/pqdll0sasgbsf0o31ifz1mxflgl76ygr-1737630281.mp4",
+    "description": "Now Sprunki must gather as much money as possible, collect all the money and multiplied it to buy a new house and upgrades all his life behavior!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/pqdll0sasgbsf0o31ifz1mxflgl76ygr/\" width=\"460\" height=\"700\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/pqdll0sasgbsf0o31ifz1mxflgl76ygr/\" width=\"460\" height=\"700\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Hypercasual",
+      "Puzzle",
+      ".io Games",
+      "1 Player",
+      "Action",
+      "Adventure",
+      "Slot Machine",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Blast Sprunki",
+    "author": "Mapi Games",
+    "image": "https://img.gamemonetize.com/0koq56k6nldcn2ztz4ir2x0fxnszcl1w/512x384.jpg",
+    "video": "https://gamemonetize.video/video/0koq56k6nldcn2ztz4ir2x0fxnszcl1w-1736496368.mp4",
+    "description": "Hey, the cute Green Sprunki needs your help to escape from this dark world! Your mission is to guide Sprunki safely to the designated area with the least number of attempts.\nStrategically place explosives to propel Sprunki in the right direction, but be careful - dangerous spikes, obstacles, and tricky terrain can end your journey prematurely.\nEach level introduces unique challenges requiring precise timing, strategy, and creativity.\nTest your skills by aiming to earn three stars on every level through smart moves and minimal attempts.\nCan you lead Sprunki to safety and become a true master of precision?",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/0koq56k6nldcn2ztz4ir2x0fxnszcl1w/\" width=\"1024\" height=\"768\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/0koq56k6nldcn2ztz4ir2x0fxnszcl1w/\" width=\"1024\" height=\"768\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Puzzle",
+      "Block",
+      "Bomb",
+      "HTML5",
+      "mapi games",
+      "Puzzle",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Sprunki Island Survival Shooting",
+    "author": "BestCrazyGames",
+    "image": "https://img.gamemonetize.com/7liinqcjnowez1fprit93jaisys36v9c/512x384.jpg",
+    "video": "https://gamemonetize.video/video/7liinqcjnowez1fprit93jaisys36v9c-1735644808.mp4",
+    "description": "Youre stranded on an island, facing an invasion of Sprunki determined to destroy you. Arm yourself with two guns and fight back! Eliminate the Sprunki before they overwhelm you. Survival depends on your shooting skills and quick thinking. Defend yourself and endure against the relentless Sprunki attack! Website Dev: https://www.crazygamesonline.com/",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/7liinqcjnowez1fprit93jaisys36v9c/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/7liinqcjnowez1fprit93jaisys36v9c/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Shooting",
+      "First Person Shooter",
+      "Mentolatux",
+      "Shooting",
+      "Sprunki",
+      "survival",
+      "Unity3D",
+      "WebGL"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Sprunki Murdered Incredibox",
+    "author": "breyman games",
+    "image": "https://img.gamemonetize.com/o3h4zygmu802lz4tngxe8xbx8t1y5i9x/512x384.jpg",
+    "video": "https://gamemonetize.video/video/o3h4zygmu802lz4tngxe8xbx8t1y5i9x-1735302340.mp4",
+    "description": "Now its time to murder Sprunki inin this epic fight!\nGrab any item to burn Sprunki to the eternal flame of death!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/o3h4zygmu802lz4tngxe8xbx8t1y5i9x/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/o3h4zygmu802lz4tngxe8xbx8t1y5i9x/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Adventure",
+      "huggy",
+      "Skibidi Toilet",
+      "Sprunki",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Sprunki Jigsaw Puzzle",
+    "author": "SoulHouse",
+    "image": "https://img.gamemonetize.com/135nsbm8dq5vivwk71a9tg9g7jjqstst/512x384.jpg",
+    "video": "https://gamemonetize.video/video/135nsbm8dq5vivwk71a9tg9g7jjqstst-1734689070.mp4",
+    "description": "Welcome to Sprunki Jigsaw Puzzle Game!\nDrag and drop the Sprunki Jigsaw pieces to complete the amazing pictures.\nChallenge your brain! Start with the edges and remember the colors in the pictures to finish quickly.\nCan you solve all the puzzles?",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/135nsbm8dq5vivwk71a9tg9g7jjqstst/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/135nsbm8dq5vivwk71a9tg9g7jjqstst/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Puzzle",
+      "Jigsaw",
+      "Puzzle",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Sprunki Castle Panic Skibidi Toilet",
+    "author": "breyman games",
+    "image": "https://img.gamemonetize.com/qbu9r1t6we54pvix91sfnol5at7jbzvo/512x384.jpg",
+    "video": "https://gamemonetize.video/video/qbu9r1t6we54pvix91sfnol5at7jbzvo-1736421051.mp4",
+    "description": "Now Sprunki Castle Panic Skibidi Toilet must escape from Skibidi Toilet in Castle Incredibox. Get all coin to get access  to exit.\nNow there is no easy escape, beware!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/qbu9r1t6we54pvix91sfnol5at7jbzvo/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/qbu9r1t6we54pvix91sfnol5at7jbzvo/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Adventure",
+      "Christmas",
+      "huggy",
+      "Skibidi",
+      "Skibidi Toilet",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Sprunki Incredibox Differences",
+    "author": "New Kids Games",
+    "image": "https://img.gamemonetize.com/xrsube9lt82eajgwfhoncszreqevb5ad/512x384.jpg",
+    "video": "https://gamemonetize.video/video/xrsube9lt82eajgwfhoncszreqevb5ad-1736166070.mp4",
+    "description": "In this game Sprunki Incredibox Differences you need to keep locate differences between the two pictures in the limited amount of time given to play each time! To play, use your mouse as control. Make sure that you don’t make a mistake more than three times because that will make you fail. One minute is the total time you will play through the 20 levels in this game! In each level you have ten differences. Good luck!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/xrsube9lt82eajgwfhoncszreqevb5ad/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/xrsube9lt82eajgwfhoncszreqevb5ad/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Puzzle",
+      "Best",
+      "Difference",
+      "Kids",
+      "Music",
+      "Skill",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Sprunki Stick",
+    "author": "Mapi Games",
+    "image": "https://img.gamemonetize.com/9gmcf46f917hda99qv6q4k69au3h0q6s/512x384.jpg",
+    "video": "https://gamemonetize.video/video/9gmcf46f917hda99qv6q4k69au3h0q6s-1737452950.mp4",
+    "description": "Hey help the Sprunki to stretch the stick the more you can to reach and walk on the platforms. Beware! If the stick is not long enough, you will fall down! Get yourself in the ninja action! How far can you go? Enjoy it!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/9gmcf46f917hda99qv6q4k69au3h0q6s/\" width=\"1024\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/9gmcf46f917hda99qv6q4k69au3h0q6s/\" width=\"1024\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Hypercasual",
+      "mapi games",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Sprunki s WORLD All MOD",
+    "author": "jimo Game",
+    "image": "https://img.gamemonetize.com/9ppiron0s93l4kxd8lccgsg8s0q115j1/512x384.jpg",
+    "video": "https://gamemonetize.video/video/9ppiron0s93l4kxd8lccgsg8s0q115j1-1737723211.mp4",
+    "description": "Discover Sprunki Incredibox: A Fan-Made Musical Adventure\nIf youre a fan of Incredibox, youre going to love Sprunki Incredibox! This fan-made mod takes the beloved creativity and music-mixing fun of the original game to exciting new levels. At sprunki.org, were thrilled to present this vibrant and imaginative experience, packed with unique features that make it a must-play for music enthusiasts and gamers alike.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/9ppiron0s93l4kxd8lccgsg8s0q115j1/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/9ppiron0s93l4kxd8lccgsg8s0q115j1/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Music",
+      "Sprunki"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Halloween Masquerade Party",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/clsglogonwica2n81u4xcqids7mdinco/512x384.jpg",
+    "video": "https://gamemonetize.video/video/clsglogonwica2n81u4xcqids7mdinco-1698661512.mp4",
+    "description": "Halloween is coming, Sofia and her friends plan to have a Halloween masquerade. Can you help them to decorate the room and change a dress style? Have a good time!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/clsglogonwica2n81u4xcqids7mdinco/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/clsglogonwica2n81u4xcqids7mdinco/\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Baby Games",
+      "Dress Up",
+      "Fashion",
+      "Girl",
+      "Girls",
+      "Halloween",
+      "Kids",
+      "Makeover",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Scary Running",
+    "author": "LifeStyleGAMES",
+    "image": "https://img.gamemonetize.com/cnz8k87kc3inkqtpxrbldosolgzypqq1/512x384.jpg",
+    "video": "https://gamemonetize.video/video/cnz8k87kc3inkqtpxrbldosolgzypqq1-1685462454.mp4",
+    "description": "Scary Temple Final Jungle Run: Spirit Lost Endless Run game feeling the best princess Jungle running game. Endless princess Scary jungle run through the dark Castle survives a rush of obstacles in the jungle lost temple. This is the most excited jungle taste game. Run for life through the beautiful jungle as well as other mysterious ways. Run fast as you can to escape for life.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/cnz8k87kc3inkqtpxrbldosolgzypqq1/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/cnz8k87kc3inkqtpxrbldosolgzypqq1/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "3D",
+      "Adventure",
+      "1 Player",
+      "Boys",
+      "Funny",
+      "running"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Cat Girl Halloween Preparation",
+    "author": "cutedressup.com",
+    "image": "https://img.gamemonetize.com/az36k43wz4iul317i84z1llmca1qjo0v/512x384.jpg",
+    "video": "https://gamemonetize.video/video/az36k43wz4iul317i84z1llmca1qjo0v-1698314896.mp4",
+    "description": "Welcome to Cat Girl Halloween Preparation. Join Cat Girl in her Halloween Preparation journey! From spooky decorations to creative costumes, get inspired for the spookiest night of the year. Discover Cat Girls tips and tricks for the ultimate Halloween celebration and make this year’s festivities unforgettable! Play and have fun with this new halloween game!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/az36k43wz4iul317i84z1llmca1qjo0v/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/az36k43wz4iul317i84z1llmca1qjo0v/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Boys",
+      "Girls",
+      "Decoration",
+      "Dress Up",
+      "Fashion",
+      "Halloween"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Halloween Moster Vs Zombies",
+    "author": "desenvolvedor de jogos",
+    "image": "https://img.gamemonetize.com/vuu0litxi4kyn4rr0wew8berqwbdy5co/512x384.jpg",
+    "video": "https://gamemonetize.video/video/vuu0litxi4kyn4rr0wew8berqwbdy5co-1697101821.mp4",
+    "description": "Welcome to the exciting and scary world of Halloween Monster Vs Zombies! In this addictive and fun game, you take on the role of a brave monster in search of the most delicious Halloween candies. However, theres a problem: the cemetery is full of hungry zombies, and theyll do anything to stop you from getting your favorite candies!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/vuu0litxi4kyn4rr0wew8berqwbdy5co/\" width=\"1920\" height=\"1080\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/vuu0litxi4kyn4rr0wew8berqwbdy5co/\" width=\"1920\" height=\"1080\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Arcade",
+      "Adventure",
+      "Arcade",
+      "Halloween"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Princess Halloween Boutique",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/rotj5cmq91byt2dg95l21ocoqytdofgz/512x384.jpg",
+    "video": "https://gamemonetize.video/video/rotj5cmq91byt2dg95l21ocoqytdofgz-1700134664.mp4",
+    "description": "Princess Halloween Boutique is an online game that you can play on Babygames for free. \nSpooks, costumes, parties, trick-or-treating...its Halloween, the busiest time of the year. Look, the store is crowded with school guests. Sweet dates, birthday parties, auditions... the girls will have a wonderful holiday. Make them look as scary as possible! what is that? Is that a pineapple? Yes, there are people dressed as pineapples on the street! Use your imagination and dress the girls up in a spooky and unique way! Are you up for the hauntingly chic adventure?",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/rotj5cmq91byt2dg95l21ocoqytdofgz/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/rotj5cmq91byt2dg95l21ocoqytdofgz/\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Baby",
+      "Baby Games",
+      "Cute",
+      "Dress Up",
+      "Fashion",
+      "Girl",
+      "Girls",
+      "Halloween",
+      "Makeover",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Zombie Hunter Assault",
+    "author": "Lich.Games",
+    "image": "https://img.gamemonetize.com/h628vqds1znku3km781695iiyk5krz58/512x384.jpg",
+    "video": "https://gamemonetize.video/video/h628vqds1znku3km781695iiyk5krz58-1696684892.mp4",
+    "description": "Zombies are everywhere, they are waiting in the dark for the next victim, their hunger is bigger than your courage so you have to use all your arsenal to defeat them and save yourself. Find the glowing card to finish the level, otherwise you will not be able to survive. Are you ready to be a zombie hunter?",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/h628vqds1znku3km781695iiyk5krz58/\" width=\"960\" height=\"540\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/h628vqds1znku3km781695iiyk5krz58/\" width=\"960\" height=\"540\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Shooting",
+      "3D Games",
+      "Unity3D",
+      "weapons",
+      "WebGL",
+      "Zombie"
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Halloween Faces Memory",
+    "author": "Play Games",
+    "image": "https://img.gamemonetize.com/qi9t6zbi3xs6b8h9ku7hegsc1wjy7bnh/512x384.jpg",
+    "video": "https://gamemonetize.video/video/qi9t6zbi3xs6b8h9ku7hegsc1wjy7bnh-1682202065.mp4",
+    "description": "To show how good your visual Halloween memory is. The task is to remember and then open identical scary faces in pairs. At the first level, there will be only two pairs. But on the tenth - twenty. At first, all the pictures will be open for a few seconds, so that you can remember their location. Then they will turn the same sides, and you will reopen them, deleting the pairs in Halloween Faces Memory.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/qi9t6zbi3xs6b8h9ku7hegsc1wjy7bnh/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/qi9t6zbi3xs6b8h9ku7hegsc1wjy7bnh/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Puzzle",
+      "1 Player",
+      "Casual",
+      "Halloween",
+      "Hypercasual",
+      "Kids",
+      "Matching",
+      "Memory",
+      "Monster",
+      "Skill"
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Halloween Hidden Objects",
+    "author": "LofGames.com",
+    "image": "https://img.gamemonetize.com/po1b54orl9di01sx31lruh1806fr31ss/512x384.jpg",
+    "video": "https://gamemonetize.video/video/po1b54orl9di01sx31lruh1806fr31ss-1692384608.mp4",
+    "description": "Halloween Hidden Objects is a classic point and click hidden object game.  You need to find all of the items listed in the picture on the left side of the screen.  Complete the level before time runs out to get bonus points.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/po1b54orl9di01sx31lruh1806fr31ss/\" width=\"800\" height=\"450\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/po1b54orl9di01sx31lruh1806fr31ss/\" width=\"800\" height=\"450\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Puzzle",
+      "Fun",
+      "Girls",
+      "Halloween",
+      "Hidden",
+      "HTML5",
+      "Kids",
+      "Mobile",
+      "Puzzle",
+      "Room"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Slot in Halloween",
+    "author": "fight boys",
+    "image": "https://img.gamemonetize.com/8ycrh0yintc2iobacb4046ksqzefoekw/512x384.jpg",
+    "video": "https://gamemonetize.video/video/8ycrh0yintc2iobacb4046ksqzefoekw-1685457156.mp4",
+    "description": "Slot in Halloween game has a lot of success review and player this MONTH  that significantly improves overall game performance, especially on mobile phones. To play the game just touch the screen buttons if you use a mobile device Halloween Slot  .",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/8ycrh0yintc2iobacb4046ksqzefoekw/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/8ycrh0yintc2iobacb4046ksqzefoekw/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Adventure",
+      "Action",
+      "Bubble Shooter",
+      "Halloween",
+      "Interactive",
+      "Interactive Fiction",
+      "Kid",
+      "Kids",
+      "Shoot",
+      "Shoot 'Em Up",
+      "Shooter",
+      "Shooting",
+      "Zombie"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Find Differences Halloween",
+    "author": "LofGames.com",
+    "image": "https://img.gamemonetize.com/qf5sztpafhznltms9nml2dp8feg26h4p/512x384.jpg",
+    "video": "https://gamemonetize.video/video/qf5sztpafhznltms9nml2dp8feg26h4p-1682725798.mp4",
+    "description": "This is a Spot the difference type of puzzle game where players must find  differences between two otherwise similar images. Try to find differences using your hawk eyes and tap that otherwise use hint. Unused hints and saved time will give you extra bonus score.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/qf5sztpafhznltms9nml2dp8feg26h4p/\" width=\"800\" height=\"450\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/qf5sztpafhznltms9nml2dp8feg26h4p/\" width=\"800\" height=\"450\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Puzzle",
+      "Difference",
+      "Halloween",
+      "Hidden",
+      "Kids",
+      "Mobile",
+      "Puzzle"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Zombie Drift Arena",
+    "author": "Hit Games",
+    "image": "https://img.gamemonetize.com/9mp9bjqjp10k2c7xsyolgi6o2q5fks1u/512x384.jpg",
+    "video": "https://gamemonetize.video/video/9mp9bjqjp10k2c7xsyolgi6o2q5fks1u-1694804111.mp4",
+    "description": "You must try Zombie Drift Arena to play a fun drift game. You have to drift in the arena against zombies. Destroy zombies by drifting. Remember, you should also destroy pumpkins. Zombies get power from the pumpkin. A fun game with 50+ different levels and 9 different cars is waiting for you.   \nPrepare for an immersive atmosphere with enhanced graphics and sound effects.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/9mp9bjqjp10k2c7xsyolgi6o2q5fks1u/\" width=\"900\" height=\"506\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/9mp9bjqjp10k2c7xsyolgi6o2q5fks1u/\" width=\"900\" height=\"506\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Hypercasual",
+      "Racing",
+      "1 Player",
+      "3D",
+      "Arena",
+      "Battle",
+      "Car",
+      "Cars",
+      "Cartoon",
+      "Crazy",
+      "drift",
+      "drifting",
+      "Escape",
+      "Fun",
+      "Hypercasual",
+      "Race",
+      "Racing",
+      "Road",
+      "Simulator",
+      "Supercars",
+      "WebGL",
+      "Zombie"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Baby Taylor Music Journey",
+    "author": "babygames.com",
+    "image": "https://img.gamemonetize.com/g1j9wylf8bh0b8jbv6mninfozsvc7xx2/512x384.jpg",
+    "video": "https://gamemonetize.video/video/g1j9wylf8bh0b8jbv6mninfozsvc7xx2-1698224990.mp4",
+    "description": "The annual Mexican Day of the Dead is here! This is one of the liveliest festivals in the world. Nothing, music, carnival... Baby Taylor cant miss such a grand event. Please come to this festival with Taylor, dress up, make up, and choose an instrument to perform!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/g1j9wylf8bh0b8jbv6mninfozsvc7xx2/\" width=\"800\" height=\"504\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/g1j9wylf8bh0b8jbv6mninfozsvc7xx2/\" width=\"800\" height=\"504\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "Baby",
+      "Baby Games",
+      "Cute",
+      "Dress Up",
+      "Educational",
+      "Fashion",
+      "Girl",
+      "Girls",
+      "Halloween",
+      "Kids",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Battleground Chicken Winner",
+    "author": "InstantOnlineGames.com",
+    "image": "https://img.gamemonetize.com/h4a6jtropznbatgr8rpxoo8qlygz7f1o/512x384.jpg",
+    "video": "https://gamemonetize.video/video/h4a6jtropznbatgr8rpxoo8qlygz7f1o-1693661516.mp4",
+    "description": "Battleground Chicken Winner team up, room cards and clan modes make it easier to keep playing with your friends any time, any place.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/h4a6jtropznbatgr8rpxoo8qlygz7f1o/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/h4a6jtropznbatgr8rpxoo8qlygz7f1o/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Shooting",
+      "Action",
+      "Shoot",
+      "Shooter",
+      "Shooting"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Crossy Chicken",
+    "author": "SquareLemurs",
+    "image": "https://img.gamemonetize.com/rlz6ypkzl7cgle5yivsyledz0khnk4dc/512x384.jpg",
+    "video": "https://gamemonetize.video/video/rlz6ypkzl7cgle5yivsyledz0khnk4dc-1685460970.mp4",
+    "description": "Chicken Cross is an arcade game created by SquareLemurs with the gameplay similar to the classic Frogger game. In Chicken Cross game you have to dodge traffic, hop across logs, evade trains and collect coins. Make sure you don’t stay still for too long or you’re toast! Don't forget to unlock exciting new characters with your hard earnt coins!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/rlz6ypkzl7cgle5yivsyledz0khnk4dc/\" width=\"1080\" height=\"1920\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/rlz6ypkzl7cgle5yivsyledz0khnk4dc/\" width=\"1080\" height=\"1920\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Hypercasual",
+      "1 Player",
+      "3D",
+      "3D Games",
+      "Animal",
+      "Arcade",
+      "Avoid",
+      "Best",
+      "Block",
+      "Cartoon",
+      "Chicken",
+      "Cute",
+      "endless",
+      "Fun",
+      "Funny",
+      "Highscore",
+      "running"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Angry Birds Casual",
+    "author": "PIKPOK",
+    "image": "https://img.gamemonetize.com/6vf6qlkpnu11hrt428icrn9twg1z5kgb/512x384.jpg",
+    "video": "https://gamemonetize.video/video/6vf6qlkpnu11hrt428icrn9twg1z5kgb-1689128265.mp4",
+    "description": "Compete against the World in 24 NEW Angry Birds levels every week! \nOr take your chances in the Star Cup as you go head-to-head against individual opponents! \nCompete with your friends, come out on top, and climb the leaderboards to become the BEST Angry Birds player in the World! \n \nTournament Features: \n– NEW Competitive Tournaments starting every Monday, Thursday and Saturday! \n– Play 24 NEW levels every week! \n– Challenge opponents and win to advance to higher leagues! \n– Take hold of the top position for amazing rewards! \n– Special Themed Tournaments every other week! \n \nStar Cup features: \n– Challenge other Angry Birds players one-on-one! \n– Free Power Ups, Level Effects and Special Slingshots on every level. \n– Collect Feathers to level up your Birds and gain more scoring power! \n– Win streaks! Win multiple matches in a row to increase your Rewards.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/6vf6qlkpnu11hrt428icrn9twg1z5kgb/\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/6vf6qlkpnu11hrt428icrn9twg1z5kgb/\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Hypercasual",
+      "Bird"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Easter Coloring Book Online",
+    "author": "Games-kids.com",
+    "image": "https://img.gamemonetize.com/go9mxbhfil2nufdvyu4q0sr3yvxy4mds/512x384.jpg",
+    "video": "https://gamemonetize.video/video/go9mxbhfil2nufdvyu4q0sr3yvxy4mds-1681835802.mp4",
+    "description": "Easter Coloring Book Online Game is a delightful and engaging digital coloring activity that allows children to celebrate the festive season with creativity and fun. The game features a range of Easter-themed images, including Easter bunnies, Easter eggs, and Easter baskets, that can be brought to life with a palette of vivid colors. The game provides an intuitive interface that enables young players to easily navigate through the various options and tools, including a paintbrush and a color picker. Children can also experiment with different patterns and textures to create unique designs. Easter Coloring Book Online Game promotes imagination and creativity, and is an ideal way to keep kids entertained while also enhancing their artistic skills. With its cheerful graphics and easy-to-use functionality, this game is sure to bring joy and happiness to children during the Easter season.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/go9mxbhfil2nufdvyu4q0sr3yvxy4mds/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/go9mxbhfil2nufdvyu4q0sr3yvxy4mds/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Girls",
+      "Color",
+      "Coloring",
+      "Easter"
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Amgel Easter Room Escape 3",
+    "author": "Amgelescape",
+    "image": "https://img.gamemonetize.com/rh9iqax105ez29bddc3btf2yuf9ohthh/512x384.jpg",
+    "video": "https://gamemonetize.video/video/rh9iqax105ez29bddc3btf2yuf9ohthh-1674310856.mp4",
+    "description": "AmgelEscape - Amgel Easter Room Escape 3 is another point and click escape game developed by Amgel Escape. In this game, you are locked in an Easter room and you have to try to escape the Easter room by finding items and solving puzzles. Show your best escaping skills to escape from kids room. Can you escape from the Irish room successfully? Good luck and have fun!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/rh9iqax105ez29bddc3btf2yuf9ohthh/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/rh9iqax105ez29bddc3btf2yuf9ohthh/\" width=\"800\" height=\"480\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Clicker",
+      "Puzzle",
+      "Escape",
+      "Point And Click"
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Chicken Jump",
+    "author": "Bnagames",
+    "image": "https://img.gamemonetize.com/62bt6tp9cce81ydipfb61nwzf5qa3cca/512x384.jpg",
+    "video": "https://gamemonetize.video/video/62bt6tp9cce81ydipfb61nwzf5qa3cca-1698195356.mp4",
+    "description": "Chicken Jump is a casual game. In this gravity game you control chicken. Avoid obstales and run and jump on platforms. Be fast, collect diamonds and complete 12 levels. Good luck!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/62bt6tp9cce81ydipfb61nwzf5qa3cca/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/62bt6tp9cce81ydipfb61nwzf5qa3cca/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Hypercasual",
+      "Chicken",
+      "Jumping",
+      "running"
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Egg Wary: Dragon Eggs Catch Legends",
+    "author": "HELLOSOFT LTD",
+    "image": "https://img.gamemonetize.com/89ow4vi0vp69ooejf8347mgna9jq1j36/512x384.jpg",
+    "video": "https://gamemonetize.video/video/89ow4vi0vp69ooejf8347mgna9jq1j36-1680830232.mp4",
+    "description": "The Game Play starts with Egg wary going after the Monster Dragon and the player must keep on tapping to prevent Egg wary from touching the spokes on the screen. Eggs will appear one by one and the player must control the tapping to move Egg wary up and down to catch the egg, making sure she does not touch any spoke. \n \nEgg Wary: Dragon Eggs Catch Legends is a casual energy exploring game where  the player must control the tapping to move Egg wary up and down to catch the egg. Build a home for yourself on a tropical island and craft various products to fulfill different orders, while joining Mia on her adventures to new islands. \n \nDragons Capes Adventure is completely free to download and free to play. However, some items in the game may be purchased with real money. If you don't want to use this feature, please disable in-app purchases in your device's settings. \n \nEscape your routine with magical challenges and mini-games! Build a legendary city, merge and collect different dragon breeds. The fun never stops in this simulator of dragon pets. Battle and clash against other monsters in this animal fantasy experience! \n \nFeatures \n \nGrow and harvest Dragon Treats, then feed your dragons to level up \nBaby dragons to mythical dragons, nurture your majestic fantasy animals \nEnter your dragons in fun races and send them on quests to win epic treasures and Dragon Cash \nDiscover new dragons, decorations, habitats, and activities during special seasonal events \nExplore space by collecting special Galaxy Dragons \nCollect and categorize your city of dragons \nConnect and share with your friends online \nTeam up with friends in the Cooperative Breeding Cave \nDragon eggs! Spectacular visuals and sparkling animations \nImpressive and unique art for each egg, baby, juvenile, adult, and elder dragon \nDragon Vale is accompanied by an original soundtrack written by our award-winning composer \n \nLegend holds that dragons are fierce, fire-breathing monsters - but Dragon Vale proves that these fantasy creatures are more than just breeding beasts. From cute and cuddly, to massive, time- bending creatures. Dragon Vale has it all. Build and decorate beautiful floating islands in the sky to create your ultimate park.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/89ow4vi0vp69ooejf8347mgna9jq1j36/\" width=\"1440\" height=\"2960\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/89ow4vi0vp69ooejf8347mgna9jq1j36/\" width=\"1440\" height=\"2960\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Arcade",
+      "Action",
+      "Android",
+      "Arcade",
+      "Casual",
+      "Hypercasual"
+    ]
+  },
+  {
+    "id": 128,
+    "title": "The Magical Golden Egg",
+    "author": "Eggys Games",
+    "image": "https://img.gamemonetize.com/juq2c0gakqi45xcngid0hh4wjn0p6625/512x384.jpg",
+    "video": "https://gamemonetize.video/video/juq2c0gakqi45xcngid0hh4wjn0p6625-1669068657.mp4",
+    "description": "In this chicken platformer you must get your white chicken to the end of the level by casting spells out your golden egg and spawning gun chickens that shoot down enemies.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/juq2c0gakqi45xcngid0hh4wjn0p6625/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/juq2c0gakqi45xcngid0hh4wjn0p6625/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Adventure",
+      "1 Player",
+      "2D",
+      "Action",
+      "Adventure",
+      "Animal",
+      "Platform"
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Frenzy Chicken Shooter 3D",
+    "author": "Instant Games Studio",
+    "image": "https://img.gamemonetize.com/5te4cfqsje768fwi01tblr3hvx5rdhti/512x384.jpg",
+    "video": "https://gamemonetize.video/video/5te4cfqsje768fwi01tblr3hvx5rdhti-1693659294.mp4",
+    "description": "This chicken hunting game is all about the chicken hunt of the chicken hunter. This gun game has different chicken hunt levels where each chicken hunt level has a set chicken shooting mission for you. In order to achieve your objective of chicken shooting you just have to do pistol shooting to hunt chickens in this gun game.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/5te4cfqsje768fwi01tblr3hvx5rdhti/\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/5te4cfqsje768fwi01tblr3hvx5rdhti/\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Shooting",
+      "Action",
+      "Chicken",
+      "Shoot",
+      "Shooter",
+      "Shooting"
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Princess Happy Easter",
+    "author": "cutedressup.com",
+    "image": "https://img.gamemonetize.com/fttwpysbms9kq8xf59xxiyif50tonw43/512x384.jpg",
+    "video": "https://gamemonetize.video/video/fttwpysbms9kq8xf59xxiyif50tonw43-1687570976.mp4",
+    "description": "Welcome to the Princess Happy Easter game. Princess Elsa, Anna, and Ariel are best friends. After a long time, they met each other and planned to organize a get-together party for Easter. The Princesses plan to try cute outfits and decorate the cookies with their own style to make this easter most memorable one. Join and help the princesses with your ideas.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/fttwpysbms9kq8xf59xxiyif50tonw43/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/fttwpysbms9kq8xf59xxiyif50tonw43/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Boys",
+      "Girls",
+      "Cute",
+      "Decorate",
+      "Disney",
+      "Dress Up",
+      "Easter",
+      "Elsa",
+      "Girls",
+      "Kids",
+      "Makeover"
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Eggys Big Adventure",
+    "author": "Eggys Games",
+    "image": "https://img.gamemonetize.com/jhws8h7joexxkyaszwhx2rdgf9xatnrg/512x384.jpg",
+    "video": "https://gamemonetize.video/video/jhws8h7joexxkyaszwhx2rdgf9xatnrg-1668262753.mp4",
+    "description": "A cute fun physics based platformer game. Hop around and fall on the slippery cloud platforms all the way into the dark lands! Eggy must make his way past the shadow monsters in this crazy world!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/jhws8h7joexxkyaszwhx2rdgf9xatnrg/\" width=\"900\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/jhws8h7joexxkyaszwhx2rdgf9xatnrg/\" width=\"900\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Adventure",
+      "2D",
+      "Action",
+      "Adventure",
+      "Side Scrolling"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Green Chicken",
+    "author": "Kutty Company",
+    "image": "https://img.gamemonetize.com/p1z2stfpds136fje3gso2eraeg19r5ag/512x384.jpg",
+    "video": "https://gamemonetize.video/video/p1z2stfpds136fje3gso2eraeg19r5ag-1692060789.mp4",
+    "description": "Help the chicken to explore the. Jump, Jump and jump. Try to get more points",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/p1z2stfpds136fje3gso2eraeg19r5ag/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/p1z2stfpds136fje3gso2eraeg19r5ag/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Hypercasual",
+      "Adventure",
+      "Chicken",
+      "jump",
+      "Jumping",
+      "Platform"
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Super Stunt car 7",
+    "author": "Keeru9",
+    "image": "https://img.gamemonetize.com/cxrki3r51lxtdoso58xui05si74uehfk/512x384.jpg",
+    "video": "https://gamemonetize.video/video/cxrki3r51lxtdoso58xui05si74uehfk-1696323198.mp4",
+    "description": "Fun and enjoyment filled stunt car game with casual fun and also challenging levels. Beat the other players in the multiplayer racing arena and rise to the top! Tweak your car to be the best on the planet!\nThis game has muscle cars, jump ramps, Loops, fire rings, racing tracks, skill tracks, puzzle tracks, racing against trains, customisable cars, monster trucks, online racing and upgradable cars from stunt to monster car levels. Download now!\nWin the challenges in stunt tracks with your excellent stunt car! Drive on tracks with jumps, loops and obstacles! Race against a train! Beat the cop cars in San Francisco! Try the new racing levels a",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/cxrki3r51lxtdoso58xui05si74uehfk/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/cxrki3r51lxtdoso58xui05si74uehfk/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Racing",
+      "1 Player",
+      "3D",
+      "Action",
+      "Adventure",
+      "Car",
+      "Cars",
+      "Racing",
+      "Stunts",
+      "Supercars"
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Poppy Rush Color",
+    "author": "lokogames.online",
+    "image": "https://img.gamemonetize.com/uj7bd0qcjs4xzfeu97yuexcjpvqwt4j1/512x384.jpg",
+    "video": "https://gamemonetize.video/video/uj7bd0qcjs4xzfeu97yuexcjpvqwt4j1-1687423222.mp4",
+    "description": "To win the level, you must make yourself stronger and defeat the boss. This can be achieved by absorbing people of the same color as you, which will increase your strength, while matching with people of different colors will weaken you. It is important to avoid these individuals. Once you have become sufficiently strong, you can engage in a battle with their leader to emerge victorious.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/uj7bd0qcjs4xzfeu97yuexcjpvqwt4j1/\" width=\"600\" height=\"960\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/uj7bd0qcjs4xzfeu97yuexcjpvqwt4j1/\" width=\"600\" height=\"960\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "3D",
+      "Arcade",
+      "Action",
+      "Avoid",
+      "Boy",
+      "Boys",
+      "Collecting",
+      "Fight",
+      "Fighting",
+      "Kid",
+      "Kids",
+      "Obstacle",
+      "Punch",
+      "Puzzle",
+      "run",
+      "Stickman"
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Block Craft 3D School",
+    "author": "cargames.com",
+    "image": "https://img.gamemonetize.com/cfju14fi5zca7zzt1gyefjvvi2crlbst/512x384.jpg",
+    "video": "https://gamemonetize.video/video/cfju14fi5zca7zzt1gyefjvvi2crlbst-1725604210.mp4",
+    "description": "Welcome to Block Craft 3D-School. Here creativity meets adventure! In this pixel-style game, you will enter a world of endless possibilities, like Minecraft. To build and protect your school using blocks of various shapes! But be careful that this isnt just a building game! Enemies hide anywhere and are ready to hit you! Besides, collect and place blocks.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/cfju14fi5zca7zzt1gyefjvvi2crlbst/\" width=\"1920\" height=\"1080\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/cfju14fi5zca7zzt1gyefjvvi2crlbst/\" width=\"1920\" height=\"1080\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Boys",
+      "Block",
+      "Craft"
+    ]
+  },
+  {
+    "id": 136,
+    "title": "RealFX Driving Simulator",
+    "author": "breyman games",
+    "image": "https://img.gamemonetize.com/0aoxwl2erhk3kqygq1cyqau6r406wmpx/512x384.jpg",
+    "video": "https://gamemonetize.video/video/0aoxwl2erhk3kqygq1cyqau6r406wmpx-1737026509.mp4",
+    "description": "RealFX Driving Simulator a real simulator. When driving meet reality, here its the result",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/0aoxwl2erhk3kqygq1cyqau6r406wmpx/\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/0aoxwl2erhk3kqygq1cyqau6r406wmpx/\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Racing",
+      "Driving",
+      "Simulator"
+    ]
+  },
+  {
+    "id": 137,
+    "title": "TikTok Floral Trends",
+    "author": "Prinxy",
+    "image": "https://img.gamemonetize.com/ocez3f0nmtgq0pok9ftrpxhy0fp4z3k6/512x384.jpg",
+    "video": "https://gamemonetize.video/video/ocez3f0nmtgq0pok9ftrpxhy0fp4z3k6-1693560295.mp4",
+    "description": "In our next game, you will discover another summer trend that is inspired by the beautiful colors of the summer. The game stars Kiki, an amazing artist, who shares her unicorn-themed makeup look that was inspired by the magical world of the unicorns. It continues with Olivias passion for red and glitzy accessories, and it ends with you dealing with Reginas makeup look. Play today and have a lot of fun being a makeup artist!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/ocez3f0nmtgq0pok9ftrpxhy0fp4z3k6/\" width=\"1024\" height=\"768\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/ocez3f0nmtgq0pok9ftrpxhy0fp4z3k6/\" width=\"1024\" height=\"768\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Girls",
+      "1 Player",
+      "Fashion",
+      "HTML5",
+      "Makeover",
+      "Mobile",
+      "Summer"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Jeka Dash 2",
+    "author": "Jeka-505",
+    "image": "https://img.gamemonetize.com/83s6fufv3fz3xkef5h92jq9zeljzc1ow/512x384.jpg",
+    "video": "https://gamemonetize.video/video/83s6fufv3fz3xkef5h92jq9zeljzc1ow-1698404749.mp4",
+    "description": "In this dynamic game you need to dodge various obstacles and get to the finish line.\nThe main character always moves forward and has different shapes with different features - a guy, a plane, a disk, a ball.\nThe game has good graphics, music and different locations.\nWith each level it becomes more difficult, it will take a good reaction, memory and patience to pass, do not despair if you cannot pass all the levels.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/83s6fufv3fz3xkef5h92jq9zeljzc1ow/\" width=\"1280\" height=\"640\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/83s6fufv3fz3xkef5h92jq9zeljzc1ow/\" width=\"1280\" height=\"640\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Arcade",
+      "1 Player",
+      "2D",
+      "Action",
+      "Adventure",
+      "Arcade",
+      "HTML5",
+      "Platform",
+      "run",
+      "running"
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Parking Out JumpGame",
+    "author": "JumpGame",
+    "image": "https://img.gamemonetize.com/bvorb8uvxwn5hmhxm95wqv9cqwn3h5t6/512x384.jpg",
+    "video": "https://gamemonetize.video/video/bvorb8uvxwn5hmhxm95wqv9cqwn3h5t6-1688546036.mp4",
+    "description": "Park Out is a de-congesting, car un-jamming game where the goal is to get all of the cars out of the parking spaces without hitting into anything! Each new level brings a new challenge with different vehicles, obstacles, and solutions. Can you fit the huge lorry through the hole in the wall to give space to the tiny hatchback? Test your spacial awareness skills and get everyone out of their stuck situations!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/bvorb8uvxwn5hmhxm95wqv9cqwn3h5t6/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/bvorb8uvxwn5hmhxm95wqv9cqwn3h5t6/\" width=\"720\" height=\"1280\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "3D",
+      "Mouse",
+      "Parking",
+      "Puzzle",
+      "Skill"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "My Winter Knit Fashion",
+    "author": "cutedressup.com",
+    "image": "https://img.gamemonetize.com/ag8liq4q82u7xq3rix6br8t2i1ys9p5f/512x384.jpg",
+    "video": "https://gamemonetize.video/video/ag8liq4q82u7xq3rix6br8t2i1ys9p5f-1705926948.mp4",
+    "description": "Welcome to the My Winter Knit Fashion. Winter is here! Hairdorable girls Dee dee, Willow, and Noah are more adorable in fashion. They planned to try knit fashion. Browse the wardrobe and help the girls to pick cute winter knit outfits. Join and play with the girls and have fun!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/ag8liq4q82u7xq3rix6br8t2i1ys9p5f/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/ag8liq4q82u7xq3rix6br8t2i1ys9p5f/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Boys",
+      "Girls",
+      "Cute",
+      "Dress Up",
+      "Fashion",
+      "Girls",
+      "Winter"
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Hill Climb Truck Transform Adventure",
+    "author": "cargames.com",
+    "image": "https://img.gamemonetize.com/w3o8dtti3pzcht3v88dme2xcswu8qci4/512x384.jpg",
+    "video": "https://gamemonetize.video/video/w3o8dtti3pzcht3v88dme2xcswu8qci4-1721034988.mp4",
+    "description": "Hill Climb: Truck Transform Adventure is actually a 2D balance stunt adventure game. You have 3 kinds of vehicles to transform and overpass different terrains. While keeping the vehicle balanced, you can climb different ramps and terrains. If you crash obstacles or terrains, you can collect repair plates to recover. If you want to overpass the next harder levels, you can upgrade your vehicles with 4 acceleration abilities. https://www.cargames.com/",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/w3o8dtti3pzcht3v88dme2xcswu8qci4/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/w3o8dtti3pzcht3v88dme2xcswu8qci4/\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Adventure",
+      "Arcade",
+      "Racing",
+      "Truck"
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Soccer training",
+    "author": "RetroDries",
+    "image": "https://img.gamemonetize.com/r8n838myi546zysv99tkg71dzb4xwovn/512x384.jpg",
+    "video": "https://gamemonetize.video/video/r8n838myi546zysv99tkg71dzb4xwovn-1706697184.mp4",
+    "description": "Welcome to soccer training!\nWould you like to pactice your dribble skill?\nTry out and see how long you can bounce the ball into the air and catch points until you drop it!\nAnd if thats not enoug there will be obstacles coming your way to really test your skill!\nTry it out now and see how good you are with the ball!\nRemember, dont let the ball touch the ground!",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/r8n838myi546zysv99tkg71dzb4xwovn/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/r8n838myi546zysv99tkg71dzb4xwovn/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Clicker",
+      "Sports",
+      "Click",
+      "Sports"
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Sniper Hitboy",
+    "author": "AlexGames",
+    "image": "https://img.gamemonetize.com/mrb847grs3cymlsbq48xwo20qstq6t4d/512x384.jpg",
+    "video": "https://gamemonetize.video/video/mrb847grs3cymlsbq48xwo20qstq6t4d-1715080562.mp4",
+    "description": "Sniper Hitboy is an adrenaline-pumping mobile game that puts you in the shoes of a skilled assassin. With precision and stealth, take on challenging missions across diverse environments. Master the art of long-range shooting, eliminate high-profile targets, and avoid collateral damage to become the ultimate hitman. Upgrade your arsenal, unlock new locations, and test your sniper skills in this intense game of strategy and precision. Can you make every shot count and rise to the top of the underworlds elite assassins? Find out in Sniper Hitboy! Website Developer  https://www.coolcrazygames.com/",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/mrb847grs3cymlsbq48xwo20qstq6t4d/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/mrb847grs3cymlsbq48xwo20qstq6t4d/\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Arcade",
+      "Fun",
+      "Shoot 'Em Up",
+      "Sniper",
+      "Unity3D",
+      "WebGL"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Tank Stars Battle Arena",
+    "author": "bestgames.com",
+    "image": "https://img.gamemonetize.com/tylbyzddbkl0t4ljzbdmi0vhe0pm39er/512x384.jpg",
+    "video": "https://gamemonetize.video/video/tylbyzddbkl0t4ljzbdmi0vhe0pm39er-1721897017.mp4",
+    "description": "Tank Stars - Battle Arena is a tank design strategy game with 2D models. In 14 levels, we need you to build tanks to defeat all enemy tanks. As long as you defeat the enemy pilot, you can win the battle. When you earn enough diamonds, you can open the chests for tank parts in the Shop. You can save at most 3 projects of the tank design. Dont forget to change the positions of different parts, they have different functions.",
+    "iframeCode": "<iframe src=\"https://html5.gamemonetize.co/tylbyzddbkl0t4ljzbdmi0vhe0pm39er/\" width=\"1334\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe><iframe src=\"https://html5.gamemonetize.games/tylbyzddbkl0t4ljzbdmi0vhe0pm39er/\" width=\"1334\" height=\"750\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+    "categories": [
+      "Action",
+      "Arcade",
+      "Battle",
+      "Puzzle"
+    ]
   }
 ]
