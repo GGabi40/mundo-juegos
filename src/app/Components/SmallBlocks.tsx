@@ -46,7 +46,7 @@ export default function SmallBlocks({ category }: { category: string }) {
         {/* "Ver más" */}
         {getGameByCategory(category).length > maxGames && (
           <div className="col">
-            <Link href={`${category}`} className="see-more">
+            <Link href={`/${category}`} className="see-more">
               Ver más de <span className="link">{category} ➡️</span>
             </Link>
           </div>
