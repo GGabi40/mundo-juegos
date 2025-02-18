@@ -39,7 +39,7 @@
   scrollbar-width: thin;
   scrollbar-color: v.$purple v.$fondo;
   height: auto;
-  transition: transform 0.2s ease-in-out;
+  transition: all 0.3s ease-in-out;
 
   h5 {
     display: block;
@@ -59,6 +59,11 @@
     padding: 3px;
     max-width: 100%;
     border-radius: 8px;
+  }
+
+  .col:hover h5:hover {
+    cursor: pointer;
+    transform: scale(1.05);
   }
 }
 
