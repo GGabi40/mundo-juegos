@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 
 import Image from "next/image";
+import Link from "next/link";
 
 interface Game {
   id: number;
@@ -17,6 +18,7 @@ interface Game {
 
 export default function SmallBlocks({ category }: { category: string }) {
   const [games, setGames] = useState<Game[]>([]);
+  const maxGames = 10;
 
   useEffect(() => {
     fetch('/data/games.json')
@@ -29,7 +31,7 @@ export default function SmallBlocks({ category }: { category: string }) {
     return games.filter((game) => game.categories.includes(category));
   };
 
-  const gamesByCategory = getGameByCategory(category);
+  const gamesByCategory = getGameByCategory(category).slice(0, maxGames);
 
   return (
     <>
@@ -40,6 +42,15 @@ export default function SmallBlocks({ category }: { category: string }) {
               <h5>{game.title}</h5>
             </div>
         ))}
+
+        {/* "Ver más" */}
+        {getGameByCategory(category).length > maxGames && (
+          <div className="col">
+            <Link href={`${category}`} className="see-more">
+              Ver más de <span className="link">{category} ➡️</span>
+            </Link>
+          </div>
+        )}
       </div>
     </>
   );

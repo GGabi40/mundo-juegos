@@ -39,6 +39,7 @@
   scrollbar-width: thin;
   scrollbar-color: v.$purple v.$fondo;
   height: auto;
+  transition: transform 0.2s ease-in-out;
 
   h5 {
     display: block;
@@ -55,6 +56,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 3px;
+    max-width: 100%;
+    border-radius: 8px;
   }
 }
 
@@ -80,10 +84,34 @@
   background: v.$blue;
 }
 
-.col {
-  padding: 3px;
-  max-width: 100%;
+
+.see-more {
+  font-family: v.$fuente_principal;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(90deg, transparent, v.$purple 60%);
+  padding: 15px;
+  height: auto;
+  max-height: 200px;
   border-radius: 8px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  max-width: 200px;
+  text-wrap: wrap;
+  text-align: center;
+
+  transition: all 0.3s ease-in-out;
+}
+
+.see-more:hover {
+  transform: scale(1.05);
+}
+
+.link {
+  color: v.$yellow;
 }
 
 @include m.desktop {
