@@ -40,8 +40,6 @@ export default function MainTable() {
       <div className="container text-center">
         <div className="row w-games" style={{ height: "180px" }}>
           {games.map((game) => {
-            const title = game.title.split(" ").slice(0, 4).join(" ");
-
             return (
               <div 
                 key={game.id}
@@ -82,11 +80,6 @@ export default function MainTable() {
           <div className="col">
             {/* <Image src={trip} width={150} height={150} alt="Traffic" /> */}
           </div>
-          <div className="col">2 of 6</div>
-          <div className="col">3 of 6</div>
-          <div className="col">4 of 6</div>
-          <div className="col">5 of 6</div>
-          <div className="col">6 of 6</div>
         </div>
       </div>
 
