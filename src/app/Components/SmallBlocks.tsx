@@ -36,12 +36,24 @@ export default function SmallBlocks({ category }: { category: string }) {
   return (
     <>
       <div className="row w-games">
-        {gamesByCategory.map((game) => (
+        {gamesByCategory.map((game) => {
+          const title = game.title.split(" ").slice(0, 4).join(" ");
+
+
+          return (
             <div key={game.id} className="col">
-              <Image src={game.image} width={100} height={100} alt={game.title} className="game-image" />
-              <h5>{game.title}</h5>
+              <Image
+               src={game.image} 
+               width={100} 
+               height={100} 
+               alt={game.title} 
+               className="game-image"
+              />
+              
+              <h5>{title}</h5>
             </div>
-        ))}
+          );
+        })}
 
         {/* "Ver más" */}
         {getGameByCategory(category).length > maxGames && (
