@@ -7,7 +7,7 @@ import Link from "next/link";
 
 import "./layout";
 import Nav from "./Components/Nav";
-import TablaPrincipal from "./Components/TablaPrincipal";
+import MainTable from "./Components/MainTable";
 import SmallBlocks from "./Components/SmallBlocks";
 import Footer from "./Components/Footer";
 
@@ -17,20 +17,18 @@ export default function Home() {
   return (
     <>
       <Nav />
-      <TablaPrincipal />
+      <MainTable />
 
-      <div className="principal-games">
-        <h3 className="newest">🆕 Novedad</h3>
-
-        <SmallBlocks />
-        <h3>🎮 Juegos Clásicos</h3>
-        <SmallBlocks />
-        <h3>🧭 Juegos de Aventura</h3>
-        <SmallBlocks />
-        <h3>🍔 Juegos de Cocina</h3>
-        <SmallBlocks />
+      <div className="container">
+        <div className="principal-games">
+          <h3>🖱️ Para Cliquear</h3>
+          <SmallBlocks category="Clicker" />
+          <h3>⚔️ Acción</h3>
+          <SmallBlocks category="Action" />
+          <h3>🔷 3D</h3>
+          <SmallBlocks category="3D" />
+        </div>
       </div>
-      
       <Footer />
     </>
   );
