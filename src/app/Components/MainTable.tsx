@@ -14,6 +14,7 @@ interface Game {
   description: string;
   iframeCode: string;
   categories: string[];
+  gameURL: string;
 }
 
 export default function MainTable() {
@@ -47,29 +48,32 @@ export default function MainTable() {
                 onMouseEnter={() => setHoveredGameId(game.id)}
                 onMouseLeave={() => setHoveredGameId(null)}
               >
+              <Link href="./juegos/[gameURL]" as = {`/juegos/${game.gameURL}`} className="link-juego">
                 <Image
-                  src={game.image}
-                  width={150}
-                  height={150}
-                  alt={game.title}
-                  className="game-image"
-                />
-
+                    src={game.image}
+                    width={150}
+                    height={150}
+                    alt={game.title}
+                    className="game-image"
+                  />
+              </Link>
                 {/* Mostrar video si el juego está siendo "hovered" */}
                 {hoveredGameId === game.id && game.video && (
                   <div className="video-overlay">
-                    <h5>{game.title}</h5>
-                    <video
-                      width="150"
-                      height="150"
-                      muted
-                      autoPlay
-                      loop
-                      disablePictureInPicture
-                    >
-                      <source src={game.video} type="video/mp4" />
-                      Your browser does not support the video tag.
-                    </video>
+                    <Link href="./juegos/[gameURL]" as = {`/juegos/${game.gameURL}`} className="link-juego">
+                      <h5>{game.title}</h5>
+                      <video
+                        width="150"
+                        height="150"
+                        muted
+                        autoPlay
+                        loop
+                        disablePictureInPicture
+                      >
+                        <source src={game.video} type="video/mp4" />
+                        Your browser does not support the video tag.
+                      </video>
+                    </Link>
                   </div>
                 )}
               </div>

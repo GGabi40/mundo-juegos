@@ -116,17 +116,27 @@
   position: absolute;
   bottom: 0;
   z-index: 99;
-  background: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.46) 90%);
+  background: black;
+  padding: 3px;
+  border-style: 8px;
 }
 
 .game-image {
   position: relative;
 }
 
+.link-juego {
+  text-decoration: none;
+  color: white;
+}
+
+.link-juego:visited {
+  color: white;
+}
+
 .col {
   position: relative;
 }
-
 
 .see-more {
   font-family: v.$fuente_principal;
