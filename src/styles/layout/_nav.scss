@@ -19,6 +19,7 @@ nav {
   position: fixed;
 
   width: 200px;
+  min-width: 180px;
   height: 100vh;
 
   padding-top: 15px;
@@ -31,6 +32,7 @@ nav {
   flex-direction: column;
 
   overflow-y: auto;
+  overflow-x: hidden;
   scrollbar-width: thin;
   scrollbar-color: v.$purple v.$fondo;
 

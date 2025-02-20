@@ -97,23 +97,46 @@
   z-index: 10;
 
   transition: all 0.3s ease-in-out;
+
+  h5 {
+    display: none;
+    transition: all 0.5s ease-in-out;
+  }
 }
 
 .video-overlay:hover video {
-  object-fit: cover;
+  object-fit: contain;
   background-color: black;
   cursor: pointer;
   transform: scale(1.05);
+}
+
+.video-overlay:hover h5 {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  z-index: 99;
+  background: black;
+  padding: 3px;
+  border-style: 8px;
 }
 
 .game-image {
   position: relative;
 }
 
+.link-juego {
+  text-decoration: none;
+  color: white;
+}
+
+.link-juego:visited {
+  color: white;
+}
+
 .col {
   position: relative;
 }
-
 
 .see-more {
   font-family: v.$fuente_principal;
