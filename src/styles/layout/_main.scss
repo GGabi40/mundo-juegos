@@ -97,13 +97,26 @@
   z-index: 10;
 
   transition: all 0.3s ease-in-out;
+
+  h5 {
+    display: none;
+    transition: all 0.5s ease-in-out;
+  }
 }
 
 .video-overlay:hover video {
-  object-fit: cover;
+  object-fit: contain;
   background-color: black;
   cursor: pointer;
   transform: scale(1.05);
+}
+
+.video-overlay:hover h5 {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  z-index: 99;
+  background: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.46) 90%);
 }
 
 .game-image {

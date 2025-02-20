@@ -58,6 +58,7 @@ export default function MainTable() {
                 {/* Mostrar video si el juego está siendo "hovered" */}
                 {hoveredGameId === game.id && game.video && (
                   <div className="video-overlay">
+                    <h5>{game.title}</h5>
                     <video
                       width="150"
                       height="150"
