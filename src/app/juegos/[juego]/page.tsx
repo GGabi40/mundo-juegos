@@ -1,4 +1,5 @@
 import Link from "next/link";
+
 import "../../../styles/app.scss";
 
 import Nav from "../../Components/Nav";

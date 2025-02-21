@@ -5,7 +5,7 @@ export default function GameIframe ({ params }: { params: { gameUrl: string } })
     <div className="game-iframe">
       <iframe
         src={params.gameUrl}
-        width="100%"
+        width="50%"
         height="100%"
         allowFullScreen
         sandbox="allow-scripts allow-same-origin"

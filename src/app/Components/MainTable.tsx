@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 import { useState, useEffect } from "react";
+import { useRouter } from "next/navigation";
 
 interface Game {
   id: number;
@@ -18,6 +19,7 @@ interface Game {
 }
 
 export default function MainTable() {
+  const router = useRouter();
   const [games, setGames] = useState<Game[]>([]);
   const [hoveredGameId, setHoveredGameId] = useState<number | null>(null);
   const maxGames = 10;
@@ -36,6 +38,13 @@ export default function MainTable() {
     return shuffled.slice(0, count);
   };
 
+  // Codifica datos y redirige en la URL
+  const handleGameClick = (game: Game) => {
+    const gameData = encodeURIComponent(JSON.stringify(game));
+    /* Problema con URL muy grande + error 404 en iframe */
+    router.push(`/juegos/${game.gameURL}?gameData=${gameData}`); 
+  };
+
   return (
     <>
       <div className="container text-center">
@@ -47,6 +56,7 @@ export default function MainTable() {
                 className="col" 
                 onMouseEnter={() => setHoveredGameId(game.id)}
                 onMouseLeave={() => setHoveredGameId(null)}
+                onClick={() => handleGameClick(game)}
               >
               <Link href="./juegos/[gameURL]" as = {`/juegos/${game.gameURL}`} className="link-juego">
                 <Image

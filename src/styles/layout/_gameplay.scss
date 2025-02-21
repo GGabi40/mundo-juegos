@@ -38,13 +38,16 @@
         height: 625px;
         margin-top: 20px;
         border: none;
-        display: flex;
-        flex-direction: row;
+        display: grid;
         justify-content: center;
+        grid-template-columns: repeat(2, 1fr);
         gap: 30px;
 
         .game-iframe {
             margin-top: 20px;
+            // flex-basis: 100%;
+            display: flex;
+            justify-content: center;
         }
 
         .recomendaciones {
@@ -69,7 +72,9 @@
 
     .contain-game iframe {
         border: none;
-        min-width: 830px;
+        min-width: 700px;
+        height: 500px;
+        flex-shrink: 0;
     }
 
     .info {
