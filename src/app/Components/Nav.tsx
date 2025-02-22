@@ -4,6 +4,34 @@ import Link from "next/link";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
+interface Image {
+  [key: string]: string[];
+}
+
+const images: Image = {
+  "twoPlayers": ['2 Jugadores', 'images/categories/twoPlayers.webp'],
+  "classics": ['Clásicos', 'images/categories/classic.webp'],
+  "action": ['Acción', 'images/categories/action.webp'],
+  "adventure": ['Aventura', 'images/categories/adventure.webp'],
+  "puzzle": ['Puzzle', 'images/categories/puzzle.webp'],
+  "strategy": ['Estratégia', 'images/categories/strategy.webp'],
+  "cards": ['Cartas', 'images/categories/cards.webp'],
+  "sports": ['Deportes', 'images/categories/sports.webp'],
+  "guns": ['Armas', 'images/categories/guns.webp'],
+  "kitchen": ['Cocina', 'images/categories/kitchen.webp'],
+  "rides": ['Corridas', 'images/categories/rides.webp]'],
+  "driving": ['Autos', 'images/categories/driving.webp'],
+  "bikes": ['Motos', 'images/categories/bikes.webp'],
+  "fashion": ['Moda', 'images/categories/fashion.webp'],
+  "dress": ['Vestir', 'images/categories/dressUp.webp'],
+  "scape": ['Escape', 'images/categories/scape.webp'],
+  "horror": ['Terror', 'images/categories/horror.webp'],
+  "medic": ['Médico', 'images/categories/medic.webp'],
+  "educational": ['Educacional', 'images/categories/educational.webp'],
+  "math": ['Matemáticas', 'images/categories/math.webp'],
+  "music": ['Música', 'images/categories/music.webp'],
+}
+
 export default function Home() {
   return (
     <>
@@ -13,79 +41,22 @@ export default function Home() {
         </Link>
         
         <div className="categories">
-          {/* juegos/categoria */}
-          <Link
-            href="../dos-jugadores"
-            className="category-link two-players"
-          >
-            🤼 2 Jugadores
-          </Link>
-          <Link
-            href="../clasicos"
-            className="category-link two-players"
-          >
-            🎮 Clásicos
-          </Link>
-          <Link href="../accion" className="category-link action">
-            ⚔️ Acción
-          </Link>
-          <Link href="../aventura" className="category-link adventure">
-            🧭 Aventura
-          </Link>
-          <Link href="../puzzle" className="category-link puzzle">
-            🧩 Puzzle
-          </Link>
-          <Link href="../estrategia" className="category-link strategy">
-            ♟️ Estrategia
-          </Link>
-          <Link href="../cartas" className="category-link cards">
-            🃏 Cartas
-          </Link>
-          <Link href="../deportes" className="category-link sports">
-            ⚽ Deportes
-          </Link>
-          <Link href="../armas" className="category-link guns">
-            🏹 Armas
-          </Link>
-          <Link href="../cocina" className="category-link kitchen">
-            🍔 Cocina
-          </Link>
-          <Link href="../carreras" className="category-link rides">
-            🏁 Carreras
-          </Link>
-          <Link href="../autos" className="category-link driving">
-            🚗 Autos
-          </Link>
-          <Link href="../motos" className="category-link bikes">
-            🏍️ Motos
-          </Link>
-          <Link href="../moda" className="category-link fashion">
-            ✨ Moda
-          </Link>
-          <Link href="../vestir" className="category-link dress">
-            👕 Vestir
-          </Link>
-          <Link href="../escape" className="category-link scape">
-            🏃 Escape
-          </Link>
-          <Link href="../terror" className="category-link horror">
-            💀 Terror
-          </Link>
-          <Link href="../medico" className="category-link medic">
-            💊 Médico
-          </Link>
-          <Link
-            href="../educativos"
-            className="category-link educational"
-          >
-            📚 Educativos
-          </Link>
-          <Link href="../matematicas" className="category-link math">
-            📒 Matemáticas
-          </Link>
-          <Link href="../musica" className="category-link music">
-            🎵 Música
-          </Link>
+        {
+            Object.keys(images).map((key) => {
+              return (
+                <Link
+                  key={key}
+                  href={`/${key}`}
+                  className={`category-link ${key}`}
+                >
+                  <Image src={`/${images[key][1]}`} width={20} height={20} alt={key} className="image-category-link" loading="lazy" />
+                  <span className="image-nav">
+                    {images[key][0]}
+                  </span>
+                </Link>
+              );
+            })
+          }
         </div>
 
         <div className="row">

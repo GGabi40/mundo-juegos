@@ -50,7 +50,7 @@ nav {
 
     .category-link {
       color: white;
-      display: inline-block;
+      display: inline;
       padding: 8px 20px;
       max-width: 180px;
       width: 170px;
@@ -60,6 +60,17 @@ nav {
       border-radius: 8px;
       transition: background-color 0.3s, transform 0.3s;
       overflow-y: hidden;
+    }
+
+    .image-category-link {
+      aspect-ratio: 1/1;
+      display: inline;
+      width: 20px;
+      height: 20px;
+    }
+
+    .image-nav::before {
+      content: '  ';
     }
 
     .category-link:hover {
