@@ -65,6 +65,7 @@ export default function MainTable() {
                     height={150}
                     alt={game.title}
                     className="game-image"
+                    loading="lazy"
                   />
               </Link>
                 {/* Mostrar video si el juego está siendo "hovered" */}

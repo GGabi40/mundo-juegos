@@ -63,11 +63,7 @@
 }
 
 .w-games::-webkit-scrollbar {
-  height: 4px;
-}
-
-.w-games::-webkit-scrollbar {
-  height: 4px;
+  height: 3px;
 }
 
 .w-games::-webkit-scrollbar-track {
@@ -123,6 +119,7 @@
 
 .game-image {
   position: relative;
+  aspect-ratio: 1/1;
 }
 
 .link-juego {

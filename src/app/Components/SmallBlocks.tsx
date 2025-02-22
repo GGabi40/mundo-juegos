@@ -48,6 +48,7 @@ export default function SmallBlocks({ category }: { category: string }) {
                height={100} 
                alt={game.title} 
                className="game-image"
+               loading="lazy"
               />
               
               <h5>{title}</h5>

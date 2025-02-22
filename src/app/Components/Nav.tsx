@@ -59,12 +59,12 @@ export default function Home() {
           }
         </div>
 
-        <div className="row">
+        {/* <div className="row">
           <div className="col">ADS AQUÍ</div>
         </div>
         <div className="row">
           <div className="col">ADS AQUÍ</div>
-        </div>
+        </div> */}
       </nav>
     </>
   );

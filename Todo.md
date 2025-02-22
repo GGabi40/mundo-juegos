@@ -5,8 +5,8 @@ Tasks:
 
 -- Data Base task
 [] Add a fastest way to take a game from a web
-[] Connect JSON to .tsx files
+[X] Connect JSON to .tsx files
 [] Limit of categories pages
 
 -- Frontend task
-[] Finish the GamePage.tsx
+[X] Finish the GamePage.tsx

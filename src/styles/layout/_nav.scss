@@ -1,5 +1,9 @@
 @use "../base/variables" as v;
 
+nav::-webkit-scrollbar {
+  width: 4px;
+}
+
 nav::-webkit-scrollbar-track {
   background: v.$fondo;
   border-radius: 10px;
