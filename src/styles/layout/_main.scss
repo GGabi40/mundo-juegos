@@ -1,6 +1,25 @@
 @use "../base/variables" as v;
 @use "../base/mixins" as m;
 
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: v.$fondo;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: v.$purple;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: v.$blue;
+}
+
+
 .container {
   margin-left: 215px;
   padding-top: 25px;
@@ -50,7 +69,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 3px;
+    padding: 8px;
     max-width: 100%;
     border-radius: 8px;
   }
@@ -68,12 +87,12 @@
 
 .w-games::-webkit-scrollbar-track {
   background: v.$fondo;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .w-games::-webkit-scrollbar-thumb {
   background: v.$purple;
-  border-radius: 10px;
+  border-radius: 4px;
 }
 
 .w-games::-webkit-scrollbar-thumb:hover {
@@ -120,6 +139,10 @@
 .game-image {
   position: relative;
   aspect-ratio: 1/1;
+
+  Image {
+    aspect-ratio: 1/1;
+  }
 }
 
 .link-juego {

@@ -6,12 +6,12 @@ nav::-webkit-scrollbar {
 
 nav::-webkit-scrollbar-track {
   background: v.$fondo;
-  border-radius: 10px;
+  border-radius: 4px;
 }
 
 nav::-webkit-scrollbar-thumb {
   background: v.$purple;
-  border-radius: 10px;
+  border-radius: 4px;
 }
 
 nav::-webkit-scrollbar-thumb:hover {
