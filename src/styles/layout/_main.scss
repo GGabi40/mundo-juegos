@@ -2,11 +2,11 @@
 @use "../base/mixins" as m;
 
 ::-webkit-scrollbar {
-  width: 4px;
+  width: 6px;
 }
 
 ::-webkit-scrollbar-track {
-  background: v.$fondo;
+  background: white;
   border-radius: 10px;
 }
 
@@ -87,7 +87,7 @@
 
 .w-games::-webkit-scrollbar-track {
   background: v.$fondo;
-  border-radius: 5px;
+  border-radius: 4px;
 }
 
 .w-games::-webkit-scrollbar-thumb {
