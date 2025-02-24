@@ -5,6 +5,7 @@ import Link from "next/link";
 
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
+import fetchGames from "@/utils/fetchGames";
 
 interface Game {
   id: number;
@@ -25,12 +26,9 @@ export default function MainTable() {
   const maxGames = 10;
 
   useEffect(() => {
-    fetch("/data/games.json")
-      .then((response) => response.json())
-      .then((data: Game[]) => {
-        setGames(getRandomGames(data, maxGames));
-      })
-      .catch((e) => console.error("¡Algo pasó! ", e));
+    fetchGames()
+    .then(data => setGames(getRandomGames(data, maxGames)))
+    .catch(e => console.error(`Error al mostrar data. ${e}`));
   }, []);
 
   const getRandomGames = (games: Game[], count: number): Game[] => {
