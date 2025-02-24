@@ -58,7 +58,10 @@ export default function MainTable() {
                 onMouseLeave={() => setHoveredGameId(null)}
                 onClick={() => handleGameClick(game)}
               >
-              <Link href="./juegos/[gameURL]" as = {`/juegos/${game.gameURL}`} className="link-juego">
+              <Link
+                href="./juegos/[gameURL]" as = {`/juegos/${game.gameURL}`}
+                className="link-juego"
+              >
                 <Image
                     src={game.image}
                     width={150}
@@ -71,7 +74,10 @@ export default function MainTable() {
                 {/* Mostrar video si el juego está siendo "hovered" */}
                 {hoveredGameId === game.id && game.video && (
                   <div className="video-overlay">
-                    <Link href="./juegos/[gameURL]" as = {`/juegos/${game.gameURL}`} className="link-juego">
+                    <Link
+                      href="./juegos/[gameURL]" as = {`/juegos/${game.gameURL}`}
+                      className="link-juego"
+                    >
                       <h5>{game.title}</h5>
                       <video
                         className="video-element"
@@ -92,12 +98,6 @@ export default function MainTable() {
               </div>
             );
           })}
-        </div>
-
-        <div className="row">
-          <div className="col">
-            {/* <Image src={trip} width={150} height={150} alt="Traffic" /> */}
-          </div>
         </div>
       </div>
 
