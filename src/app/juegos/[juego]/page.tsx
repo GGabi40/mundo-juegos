@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { useRouter } from "next/router";
 
 import "../../../styles/app.scss";
 
@@ -9,9 +10,18 @@ import GameIframe from "./GameIframe";
 
 import '../../../utils/fontAwesome';
 
-// Página BASE en donde estarán los juegos
-// disponibles para jugar
+/* 
+Agarrar:
+-> JSON
+-> verificar qué id de juego es
+-> por su id, poner titulo, autor, iframe, descripcion, controls, tags
+*/
+
+// Página BASE en donde estarán los juegos disponibles para jugar
 export default function baseJuegos({ params }: { params: { juego: string, author: string } }) {
+
+  // const router = useRouter();
+  // const { game } = router.query;
 
   return (
     <>

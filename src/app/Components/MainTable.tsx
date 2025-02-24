@@ -38,6 +38,7 @@ export default function MainTable() {
 
   // Codifica datos y redirige en la URL
   const handleGameClick = (game: Game) => {
+    console.log(game.id);
     const gameData = encodeURIComponent(JSON.stringify(game));
     /* Problema con URL muy grande + error 404 en iframe */
     router.push(`/juegos/${game.gameURL}?gameData=${gameData}`); 
