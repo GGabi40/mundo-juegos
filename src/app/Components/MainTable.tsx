@@ -74,12 +74,14 @@ export default function MainTable() {
                     <Link href="./juegos/[gameURL]" as = {`/juegos/${game.gameURL}`} className="link-juego">
                       <h5>{game.title}</h5>
                       <video
+                        className="video-element"
                         width="150"
                         height="150"
                         muted
                         autoPlay
                         loop
                         disablePictureInPicture
+                        onLoadedData={(e) => e.currentTarget.style.opacity = "1"}
                       >
                         <source src={game.video} type="video/mp4" />
                         Your browser does not support the video tag.
