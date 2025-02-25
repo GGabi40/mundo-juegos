@@ -1,6 +1,6 @@
 export default async function fetchGames() {
     try {
-        const response = await fetch('data/games.json');
+        const response = await fetch('/data/games.json');
         if (!response.ok) throw new Error("Error al cargar JSON.");
 
         const data = await response.json();

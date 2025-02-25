@@ -37,12 +37,11 @@ export default function MainTable() {
   };
 
   // Codifica datos y redirige en la URL
-  const handleGameClick = (game: Game) => {
+   const handleGameClick = (game: Game) => {
     console.log(game.id);
-    const gameData = encodeURIComponent(JSON.stringify(game));
     /* Problema con URL muy grande + error 404 en iframe */
-    router.push(`/juegos/${game.gameURL}?gameData=${gameData}`); 
-  };
+    router.push(`/juegos/${game.id}-${game.gameURL}`); 
+   };
 
   return (
     <>
@@ -57,10 +56,10 @@ export default function MainTable() {
                 onMouseLeave={() => setHoveredGameId(null)}
                 onClick={() => handleGameClick(game)}
               >
-              <Link
-                href="./juegos/[gameURL]" as = {`/juegos/${game.gameURL}`}
+              {/* <Link
+                href={`/juegos/${game.id}-${game.gameURL}`}
                 className="link-juego"
-              >
+              > */}
                 <Image
                     src={game.image}
                     width={150}
@@ -69,14 +68,14 @@ export default function MainTable() {
                     className="game-image"
                     loading="lazy"
                   />
-              </Link>
+              {/* </Link> */}
                 {/* Mostrar video si el juego está siendo "hovered" */}
                 {hoveredGameId === game.id && game.video && (
                   <div className="video-overlay">
-                    <Link
-                      href="./juegos/[gameURL]" as = {`/juegos/${game.gameURL}`}
+                    {/* <Link
+                      href={`/juegos/${game.id}-${game.gameURL}`}
                       className="link-juego"
-                    >
+                    > */}
                       <h5>{game.title}</h5>
                       <video
                         className="video-element"
@@ -91,7 +90,7 @@ export default function MainTable() {
                         <source src={game.video} type="video/mp4" />
                         Your browser does not support the video tag.
                       </video>
-                    </Link>
+                    {/* </Link> */}
                   </div>
                 )}
               </div>

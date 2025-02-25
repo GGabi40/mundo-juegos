@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 
+import fetchGames from "@/utils/fetchGames";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -21,8 +22,7 @@ export default function SmallBlocks({ category }: { category: string }) {
   const maxGames = 10;
 
   useEffect(() => {
-    fetch('/data/games.json')
-      .then(response => response.json())
+    fetchGames()
       .then((data: Game[]) => setGames(data))
       .catch(e => console.error("¡Algo pasó! ", e));
   }, []);
