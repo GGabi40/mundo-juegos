@@ -1,8 +1,6 @@
 "use client";
 
-import Link from "next/link";
 import { useState, useEffect } from "react";
-
 import "../../../styles/app.scss";
 import fetchGames from "@/utils/fetchGames";
 
@@ -11,66 +9,55 @@ import Footer from "../../Components/Footer";
 import GameInfo from "./GameInfo";
 import GameIframe from "./GameIframe";
 import Error from "@/app/Components/Error";
+import "../../../utils/fontAwesome";
 
-import '../../../utils/fontAwesome';
-
-/* 
-Agarrar:
--> JSON
--> verificar qué id de juego es
--> por su id, poner titulo, autor, iframe, descripcion, controls, tags
-*/
-
-// Página BASE en donde estarán los juegos disponibles para jugar
-export default function baseJuegos({ params }: { params: { juego: string  } }) {
+export default function BaseJuegos({ params }: { params: { juego: string } }) {
   const [game, setGame] = useState<any>(null);
-  console.log({ params });
-
-  // const [id, ...gameURLParts] = params.juego.split('-');
-  // console.log(id);
-  // console.log('OTRO: ', gameURLParts);
-
-  /* fetchGames().then((juegos) => {
-    const foundGame = juegos.find((g: any) => g.id.toString() === id);
-    console.log(foundGame);
-  }) */
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    if (!params?.juego) return;
+
     fetchGames()
       .then((games) => {
-        const [id, ...gameURLParts] = params.juego.split('-');
-        // const gameURL = gameURLParts.join('-');
-        const foundGame = games.find((game: any) => game.id.toString() === id);
-        console.log('JUEGO ENCONTRADO: ', foundGame);
-
-        setGame(foundGame);
+        const foundGame = games.find((g: any) => g.gameURL === params.juego);
+        setGame(foundGame || null);
       })
-      .catch((error) => console.error("Error al obtener los juegos:", error));
-  }, [params.juego]);
+      .catch((error) => console.error("Error al obtener los juegos:", error))
+      .finally(() => setLoading(false));
+  }, [params?.juego]);
 
-  console.log({game});
+  const extractIframeSrc = (iframeCode: string) => {
+    const match = iframeCode.match(/src="([^"]+)"/);
+    return match ? match[1] : "";
+  };
 
-  if(!game) return <Error />
+  const iframeSrc = game?.iframeCode ? extractIframeSrc(game.iframeCode) : ""
+
+
+  if (loading) {
+    return <p>Cargando...</p>;
+  }
+
+  if (!game) {
+    return <Error />;
+  }
 
   return (
     <>
       <Nav />
-
       <div className="container">
         <div className="contain-container">
-
           <div className="contain-info">
             <div className="contain-title">
               <h1>{game.title}</h1>
-              <h3>By: <span className="author-cred">{game.author}</span></h3>
+              <h3>
+                By: <span className="author-cred">{game.author}</span>
+              </h3>
             </div>
 
             <div className="contain-game">
-              <GameIframe
-                params={{
-                  gameiFrame: `${game.gameURL}`
-                }}
-              />
+              <GameIframe params={{ gameiFrame: iframeSrc }} />
 
               <div className="recomendaciones">
                 <div className="recomendacion">
@@ -83,18 +70,17 @@ export default function baseJuegos({ params }: { params: { juego: string  } }) {
             </div>
 
             <div className="info">
-              {/* Game info */}
               <GameInfo
                 params={{
-                  description: "Hola",
-                  controls: "🖱️ Mouse e 📱Touch"
+                  description: game.description || "Sin descripción",
+                  controls: "🖱️ Mouse e 📱Touch",
+                  categorias: game.categories
                 }}
               />
             </div>
           </div>
         </div>
       </div>
-
       <Footer />
     </>
   );
