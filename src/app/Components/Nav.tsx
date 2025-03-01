@@ -19,7 +19,7 @@ const images: Image = {
   "sports": ['Deportes', 'images/categories/sports.webp'],
   "guns": ['Armas', 'images/categories/guns.webp'],
   "kitchen": ['Cocina', 'images/categories/kitchen.webp'],
-  "rides": ['Corridas', 'images/categories/rides.webp'],
+  "rides": ['Carreras', 'images/categories/rides.webp'],
   "driving": ['Autos', 'images/categories/driving.webp'],
   "bikes": ['Motos', 'images/categories/bikes.webp'],
   "fashion": ['Moda', 'images/categories/fashion.webp'],
