@@ -51,11 +51,13 @@ export default function Home() {
           {
             categories
             .filter(category => {
+              // shows only 5 games
               const gameCount = games.filter(game => game.categories.includes(category)).length;
 
               return gameCount > 5;
             })
             .map(category => {
+              // translates category 
               const traslatedCategory = categoryTranslations[category] || category;
 
               return (
