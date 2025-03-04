@@ -49,10 +49,11 @@ export default function Home() {
       <div className="container">
         <div className="principal-games">
           {
-            categories.filter(category => games.some(game => game.categories.includes(category)))
+            categories
+            .filter(category => games.some(game => game.categories.includes(category)))
             .map(category => {
               const traslatedCategory = categoryTranslations[category] || category;
-              
+
               return (
                 <div key={category} className="principal-games">
                   <h3>{traslatedCategory}</h3>
