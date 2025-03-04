@@ -50,7 +50,11 @@ export default function Home() {
         <div className="principal-games">
           {
             categories
-            .filter(category => games.some(game => game.categories.includes(category)))
+            .filter(category => {
+              const gameCount = games.filter(game => game.categories.includes(category)).length;
+
+              return gameCount > 5;
+            })
             .map(category => {
               const traslatedCategory = categoryTranslations[category] || category;
 
