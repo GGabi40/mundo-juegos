@@ -7,6 +7,8 @@ import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import fetchGames from "@/utils/fetchGames";
 
+import Recommended from './Recommended';
+
 interface Game {
   id: number;
   title: string;
@@ -100,17 +102,7 @@ export default function MainTable() {
       </div>
 
       <div className="container">
-        <h3>✨ Recomendados</h3> 
-        {/* SACAR CATEGORÍA + VISITADA DEL USER */}
-        <div className="row">
-          <div className="col">
-            {/* <Image src={trip} width={180} height={200} alt="Traffic" /> */}
-          </div>
-          <div className="col"></div>
-          <div className="col"></div>
-          <div className="col"></div>
-          <div className="col"></div>
-        </div>
+        <Recommended />
       </div>
     </>
   );
