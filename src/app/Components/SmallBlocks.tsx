@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { useRouter } from "next/navigation";
 
 import fetchGames from "@/utils/fetchGames";
 import Image from "next/image";
@@ -15,9 +16,11 @@ interface Game {
   description: string;
   iframeCode: string;
   categories: string[];
-};
+  gameURL: string;
+}
 
 export default function SmallBlocks({ category }: { category: string }) {
+  const router = useRouter();
   const [games, setGames] = useState<Game[]>([]);
   const maxGames = 10;
 
@@ -33,6 +36,10 @@ export default function SmallBlocks({ category }: { category: string }) {
 
   const gamesByCategory = getGameByCategory(category).slice(0, maxGames);
 
+  const handleGameClick = (game: Game) => {
+    router.push(`/juegos/${game.gameURL}`); 
+  };
+
   return (
     <>
       <div className="row w-games">
@@ -41,17 +48,19 @@ export default function SmallBlocks({ category }: { category: string }) {
 
 
           return (
-            <div key={game.id} className="col">
-              <Image
-               src={game.image} 
-               width={100} 
-               height={100} 
-               alt={game.title} 
-               className="game-image"
-               loading="lazy"
-              />
-              
-              <h5>{title}</h5>
+            <div key={game.id} className="col" onClick={() => handleGameClick(game)}>
+              <Link href={`/juegos/${game.gameURL}`} className="link-juego">
+                <Image
+                src={game.image} 
+                width={100} 
+                height={100} 
+                alt={game.title} 
+                className="game-image"
+                loading="lazy"
+                />
+                
+                <h5>{title}</h5>
+              </Link>
             </div>
           );
         })}
