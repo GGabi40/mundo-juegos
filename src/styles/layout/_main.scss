@@ -43,6 +43,13 @@
   margin-bottom: 20px;
 }
 
+.title {
+  padding-top: 12px;
+  font-family: v.$fuente_especial;
+  text-shadow: 0 0 12px black;
+  font-weight: 400;
+}
+
 .w-games {
   overflow-x: auto;
   white-space: nowrap;
@@ -157,9 +164,17 @@
   }
 }
 
+.game-image:hover {
+  cursor: pointer;
+}
+
 .link-juego {
   text-decoration: none;
   color: white;
+}
+
+.link-juego:hover {
+  cursor: pointer;
 }
 
 .link-juego:visited {
