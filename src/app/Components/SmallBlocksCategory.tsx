@@ -4,7 +4,6 @@ import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 
 import fetchGames from "@/utils/fetchGames";
-import { categoryTranslations } from "@/utils/categoryTranslations";
 import Image from "next/image";
 import Link from "next/link";
 
