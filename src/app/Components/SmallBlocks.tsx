@@ -1,11 +1,11 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { useRouter } from "next/navigation";
 
 import fetchGames from "@/utils/fetchGames";
-import Image from "next/image";
-import Link from "next/link";
+import { categoryTranslations } from "@/utils/categoryTranslations";
+
+import SmallBlockCategory from "./SmallBlockCategory";
 
 interface Game {
   id: number;
@@ -19,60 +19,44 @@ interface Game {
   gameURL: string;
 }
 
-export default function SmallBlocks({ category }: { category: string }) {
-  const router = useRouter();
+export default function SmallBlocks() {
   const [games, setGames] = useState<Game[]>([]);
-  const maxGames = 10;
 
   useEffect(() => {
     fetchGames()
-      .then((data: Game[]) => setGames(data))
+      .then((data: Game[]) => {
+        setGames(data);
+      })
       .catch(e => console.error("¡Algo pasó! ", e));
   }, []);
-
-  const getGameByCategory = (category: string) => {
-    return games.filter((game) => game.categories.includes(category));
-  };
-
-  const gamesByCategory = getGameByCategory(category).slice(0, maxGames);
-
-  const handleGameClick = (game: Game) => {
-    router.push(`/juegos/${game.gameURL}`); 
-  };
+  
+  const categories = Object.keys(categoryTranslations);
 
   return (
     <>
-      <div className="row w-games">
-        {gamesByCategory.map((game) => {
-          const title = game.title.split(" ").slice(0, 4).join(" ");
+      <div className="container">
+        <div className="principal-games">
+          {
+            categories
+            .filter(category => {
+              // shows only if 5 games
+              const gameCount = games.filter(game => game.categories.includes(category)).length;
 
+              return gameCount > 5;
+            })
+            .map(category => {
+              // translates category 
+              const translatedCategory = categoryTranslations[category] || category;
 
-          return (
-            <div key={game.id} className="col" onClick={() => handleGameClick(game)}>
-              <Link href={`/juegos/${game.gameURL}`} className="link-juego">
-                <Image
-                src={game.image} 
-                width={100} 
-                height={100} 
-                alt={game.title} 
-                className="game-image"
-                loading="lazy"
-                />
-                
-                <h5>{title}</h5>
-              </Link>
-            </div>
-          );
-        })}
-
-        {/* "Ver más" */}
-        {getGameByCategory(category).length > maxGames && (
-          <div className="col">
-            <Link href={`/${category}`} className="see-more">
-              Ver más de <span className="link">{category} ➡️</span>
-            </Link>
-          </div>
-        )}
+              return (
+                <div key={category} className="principal-games">
+                  <h3>{translatedCategory}</h3>
+                  <SmallBlockCategory category={category} translatedCategory={translatedCategory} />
+                </div>
+              );
+            })
+          }
+        </div>
       </div>
     </>
   );
