@@ -51,7 +51,11 @@ export default function SmallBlocks() {
               return (
                 <div key={category} className="principal-games">
                   <h3>{translatedCategory}</h3>
-                  <SmallBlockCategory category={category} translatedCategory={translatedCategory} />
+                  <SmallBlockCategory 
+                    category={category} 
+                    translatedCategory={translatedCategory} 
+                    games={games.filter(game => game.categories.includes(category))}
+                  />
                 </div>
               );
             })

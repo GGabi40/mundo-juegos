@@ -1,2 +1,63 @@
 @use "../base/variables" as v;
 @use "../base/mixins" as m;
+
+.games-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,
+            minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    justify-items: center;
+    align-items: start;
+
+    @media (max-width: 768px) {
+        grid-template-columns: repeat(auto-fill,
+                minmax(200px, 1fr));
+    }
+
+    .game-item {
+        background: v.$fondo;
+        border-radius: 12px;
+        padding: 15px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        width: 100%;
+        text-align: center;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+        &:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .game-image {
+            border-radius: 10px;
+            transition: transform 0.3s ease;
+        }
+
+        h5 {
+            margin-top: 10px;
+            font-family: v.$fuente_especial;
+            color: v.$yellow;
+            font-size: 16px;
+            text-transform: capitalize;
+            transition: color 0.3s ease;
+
+            &:hover {
+                color: v.$green;
+                cursor: pointer;
+            }
+        }
+
+        &:hover .game-image {
+            transform: scale(1.1);
+        }
+    }
+
+    p {
+        text-align: center;
+        color: v.$gray;
+        font-size: 18px;
+        font-family: v.$fuente_principal;
+        margin-top: 20px;
+    }
+}
