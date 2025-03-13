@@ -1,8 +1,10 @@
+"use client";
+
+import { useEffect, useState } from "react";
+
 import LOGO from "/public/images/LOGO.webp";
 import Image from "next/image";
 import Link from "next/link";
-
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 interface Image {
   [key: string]: string[];
@@ -32,7 +34,17 @@ const images: Image = {
   "music": ['Música', 'images/categories/music.webp'],
 }
 
-export default function Home() {
+export default function Nav() {
+  /* const [clickedCategories, setClickedCategories] = useState([]);
+
+  useEffect(() => {
+    const savedCategories = JSON.parse(localStorage.getItem("clickedCategories")) || [];
+    setClickedCategories(savedCategories);
+  }, []) */
+
+  // Si no hay juegos : <Error />
+  // traducir juegos antes de tocar -> ir a link traducido
+
   return (
     <>
       <nav>

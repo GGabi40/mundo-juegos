@@ -2,8 +2,11 @@ import "../../styles/app.scss";
 
 import Nav from "../Components/Nav";
 
-// Página BASE en donde estarán las categorías disponibles
+
 export default function GameCategories({ params }: { params: { categoria: string } }) {
+  // Cada juego: verificar si es la categoría -> mostrar
+  // traducir juegos
+
   return (
     <div>
       <Nav />
