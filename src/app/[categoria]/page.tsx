@@ -1,9 +1,46 @@
+"use client";
+
 import "../../styles/app.scss";
 
-import Nav from "../Components/Nav";
+import { useState, useEffect } from "react";
+import { categoryTranslations } from "@/utils/categoryTranslations";
+import fetchGames from "@/utils/fetchGames";
 
-// Página BASE en donde estarán las categorías disponibles
+import Error from "../Components/Error";
+import Nav from "../Components/Nav";
+import CategoryGames from "../Components/CategoryGames";
+
+interface Game {
+  id: number;
+  title: string;
+  author: string;
+  image: string;
+  video: string;
+  description: string;
+  iframeCode: string;
+  categories: string[];
+  gameURL: string;
+}
+
 export default function GameCategories({ params }: { params: { categoria: string } }) {
+  const [games, setGames] = useState<Game[]>([]);
+  const cat = params.categoria;
+  const category = cat.charAt(0).toUpperCase() + cat.slice(1).toLowerCase();
+
+  const normalizedCategory = category.charAt(0).toUpperCase() + category.slice(1).toLowerCase();
+
+  useEffect(() => {
+    fetchGames()
+      .then((data: Game[]) => setGames(data))
+      .catch(e => console.error("¡Algo pasó! ", e));
+  }, []);
+
+  if(!categoryTranslations[normalizedCategory]) {
+    return <Error />
+  }
+
+  const filteredGames = games.filter((game) => game.categories.includes(category));
+
   return (
     <div>
       <Nav />
@@ -14,7 +51,11 @@ export default function GameCategories({ params }: { params: { categoria: string
             <a href="/">⬅️ Volver</a>
           </div>
 
-          <h1>Juegos de {params.categoria}</h1>
+          <h1>Juegos de {categoryTranslations[normalizedCategory]}</h1>
+
+          <CategoryGames
+            games={filteredGames}
+          />
         </div>
       </div>
     </div>

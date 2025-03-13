@@ -1,8 +1,8 @@
+"use client";
+
 import LOGO from "/public/images/LOGO.webp";
 import Image from "next/image";
 import Link from "next/link";
-
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 interface Image {
   [key: string]: string[];
@@ -26,13 +26,13 @@ const images: Image = {
   "dress": ['Vestir', 'images/categories/dressUp.webp'],
   "scape": ['Escape', 'images/categories/scape.webp'],
   "horror": ['Terror', 'images/categories/horror.webp'],
-  "medic": ['Médico', 'images/categories/medic.webp'],
+  "kids": ['Niños', 'images/categories/kids.webp'],
   "educational": ['Educacional', 'images/categories/educational.webp'],
-  "math": ['Matemáticas', 'images/categories/math.webp'],
   "music": ['Música', 'images/categories/music.webp'],
 }
 
-export default function Home() {
+export default function Nav() {
+
   return (
     <>
       <nav>
