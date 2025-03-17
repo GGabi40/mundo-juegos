@@ -46,7 +46,7 @@ export default function Nav() {
                 <Link
                   key={key}
                   href={`/${key}`}
-                  className={`category-link ${key}`}
+                  className={`category-link`}
                 >
                   <Image src={`/${images[key][1]}`} width={20} height={20} alt={key} className="image-category-link" loading="lazy" />
                   <span className="image-nav">

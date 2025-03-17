@@ -62,3 +62,102 @@ footer .container {
   right: 220px;
   text-align: center;
 }
+
+
+@include m.desktop {
+  .footer {
+    left: 165px;
+    padding: 15px 0;
+  }
+
+  footer .container {
+    right: 180px;
+  }
+
+  .social-icons a {
+    font-size: 20px;
+    margin: 0 8px;
+  }
+
+  .list-inline-item a {
+    font-size: 1.2rem;
+  }
+}
+
+@include m.tablet {
+  .footer {
+    left: 165px;
+    padding: 12px 0;
+  }
+
+  footer .container {
+    right: 150px;
+  }
+
+  .social-icons a {
+    font-size: 18px;
+    margin: 0 6px;
+  }
+
+  .list-inline-item a {
+    font-size: 1.1rem;
+  }
+}
+
+@include m.telefono {
+  .footer {
+    left: 165px;
+    padding: 10px 0;
+  }
+
+  footer .container {
+    right: 0;
+  }
+
+  .social-icons a {
+    font-size: 16px;
+    margin: 0 5px;
+  }
+
+  .list-inline-item a {
+    font-size: 1rem;
+  }
+}
+
+@include m.mobile-lg {
+  .footer {
+    padding: 8px 0;
+  }
+
+  footer .container {
+    right: 0;
+  }
+
+  .social-icons a {
+    font-size: 14px;
+    margin: 0 4px;
+  }
+
+  .list-inline-item a {
+    font-size: 0.9rem;
+  }
+}
+
+@include m.mobile {
+  .footer {
+    padding: 6px 0;
+  }
+
+  footer .container {
+    right: 0;
+  }
+
+  .social-icons a {
+    font-size: 12px;
+    margin: 0 3px;
+  }
+
+  .list-inline-item a {
+    font-size: 0.8rem;
+  }
+}

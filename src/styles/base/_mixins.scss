@@ -6,8 +6,26 @@
   }
 }
 
+@mixin tablet {
+  @media (max-width: 768px) {
+      @content;
+  }
+}
+
 @mixin telefono {
   @media (max-width: 570px) {
+      @content;
+  }
+}
+
+@mixin mobile-lg {
+  @media (max-width: 480px) {
+      @content;
+  }
+}
+
+@mixin mobile {
+  @media (max-width: 320px) {
       @content;
   }
 }

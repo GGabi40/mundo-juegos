@@ -214,35 +214,127 @@
   color: v.$yellow;
 }
 
+ 
 @include m.desktop {
-  nav > a > img {
-    width: 150px;
-    height: 150px;
-  }
-// ESPACIOS VACIOS NO GUSTAN
   .container {
     max-width: 80%;
-    // overflow-x: hidden;
+    margin-left: 200px;
+  }
 
-    row {
-      gap: 5px;
-    }
+  .row {
+    gap: 5px;
+  }
+
+  .w-games {
+    gap: 15px;
+  }
+
+  nav > a > img {
+    width: 120px;
+    height: 120px;
   }
 }
+/*
+@include m.tablet {
+  .container {
+    margin-left: 15px;
+    padding-top: 15px;
+  }
 
-// TODO: Add a MOBILE VERSION
-@include m.telefono {
+  .title {
+    font-size: 18px;
+  }
+
+  .w-games {
+    gap: 10px;
+  }
+
   nav > a > img {
     width: 100px;
     height: 100px;
   }
 
-  .container {
-    max-width: 50%;
-
-    row {
-      gap: 10px;
-    }
+  .see-more {
+    padding: 12px;
+    max-width: 180px;
   }
 }
-// COMPU CHICA 1000px aprox
+
+@include m.telefono {
+  .container {
+    margin-left: 0;
+    padding-top: 10px;
+  }
+
+  .title {
+    font-size: 16px;
+  }
+
+  .w-games {
+    gap: 5px;
+    flex-direction: column;
+  }
+
+  nav > a > img {
+    width: 80px;
+    height: 80px;
+  }
+
+  .see-more {
+    padding: 10px;
+    max-width: 160px;
+  }
+
+  .col {
+    flex-direction: row;
+  }
+}
+
+@include m.mobile-lg {
+  .container {
+    padding-top: 5px;
+  }
+
+  .title {
+    font-size: 14px;
+  }
+
+  .w-games {
+    gap: 5px;
+  }
+
+  nav > a > img {
+    width: 70px;
+    height: 70px;
+  }
+
+  .see-more {
+    padding: 8px;
+    max-width: 140px;
+  }
+}
+
+@include m.mobile {
+  .container {
+    padding-top: 0;
+  }
+
+  .title {
+    font-size: 12px;
+  }
+
+  .w-games {
+    gap: 3px;
+  }
+
+  nav > a > img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .see-more {
+    padding: 6px;
+    max-width: 120px;
+  }
+}
+ */
