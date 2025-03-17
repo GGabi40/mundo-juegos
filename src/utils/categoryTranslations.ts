@@ -13,7 +13,6 @@ const categoryTranslations: Record<string, string> = {
     "Cars": 'Autos',
     "Bike": 'Motos',
     "Fashion": 'Moda',
-    "Dress Up": 'Vestir',
     "Escape": 'Escape',
     "Horror": 'Terror',
     "Medic": 'Médico',
