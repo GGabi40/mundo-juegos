@@ -4,12 +4,12 @@ import { useState, useEffect } from "react";
 import "../../../styles/app.scss";
 import fetchGames from "@/utils/fetchGames";
 
-import Nav from "../../Components/Nav";
-import Footer from "../../Components/Footer";
+import Nav from "../../Components/nav/Nav";
+import Footer from "../../Components/footer/Footer";
 import GameInfo from "./GameInfo";
 import GameIframe from "./GameIframe";
-import Error from "@/app/Components/Error";
-import "../../../utils/fontAwesome";
+import Error from "../../Components/error/Error";
+import "@fontAwesome";
 
 export default function BaseJuegos({ params }: { params: { juego: string } }) {
   const [game, setGame] = useState<any>(null);

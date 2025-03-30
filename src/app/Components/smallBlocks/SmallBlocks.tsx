@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 import fetchGames from "@/utils/fetchGames";
 import { categoryTranslations } from "@/utils/categoryTranslations";
 
-import SmallBlockCategory from "./SmallBlocksCategory";
+import SmallBlockCategory from "../smallBlocksCategory/SmallBlocksCategory";
 
 interface Game {
   id: number;

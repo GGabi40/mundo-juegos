@@ -1,7 +1,7 @@
-import "../../styles/app.scss";
-import "../../utils/fontAwesome";
+import "../../../styles/app.scss";
+import "../../../utils/fontAwesome";
 
-import Nav from './Nav';
+import Nav from '../nav/Nav';
 
 export default function Error() {
   return (

@@ -6,9 +6,9 @@ import { useState, useEffect } from "react";
 import { categoryTranslations } from "@/utils/categoryTranslations";
 import fetchGames from "@/utils/fetchGames";
 
-import Error from "../Components/Error";
-import Nav from "../Components/Nav";
-import CategoryGames from "../Components/CategoryGames";
+import Error from "../Components/error/Error";
+import Nav from "../Components/nav/Nav";
+import CategoryGames from "../Components/categoryGames/CategoryGames";
 
 interface Game {
   id: number;

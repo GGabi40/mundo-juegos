@@ -4,10 +4,10 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "../styles/app.scss";
 
 import "./layout";
-import Nav from "./Components/Nav";
-import MainTable from "./Components/MainTable";
-import SmallBlocks from "./Components/SmallBlocks";
-import Footer from "./Components/Footer";
+import Nav from "./Components/nav/Nav";
+import MainTable from "./Components/mainTable/MainTable";
+import SmallBlocks from "./Components/smallBlocks/SmallBlocks";
+import Footer from "./Components/footer/Footer";
 
 import '../utils/fontAwesome';
 

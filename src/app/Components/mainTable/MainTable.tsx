@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 
-import PrincipalGames from "./PrincipalGames";
+import PrincipalGames from "../principalGames/PrincipalGames";
 
 export default function MainTable() {
   const principalPhrases = ['¡Explora y diviértete!', '¡Hola!', '¡Disfruta jugando!'];
